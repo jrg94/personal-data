@@ -3,6 +3,17 @@
 The data in this folder is all health related data. Each file is described
 in more detail below.
 
+## Fitbit
+
+The fitbit.csv file contains data backed up from my personal fitbit
+account. The data is organized into daily rows where dates may
+be duplicated. The columns are defined as follows:
+
+- **Date** [Ordinal]: the date of the Fitbit event
+- **Steps** [Ratio]: the number of steps completed in a given day
+- **Weight** [Ratio]: the weight provided by a scale (may have more than one measure per day)
+- **Body Fat %** [Ratio]: the body fat percentage provided by a scale (may have more than one measure per day)
+
 ## Weightlifting
 
 The weightlifting.csv file contains data related to weightlifting. The
