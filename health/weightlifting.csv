@@ -298,6 +298,10 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 7/11/2019,Dumbbell Tricep Extensions,Triceps,3,15,41,20,FALSE,Unknown,Fitbod,TRUE
 7/15/2019,Dumbbell Bicep Curls,Biceps,3,5,13,30,FALSE,Unknown,Fitbod,TRUE
 7/15/2019,Dumbbell Tricep Extensions,Triceps,3,10,30,30,FALSE,Unknown,Fitbod,FALSE
+7/15/2019,Side Raises to Front Raises,Deltoids,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
+7/20/2019,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE
+7/20/2019,Dumbbell Hammer Curls,Biceps,4,8,28,25,FALSE,Unknown,Fitbod,TRUE
+7/20/2019,Dumbbell Chest Press,Chest,3,12,36,30,FALSE,Unknown,Fitbod,TRUE
 5/3/2020,Dumbbell Tricep Extensions,Triceps,3,10,30,20,FALSE,Unknown,Spreadsheet,TRUE
 5/7/2020,Dumbbell Kickbacks,Triceps,2,15,30,10,FALSE,Unknown,Spreadsheet,TRUE
 5/8/2020,Dumbbell Tricep Extensions,Triceps,1,1,1,40,FALSE,Unknown,Spreadsheet,TRUE
