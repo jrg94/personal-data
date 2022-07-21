@@ -357,3 +357,6 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 7/19/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE
 7/19/2022,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Easy,Self,TRUE
 7/19/2022,Dumbbell Calf Raises,Calves,3,10,30,30,TRUE,Easy,Self,TRUE
+7/20/2022,Dumbbell Squats,Quads,3,8,24,30,FALSE,Easy,Self,TRUE
+7/21/2022,Dumbbell Concentration Curls,,3,8,24,30,FALSE,Normal,Self,TRUE
+7/21/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE
