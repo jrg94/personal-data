@@ -308,6 +308,8 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 8/1/2019,Dumbbell Shoulder Press,Deltoids,5,6,30,30,FALSE,Unknown,Fitbod,TRUE
 8/1/2019,Dumbbell Lunges,Quads,5,2,10,30,FALSE,Unknown,Fitbod,TRUE
 8/1/2019,Reverse Flys,Back,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
+8/1/2019,Dumbbell Squats,Quads,1,5,5,30,FALSE,Unknown,Fitbod,TRUE
+8/2/2019,Zottman Curls,Biceps,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
 5/3/2020,Dumbbell Tricep Extensions,Triceps,3,10,30,20,FALSE,Unknown,Spreadsheet,TRUE
 5/7/2020,Dumbbell Kickbacks,Triceps,2,15,30,10,FALSE,Unknown,Spreadsheet,TRUE
 5/8/2020,Dumbbell Tricep Extensions,Triceps,1,1,1,40,FALSE,Unknown,Spreadsheet,TRUE
@@ -367,3 +369,4 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 7/21/2022,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE
 7/21/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE
 7/22/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE
+7/22/2022,Hand Grips,Forearms,3,40,120,22,FALSE,Easy,Self,TRUE
