@@ -325,6 +325,12 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 8/16/2019,Dumbbell Romanian Deadlift,Glutes,3,15,45,25,FALSE,Unknown,Fitbod,TRUE
 8/20/2019,Dumbbell Shoulder Press,Deltoids,5,5,25,35,FALSE,Unknown,Fitbod,TRUE
 8/20/2019,Dumbbell Bicep Curls,Biceps,1,15,15,20,FALSE,Unknown,Fitbod,TRUE
+8/21/2019,Dumbbell Tricep Extensions,Triceps,4,8,32,30,FALSE,Unknown,Fitbod,FALSE
+8/21/2019,Dumbbell Kickbacks,Triceps,1,12,12,10,FALSE,Unknown,Fitbod,TRUE
+8/25/2019,Dumbbell Shoulder Press,Deltoids,3,12,36,30,FALSE,Unknown,Fitbod,TRUE
+8/25/2019,Dumbbell Bent Over Rows,Back,4,10,46,30,FALSE,Unknown,Fitbod,TRUE
+8/25/2019,Front Shoulder Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
+9/1/2019,Dumbbell Shoulder Press,Deltoids,5,5,25,40,FALSE,Unknown,Fitbod,TRUE
 5/3/2020,Dumbbell Tricep Extensions,Triceps,3,10,30,20,FALSE,Unknown,Spreadsheet,TRUE
 5/7/2020,Dumbbell Kickbacks,Triceps,2,15,30,10,FALSE,Unknown,Spreadsheet,TRUE
 5/8/2020,Dumbbell Tricep Extensions,Triceps,1,1,1,40,FALSE,Unknown,Spreadsheet,TRUE
