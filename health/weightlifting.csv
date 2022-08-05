@@ -365,6 +365,22 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 5/18/2020,Dumbbell Shoulder Press,Deltoids,4,5,40,30,FALSE,Unknown,Fitbod,TRUE
 8/3/2020,Dumbbell Bicep Curls,Biceps,2,5,10,10,FALSE,Unknown,Fitbod,TRUE
 8/3/2020,Dumbbell Hammer Curls,Biceps,2,17,34,10,FALSE,Unknown,Fitbod,TRUE
+8/4/2020,Dumbbell Lunges,Quads,3,8,24,10,FALSE,Unknown,Fitbod,TRUE
+8/4/2020,Front Shoulder Raises,Deltoids,2,12,24,10,FALSE,Unknown,Fitbod,TRUE
+8/4/2020,Side Shoulder Raises,Deltoids,2,20,40,5,FALSE,Unknown,Fitbod,TRUE
+8/24/2020,Front Shoulder Raises,Deltoids,4,11,44,10,FALSE,Unknown,Fitbod,TRUE
+8/24/2020,Dumbbell Bent Over Rows,Back,4,5,38,10,FALSE,Unknown,Fitbod,TRUE
+10/26/2020,Dumbbell Shoulder Press,Deltoids,2,18,36,10,FALSE,Unknown,Fitbod,TRUE
+10/26/2020,Reverse Flys,Back,3,19,39,5,FALSE,Unknown,Fitbod,TRUE
+11/9/2020,Dumbbell Lunges,Quads,4,5,16,10,FALSE,Unknown,Fitbod,TRUE
+11/9/2020,Dumbbell Hammer Curls,Biceps,5,12,60,10,FALSE,Unknown,Fitbod,TRUE
+11/23/2020,Dumbbell Squats,Quads,3,9,27,10,FALSE,Unknown,Fitbod,TRUE
+11/23/2020,Dumbbell Bent Over Rows,Back,4,8,42,10,FALSE,Unknown,Fitbod,TRUE
+11/30/2020,Reverse Flys,Back,3,20,60,5,FALSE,Unknown,Fitbod,TRUE
+12/8/2020,Dumbbell Shoulder Press,Deltoids,4,8,48,10,FALSE,Unknown,Fitbod,TRUE
+12/8/2020,Dumbbell Concentration Curls,Biceps,1,12,12,25,FALSE,Unknown,Fitbod,TRUE
+12/8/2020,Dumbbell Bicep Curls,Biceps,1,10,10,25,FALSE,Unknown,Fitbod,TRUE
+12/14/2020,Russian Twists,Abs,3,22,66,20,FALSE,Unknown,Fitbod,TRUE
 10/24/2021,Dumbbell Chest Press,Chest,4,8,48,30,FALSE,Unknown,Fitbod,TRUE
 10/24/2021,Front Shoulder Raises,Deltoids,23,10,230,5,FALSE,Unknown,Fitbod,TRUE
 10/25/2021,Dumbbell Bicep Curls,Biceps,4,4,25,20,FALSE,Unknown,Fitbod,TRUE
@@ -443,3 +459,5 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 8/3/2022,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Normal,Self,TRUE
 8/3/2022,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Hard,Self,TRUE
 8/4/2022,Hand Grips,Forearms,5,5,25,100,FALSE,Hard,Self,TRUE
+8/4/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Hard,Self,TRUE
+8/4/2022,Dumbbell Bent Over Rows,Back,3,10,30,30,FALSE,Easy,Self,TRUE
