@@ -383,6 +383,7 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 12/8/2020,Dumbbell Concentration Curls,Biceps,1,12,12,25,FALSE,Unknown,Fitbod,TRUE
 12/8/2020,Dumbbell Bicep Curls,Biceps,1,10,10,25,FALSE,Unknown,Fitbod,TRUE
 12/14/2020,Russian Twists,Abs,3,22,66,20,FALSE,Unknown,Fitbod,TRUE
+1/4/2021,Arnold Dumbbell Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE
 1/6/2021,Dumbbell Chest Press,Chest,2,13,26,30,FALSE,Unknown,Fitbod,TRUE
 1/8/2021,Dumbbell Kickbacks,Triceps,3,10,30,5,FALSE,Unknown,Fitbod,TRUE
 1/11/2021,Dumbbell Romanian Deadlift,Glutes,5,4,20,40,FALSE,Unknown,Fitbod,TRUE
@@ -391,6 +392,27 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 1/13/2021,Dumbbell Bicep Curls,Biceps,4,18,72,5,FALSE,Unknown,Fitbod,TRUE
 1/15/2021,Dumbbell Lunges,Quads,3,19,57,5,FALSE,Unknown,Fitbod,TRUE
 1/15/2021,Dumbbell Chest Press,Chest,4,10,40,40,FALSE,Unknown,Fitbod,TRUE
+1/15/2021,Dumbbell Sumo Squat,Quads,4,5,20,40,FALSE,Unknown,Fitbod,TRUE
+1/18/2021,Dumbbell Shoulder Press,Deltoids,4,14,56,10,FALSE,Unknown,Fitbod,TRUE
+1/18/2021,Dumbbell Bent Over Rows,Back,5,14,70,10,FALSE,Unknown,Fitbod,TRUE
+1/18/2021,Front Shoulder Raises,Deltoids,5,8,40,5,FALSE,Unknown,Fitbod,TRUE
+1/20/2021,Dumbbell Squats,Quads,2,10,20,30,FALSE,Unknown,Fitbod,FALSE
+1/20/2021,Dumbbell Romanian Deadlift,Glutes,2,17,34,30,FALSE,Unknown,Fitbod,TRUE
+1/22/2021,Dumbbell Squats,Quads,5,5,30,10,FALSE,Unknown,Fitbod,TRUE
+1/22/2021,Dumbbell Hammer Curls,Biceps,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
+1/25/2021,Dumbbell Shoulder Press,Deltoids,4,8,45,10,FALSE,Unknown,Fitbod,TRUE
+1/25/2021,Dumbbell Bent Over Rows,Back,3,15,45,10,FALSE,Unknown,Fitbod,TRUE
+1/25/2021,Dumbbell Shoulder Press,Deltoids,3,14,42,5,FALSE,Unknown,Fitbod,TRUE
+2/1/2021,Dumbbell Concentration Curls,Biceps,3,9,27,30,FALSE,Unknown,Fitbod,TRUE
+2/1/2021,Dumbbell Bicep Curls,Biceps,2,3,6,30,FALSE,Unknown,Fitbod,TRUE
+5/17/2021,Arnold Dumbbell Press,Deltoids,5,8,40,20,FALSE,Unknown,Fitbod,TRUE
+5/17/2021,Front Shoulder Raises,Deltoids,5,9,45,4,FALSE,Unknown,Fitbod,TRUE
+5/17/2021,Reverse Flys,Back,4,14,56,5,FALSE,Unknown,Fitbod,TRUE
+5/19/2021,Dumbbell Lunges,Quads,2,15,30,5,FALSE,Unknown,Fitbod,TRUE
+5/21/2021,Dumbbell Concentration Curls,Biceps,2,8,16,25,FALSE,Unknown,Fitbod,TRUE
+5/21/2021,Dumbbell Chest Press,Chest,2,20,40,15,FALSE,Unknown,Fitbod,TRUE
+5/25/2021,Side Shoulder Raises,Deltoids,4,15,60,5,FALSE,Unknown,Fitbod,TRUE
+5/26/2021,Dumbbell Squats,Quads,3,10,30,5,FALSE,Unknown,Fitbod,TRUE
 10/24/2021,Dumbbell Chest Press,Chest,4,8,48,30,FALSE,Unknown,Fitbod,TRUE
 10/24/2021,Front Shoulder Raises,Deltoids,23,10,230,5,FALSE,Unknown,Fitbod,TRUE
 10/25/2021,Dumbbell Bicep Curls,Biceps,4,4,25,20,FALSE,Unknown,Fitbod,TRUE
