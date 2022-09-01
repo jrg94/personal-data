@@ -518,7 +518,7 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 8/4/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Hard,Self,TRUE
 8/4/2022,Dumbbell Bent Over Rows,Back,3,10,30,30,FALSE,Easy,Self,TRUE
 8/8/2022,Russian Twists,Abs,3,18,54,30,FALSE,Normal,Self,FALSE
-8/8/2022,Dumbbell Concentration Curls,Biceps,3,8,24,39,FALSE,Normal,Self,TRUE
+8/8/2022,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE
 8/8/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE
 8/8/2022,Hand Grips,Forearms,5,5,25,100,FALSE,Hard,Self,TRUE
 8/9/2022,Hand Grips,Forearms,5,5,25,100,FALSE,Hard,Self,TRUE
@@ -549,3 +549,5 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 8/30/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE
 8/31/2022,Dumbbell Rows,Back,3,8,24,60,FALSE,Normal,Self,TRUE
 8/31/2022,Hand Grips,Forearms,5,12,60,100,FALSE,Hard,Self,TRUE
+9/1/2022,Dumbbell Concentration Curls,Biceps,3,8,24,35,FALSE,Normal,Self,TRUE
+9/1/2022,Hand Grips,Forearms,5,12,60,100,FALSE,Hard,Self,TRUE
