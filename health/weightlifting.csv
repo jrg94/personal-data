@@ -1,560 +1,562 @@
-Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Source,Per Arm
-10/4/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-10/4/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-10/4/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE
-10/4/2013,Forearms (Under),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE
-10/4/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-10/4/2013,Dumbbell Rows,Back,3,5,15,36,FALSE,Unknown,Paper,TRUE
-10/4/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-10/4/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-10/4/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE
-10/4/2013,Dumbbell Chest Press,Chest,3,5,15,36,FALSE,Unknown,Paper,TRUE
-10/7/2013,Front Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE
-10/7/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE
-10/7/2013,Forearms (Over),Forearms,3,8,24,14,FALSE,Unknown,Paper,TRUE
-10/7/2013,Forearms (Under),Forearms,3,8,24,14,FALSE,Unknown,Paper,TRUE
-10/7/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/7/2013,Dumbbell Rows,Back,3,8,24,36,FALSE,Unknown,Paper,TRUE
-10/7/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/7/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/7/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/7/2013,Dumbbell Chest Press,Chest,3,8,24,36,FALSE,Unknown,Paper,TRUE
-10/9/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/9/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE
-10/9/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/9/2013,Forearms (Under),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/9/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE
-10/9/2013,Dumbbell Rows,Back,3,8,24,36,FALSE,Unknown,Paper,TRUE
-10/9/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/9/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/9/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/9/2013,Dumbbell Chest Press,Chest,3,8,24,36,FALSE,Unknown,Paper,TRUE
-10/11/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/11/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE
-10/11/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/11/2013,Forearms (Under),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/11/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE
-10/11/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/11/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/11/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/11/2013,Dumbbell Chest Press,Chest,3,8,24,36,FALSE,Unknown,Paper,TRUE
-10/14/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/14/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE
-10/14/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/14/2013,Forearms (Under),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/14/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE
-10/14/2013,Dumbbell Rows,Back,3,8,24,36,FALSE,Unknown,Paper,TRUE
-10/14/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/14/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/14/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/16/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/16/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE
-10/16/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/16/2013,Forearms (Under),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/16/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE
-10/16/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/16/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/16/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,TRUE,Unknown,Paper,TRUE
-10/18/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/18/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE
-10/18/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/18/2013,Forearms (Under),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-10/18/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE
-10/18/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/18/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/18/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,FALSE,Unknown,Paper,TRUE
-10/23/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/23/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/23/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/23/2013,Forearms (Under),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/23/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,30,FALSE,Unknown,Paper,TRUE
-10/23/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-10/23/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE
-10/25/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/25/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/25/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/25/2013,Forearms (Under),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/25/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-10/25/2013,Dumbbell Concentration Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-10/28/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/28/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,30,FALSE,Unknown,Paper,TRUE
-10/28/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/28/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/28/2013,Forearms (Under),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/28/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-10/28/2013,Dumbbell Concentration Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-10/28/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE
-10/30/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/30/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/30/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,30,FALSE,Unknown,Paper,TRUE
-10/30/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/30/2013,Forearms (Under),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-10/30/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-10/30/2013,Dumbbell Concentration Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-10/30/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE
-11/1/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-11/1/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-11/1/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-11/1/2013,Forearms (Under),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-11/1/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,30,FALSE,Unknown,Paper,TRUE
-11/1/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-11/1/2013,Dumbbell Concentration Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-11/1/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE
-11/4/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/4/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/4/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/4/2013,Forearms (Under),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/4/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/4/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/4/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/4/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/6/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/6/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/6/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/6/2013,Forearms (Under),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/6/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/6/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/6/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/6/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/8/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/8/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/8/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/8/2013,Forearms (Under),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/8/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/8/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/8/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/8/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/11/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/11/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/11/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/11/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/11/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/11/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/11/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/13/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/13/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/13/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/13/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/13/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/13/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/13/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/15/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/15/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/15/2013,Dumbbell Squats,Quads,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/15/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE
-11/15/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/15/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/15/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/15/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE
-11/18/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/18/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE
-11/18/2013,Dumbbell Squats,Quads,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/18/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/18/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE
-11/18/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-11/18/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-11/18/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,36,FALSE,Unknown,Paper,TRUE
-11/20/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/20/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE
-11/20/2013,Dumbbell Squats,Quads,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/20/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/20/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE
-11/20/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-11/20/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-11/20/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,36,FALSE,Unknown,Paper,TRUE
-11/22/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/22/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE
-11/22/2013,Dumbbell Squats,Quads,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/22/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/22/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE
-11/22/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-11/22/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-11/22/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,36,FALSE,Unknown,Paper,TRUE
-11/25/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/25/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE
-11/25/2013,Dumbbell Squats,Quads,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/25/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE
-11/25/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE
-11/25/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-11/25/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE
-11/25/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,36,FALSE,Unknown,Paper,TRUE
-12/2/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/2/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/2/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/2/2013,Dumbbell Squats,Quads,4,10,40,20,FALSE,Unknown,Paper,TRUE
-12/2/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-12/2/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-12/2/2013,Dumbbell Concentration Curls,Biceps,4,10,40,30,FALSE,Unknown,Paper,TRUE
-12/2/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE
-12/4/2013,Dumbbell Kickbacks,Triceps,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/4/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/4/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/4/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/4/2013,Dumbbell Squats,Quads,4,10,40,20,FALSE,Unknown,Paper,TRUE
-12/4/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-12/4/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-12/4/2013,Dumbbell Concentration Curls,Biceps,4,10,40,30,FALSE,Unknown,Paper,TRUE
-12/4/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE
-12/4/2013,Dumbbell Rows,Back,4,10,40,30,FALSE,Unknown,Paper,TRUE
-12/6/2013,Dumbbell Kickbacks,Triceps,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/6/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/6/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/6/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-12/6/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-12/6/2013,Dumbbell Concentration Curls,Biceps,4,10,40,30,FALSE,Unknown,Paper,TRUE
-12/6/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE
-12/6/2013,Dumbbell Rows,Back,4,10,40,30,FALSE,Unknown,Paper,TRUE
-12/11/2013,Dumbbell Kickbacks,Triceps,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/11/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/11/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/11/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE
-12/11/2013,Dumbbell Squats,Quads,4,10,40,20,FALSE,Unknown,Paper,TRUE
-12/11/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-12/11/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE
-12/11/2013,Dumbbell Concentration Curls,Biceps,4,10,40,30,FALSE,Unknown,Paper,TRUE
-12/11/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE
-12/11/2013,Dumbbell Rows,Back,4,10,40,30,FALSE,Unknown,Paper,TRUE
-8/28/2018,Dumbbell Shoulder Press,Deltoids,5,6,30,30,FALSE,Unknown,Fitbod,TRUE
-8/28/2018,Dumbbell Lunges,Quads,5,2,10,30,FALSE,Unknown,Fitbod,TRUE
-8/28/2018,Dumbbell Rows,Back,3,10,30,30,FALSE,Unknown,Fitbod,TRUE
-8/28/2018,Dumbbell Bicep Curls,Biceps,3,10,24,24,FALSE,Unknown,Fitbod,TRUE
-8/30/2018,Dumbbell Clean,Quads,2,11,16,10,FALSE,Unknown,Fitbod,TRUE
-8/30/2018,Dumbbell Romanian Deadlift,Glutes,2,20,40,10,FALSE,Unknown,Fitbod,TRUE
-8/30/2018,Single Leg Romanian Deadlift,Glutes,3,5,15,10,FALSE,Unknown,Fitbod,TRUE
-9/1/2018,Dumbbell Skullcrusher,Triceps,4,8,31,24,FALSE,Unknown,Fitbod,TRUE
-9/1/2018,Dumbbell Tricep Extensions,Triceps,3,12,36,24,FALSE,Unknown,Fitbod,TRUE
-9/1/2018,Russian Twists,Abs,3,18,54,10,FALSE,Unknown,Fitbod,FALSE
-9/3/2018,Dumbbell Shoulder Press,Deltoids,3,12,36,24,FALSE,Unknown,Fitbod,TRUE
-9/3/2018,Dumbbell Hammer Curls,Biceps,3,10,30,24,FALSE,Unknown,Fitbod,TRUE
-9/3/2018,Dumbbell Bicep Curls,Biceps,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-9/3/2018,Front Shoulder Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-9/5/2018,Dumbbell Squats,Quads,5,6,30,24,FALSE,Unknown,Fitbod,TRUE
-9/5/2018,Sumo Squats,Quads,3,10,30,24,FALSE,Unknown,Fitbod,TRUE
-9/5/2018,Around the Worlds,Chest,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
-9/8/2018,Dumbbell Shoulder Press,Deltoids,5,5,30,30,FALSE,Unknown,Fitbod,TRUE
-9/8/2018,Dumbbell Rows,Back,4,8,32,30,FALSE,Unknown,Fitbod,TRUE
-9/8/2018,Side Shoulder Raises,Deltoids,3,15,45,10,FALSE,Unknown,Fitbod,TRUE
-9/8/2018,Arnold Dumbbell Press,Deltoids,3,10,32,10,FALSE,Unknown,Fitbod,TRUE
-9/10/2018,Dumbbell Concentration Curls,Biceps,3,10,30,24,FALSE,Unknown,Fitbod,TRUE
-9/10/2018,Zottman Curls,Biceps,3,10,30,14,FALSE,Unknown,Fitbod,TRUE
-9/10/2018,Single Arm Dumbbell Bench Press,Chest,3,10,24,40,FALSE,Unknown,Fitbod,TRUE
-9/13/2018,Dumbbell Shoulder Press,Deltoids,3,12,36,24,FALSE,Unknown,Fitbod,TRUE
-9/13/2018,Side Raises to Front Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-9/15/2018,Dumbbell Rows,Back,5,5,25,50,FALSE,Unknown,Fitbod,TRUE
-9/15/2018,Dumbbell Bent Over Rows,Back,4,8,32,25,FALSE,Unknown,Fitbod,TRUE
-9/15/2018,Around the Worlds,Chest,4,8,32,10,FALSE,Unknown,Fitbod,TRUE
-9/17/2018,Dumbbell Shoulder Press,Deltoids,5,6,30,30,FALSE,Unknown,Fitbod,TRUE
-9/17/2018,Dumbbell Bicep Curls,Biceps,3,10,30,25,FALSE,Unknown,Fitbod,TRUE
-9/17/2018,Single Arm Overhead Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE
-9/21/2018,Dumbbell Shoulder Press,Deltoids,4,8,32,34,FALSE,Unknown,Fitbod,TRUE
-9/21/2018,Dumbbell Rows,Back,3,12,36,34,FALSE,Unknown,Fitbod,TRUE
-9/21/2018,Dumbbell Bent Over Rows,Back,3,12,36,24,FALSE,Unknown,Fitbod,TRUE
-9/21/2018,Front Shoulder Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-9/21/2018,Single Leg Romanian Deadlift,Glutes,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-9/24/2018,Dumbbell Hammer Curls,Biceps,3,12,36,20,FALSE,Unknown,Fitbod,TRUE
-9/24/2018,Dumbbell Chest Press,Chest,5,8,40,40,FALSE,Unknown,Fitbod,TRUE
-9/24/2018,Dumbbell Romanian Deadlift,Glutes,3,10,30,15,FALSE,Unknown,Fitbod,TRUE
-9/24/2018,Dumbbell Kickbacks,Triceps,3,10,30,20,FALSE,Unknown,Fitbod,TRUE
-9/26/2018,Dumbbell Lunges,Quads,5,2,10,30,FALSE,Unknown,Fitbod,TRUE
-9/26/2018,Dumbbell Shoulder Press,Deltoids,4,8,32,30,FALSE,Unknown,Fitbod,TRUE
-9/26/2018,Dumbbell Rows,Back,5,5,25,50,FALSE,Unknown,Fitbod,TRUE
-10/2/2018,Dumbbell Bent Over Rows,Back,2,20,40,30,FALSE,Unknown,Fitbod,TRUE
-10/2/2018,Side Shoulder Raises,Deltoids,2,20,36,10,FALSE,Unknown,Fitbod,TRUE
-10/4/2018,Dumbbell Romanian Deadlift,Glutes,4,8,32,10,FALSE,Unknown,Fitbod,TRUE
-10/4/2018,Dumbbell Clean,Glutes,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
-10/4/2018,Single Leg Romanian Deadlift,Glutes,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
-10/4/2018,Russian Twists,Abs,4,15,60,10,FALSE,Unknown,Fitbod,FALSE
-10/8/2018,Dumbbell Bicep Curls,Biceps,5,6,30,20,FALSE,Unknown,Fitbod,TRUE
-10/8/2018,Single Arm Dumbbell Tricep Extension,Triceps,3,15,45,20,FALSE,Unknown,Fitbod,TRUE
-10/8/2018,Dumbbell Bicep Curls,Biceps,3,15,45,20,FALSE,Unknown,Fitbod,TRUE
-10/8/2018,Dumbbell Skullcrusher,Triceps,3,15,45,20,FALSE,Unknown,Fitbod,TRUE
-10/11/2018,Dumbbell Rows,Back,4,8,32,50,FALSE,Unknown,Fitbod,TRUE
-10/11/2018,Dumbbell Bent Over Rows,Back,3,12,36,40,FALSE,Unknown,Fitbod,TRUE
-10/11/2018,Around the Worlds,Chest,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-10/15/2018,Dumbbell Shoulder Press,Deltoids,5,5,25,40,FALSE,Unknown,Fitbod,TRUE
-10/23/2018,Dumbbell Rows,Back,4,8,32,45,FALSE,Unknown,Fitbod,TRUE
-10/30/2018,Dumbbell Shoulder Press,Deltoids,4,8,32,40,FALSE,Unknown,Fitbod,TRUE
-10/30/2018,Dumbbell Lunges,Quads,5,2,10,40,FALSE,Unknown,Fitbod,TRUE
-10/30/2018,Dumbbell Squats,Quads,4,8,32,20,FALSE,Unknown,Fitbod,TRUE
-11/6/2018,Dumbbell Hammer Curls,Biceps,3,12,36,14,FALSE,Unknown,Fitbod,TRUE
-11/6/2018,Dumbbell Bicep Curls,Biceps,3,20,60,14,FALSE,Unknown,Fitbod,TRUE
-11/6/2018,Dumbbell Bicep Curls,Biceps,3,12,36,14,FALSE,Unknown,Fitbod,TRUE
-11/12/2018,Dumbbell Shoulder Press,Deltoids,4,8,32,40,FALSE,Unknown,Fitbod,TRUE
-11/12/2018,Dumbbell Rows,Back,6,5,33,60,FALSE,Unknown,Fitbod,TRUE
-11/12/2018,Dumbbell Bent Over Rows,Back,2,15,30,40,FALSE,Unknown,Fitbod,TRUE
-11/15/2018,Svend Press,Chest,3,15,45,10,FALSE,Unknown,Fitbod,FALSE
-4/20/2019,Dumbbell Shoulder Press,Deltoids,5,5,25,40,FALSE,Unknown,Fitbod,TRUE
-4/20/2019,Dumbbell Lunges,Quads,2,4,8,40,FALSE,Unknown,Fitbod,TRUE
-4/20/2019,Reverse Flys,Back,3,15,45,10,FALSE,Unknown,Fitbod,TRUE
-4/23/2019,Dumbbell Bicep Curls,Biceps,2,10,20,20,FALSE,Unknown,Fitbod,TRUE
-5/7/2019,Dumbbell Hammer Curls,Biceps,4,5,20,30,FALSE,Unknown,Fitbod,TRUE
-5/9/2019,Dumbbell Shoulder Press,Deltoids,3,6,18,40,FALSE,Unknown,Fitbod,TRUE
-6/24/2019,Front Shoulder Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-6/24/2019,Dumbbell Shoulder Press,Deltoids,3,12,36,20,FALSE,Unknown,Fitbod,TRUE
-6/28/2019,Side Shoulder Raises,Deltoids,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
-6/28/2019,Dumbbell Shoulder Press,Deltoids,5,6,30,30,FALSE,Unknown,Fitbod,TRUE
-7/8/2019,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE
-7/11/2019,Dumbbell Bicep Curls,Biceps,2,15,25,20,FALSE,Unknown,Fitbod,TRUE
-7/11/2019,Dumbbell Tricep Extensions,Triceps,3,15,41,20,FALSE,Unknown,Fitbod,TRUE
-7/15/2019,Dumbbell Bicep Curls,Biceps,3,5,13,30,FALSE,Unknown,Fitbod,TRUE
-7/15/2019,Dumbbell Tricep Extensions,Triceps,3,10,30,30,FALSE,Unknown,Fitbod,FALSE
-7/15/2019,Side Raises to Front Raises,Deltoids,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
-7/20/2019,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE
-7/20/2019,Dumbbell Hammer Curls,Biceps,4,8,28,25,FALSE,Unknown,Fitbod,TRUE
-7/20/2019,Dumbbell Chest Press,Chest,3,12,36,30,FALSE,Unknown,Fitbod,TRUE
-7/25/2019,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE
-7/25/2019,Dumbbell Bent Over Rows,Back,4,8,32,30,FALSE,Unknown,Fitbod,TRUE
-7/27/2019,Dumbbell Concentration Curls,Biceps,5,6,30,30,FALSE,Unknown,Fitbod,TRUE
-8/1/2019,Dumbbell Shoulder Press,Deltoids,5,6,30,30,FALSE,Unknown,Fitbod,TRUE
-8/1/2019,Dumbbell Lunges,Quads,5,2,10,30,FALSE,Unknown,Fitbod,TRUE
-8/1/2019,Reverse Flys,Back,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
-8/1/2019,Dumbbell Squats,Quads,1,5,5,30,FALSE,Unknown,Fitbod,TRUE
-8/2/2019,Zottman Curls,Biceps,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-8/2/2019,Dumbbell Kickbacks,Triceps,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
-8/2/2019,Front Shoulder Raises,Deltoids,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
-8/5/2019,Dumbbell Bent Over Rows,Back,5,5,25,30,FALSE,Unknown,Fitbod,TRUE
-8/5/2019,Dumbbell Shoulder Press,Deltoids,4,8,32,30,FALSE,Unknown,Fitbod,TRUE
-8/8/2019,Dumbbell Shoulder Press,Deltoids,5,6,30,35,FALSE,Unknown,Fitbod,TRUE
-8/8/2019,Dumbbell Bicep Curls,Biceps,5,5,24,30,FALSE,Unknown,Fitbod,TRUE
-8/9/2019,Single Arm Dumbbell Tricep Extension,Triceps,5,5,25,25,FALSE,Unknown,Fitbod,TRUE
-8/9/2019,Dumbbell Tricep Extensions,Triceps,4,20,85,15,FALSE,Unknown,Fitbod,FALSE
-8/9/2019,Single Leg Romanian Deadlift,Glutes,1,10,10,20,FALSE,Unknown,Fitbod,TRUE
-8/12/2019,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE
-8/12/2019,Dumbbell Bent Over Rows,Back,4,8,56,25,FALSE,Unknown,Fitbod,TRUE
-8/13/2019,Dumbbell Hammer Curls,Biceps,4,8,32,25,FALSE,Unknown,Fitbod,TRUE
-8/16/2019,Dumbbell Romanian Deadlift,Glutes,3,15,45,25,FALSE,Unknown,Fitbod,TRUE
-8/20/2019,Dumbbell Shoulder Press,Deltoids,5,5,25,35,FALSE,Unknown,Fitbod,TRUE
-8/20/2019,Dumbbell Bicep Curls,Biceps,1,15,15,20,FALSE,Unknown,Fitbod,TRUE
-8/21/2019,Dumbbell Tricep Extensions,Triceps,4,8,32,30,FALSE,Unknown,Fitbod,FALSE
-8/21/2019,Dumbbell Kickbacks,Triceps,1,12,12,10,FALSE,Unknown,Fitbod,TRUE
-8/25/2019,Dumbbell Shoulder Press,Deltoids,3,12,36,30,FALSE,Unknown,Fitbod,TRUE
-8/25/2019,Dumbbell Bent Over Rows,Back,4,10,46,30,FALSE,Unknown,Fitbod,TRUE
-8/25/2019,Front Shoulder Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-9/1/2019,Dumbbell Shoulder Press,Deltoids,5,5,25,40,FALSE,Unknown,Fitbod,TRUE
-9/1/2019,Dumbbell Bicep Curls,Biceps,4,10,33,25,FALSE,Unknown,Fitbod,TRUE
-9/4/2019,Dumbbell Bent Over Rows,Back,4,8,32,40,FALSE,Unknown,Fitbod,TRUE
-9/6/2019,Dumbbell Shoulder Press,Deltoids,5,6,30,40,FALSE,Unknown,Fitbod,TRUE
-9/12/2019,Dumbbell Shoulder Press,Deltoids,4,10,46,30,FALSE,Unknown,Fitbod,TRUE
-3/20/2020,Dumbbell Bicep Curls,Biceps,4,8,32,20,FALSE,Unknown,Fitbod,TRUE
-5/2/2020,Dumbbell Lunges,Quads,4,4,19,10,FALSE,Unknown,Fitbod,TRUE
-5/2/2020,Dumbbell Hammer Curls,Biceps,3,12,36,20,FALSE,Unknown,Fitbod,TRUE
-5/2/2020,Dumbbell Squats,Quads,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-5/3/2020,Dumbbell Shoulder Press,Deltoids,3,12,36,20,FALSE,Unknown,Fitbod,TRUE
-5/3/2020,Dumbbell Bent Over Rows,Back,3,13,39,20,FALSE,Unknown,Fitbod,TRUE
-5/3/2020,Front Shoulder Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-5/3/2020,Side Shoulder Raises,Deltoids,3,8,36,10,FALSE,Unknown,Fitbod,TRUE
-5/3/2020,Dumbbell Tricep Extensions,Triceps,3,10,30,20,FALSE,Unknown,Spreadsheet,TRUE
-5/5/2020,Dumbbell Bicep Curls,Biceps,3,8,24,25,FALSE,Unknown,Fitbod,TRUE
-5/5/2020,Dumbbell Concentration Curls,Biceps,2,5,10,30,FALSE,Unknown,Fitbod,TRUE
-5/5/2020,Dumbbell Chest Press,Chest,2,11,22,30,FALSE,Unknown,Fitbod,TRUE
-5/6/2020,Dumbbell Romanian Deadlift,Glutes,4,8,32,20,FALSE,Unknown,Fitbod,TRUE
-5/7/2020,Dumbbell Kickbacks,Triceps,2,15,30,10,FALSE,Unknown,Spreadsheet,TRUE
-5/8/2020,Dumbbell Tricep Extensions,Triceps,1,1,1,40,FALSE,Unknown,Spreadsheet,TRUE
-5/9/2020,Reverse Flys,Back,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
-5/9/2020,Dumbbell Bicep Curls,Biceps,3,9,27,10,FALSE,Unknown,Fitbod,TRUE
-5/9/2020,Single Leg Romanian Deadlift,Glutes,2,8,16,10,FALSE,Unknown,Fitbod,TRUE
-5/10/2020,Dumbbell Bent Over Rows,Back,4,8,32,20,FALSE,Unknown,Fitbod,TRUE
-5/11/2020,Dumbbell Lunges,Quads,3,5,15,10,FALSE,Unknown,Fitbod,TRUE
-5/14/2020,Dumbbell Shoulder Press,Deltoids,4,8,32,20,FALSE,Unknown,Fitbod,TRUE
-5/14/2020,Dumbbell Tricep Extensions,Triceps,3,5,15,20,FALSE,Unknown,Fitbod,TRUE
-5/14/2020,Dumbbell No Money Curls,Biceps,3,8,24,20,FALSE,Unknown,Fitbod,TRUE
-5/14/2020,Dumbbell Hammer Curls,Biceps,3,10,27,20,FALSE,Unknown,Fitbod,TRUE
-5/15/2020,Dumbbell Lunges,Quads,4,4,16,10,FALSE,Unknown,Fitbod,TRUE
-5/15/2020,Dumbbell Bent Over Rows,Back,5,5,25,20,FALSE,Unknown,Fitbod,TRUE
-5/15/2020,Russian Twists,Abs,4,22,88,10,FALSE,Unknown,Fitbod,FALSE
-5/18/2020,Dumbbell Shoulder Press,Deltoids,4,5,40,30,FALSE,Unknown,Fitbod,TRUE
-8/3/2020,Dumbbell Bicep Curls,Biceps,2,5,10,10,FALSE,Unknown,Fitbod,TRUE
-8/3/2020,Dumbbell Hammer Curls,Biceps,2,17,34,10,FALSE,Unknown,Fitbod,TRUE
-8/4/2020,Dumbbell Lunges,Quads,3,8,24,10,FALSE,Unknown,Fitbod,TRUE
-8/4/2020,Front Shoulder Raises,Deltoids,2,12,24,10,FALSE,Unknown,Fitbod,TRUE
-8/4/2020,Side Shoulder Raises,Deltoids,2,20,40,5,FALSE,Unknown,Fitbod,TRUE
-8/24/2020,Front Shoulder Raises,Deltoids,4,11,44,10,FALSE,Unknown,Fitbod,TRUE
-8/24/2020,Dumbbell Bent Over Rows,Back,4,5,38,10,FALSE,Unknown,Fitbod,TRUE
-8/28/2020,Dumbbell Squats,Quads,3,12,36,10,FALSE,Unknown,Fitbod,TRUE
-10/19/2020,Dumbbell Bicep Curls,Biceps,1,18,18,5,FALSE,Unknown,Fitbod,TRUE
-10/26/2020,Dumbbell Shoulder Press,Deltoids,3,18,54,10,FALSE,Unknown,Fitbod,TRUE
-10/26/2020,Reverse Flys,Back,3,19,39,5,FALSE,Unknown,Fitbod,TRUE
-11/9/2020,Dumbbell Lunges,Quads,4,5,16,10,FALSE,Unknown,Fitbod,TRUE
-11/9/2020,Dumbbell Hammer Curls,Biceps,5,12,60,10,FALSE,Unknown,Fitbod,TRUE
-11/23/2020,Dumbbell Squats,Quads,3,9,27,10,FALSE,Unknown,Fitbod,TRUE
-11/23/2020,Dumbbell Bent Over Rows,Back,4,8,42,10,FALSE,Unknown,Fitbod,TRUE
-11/30/2020,Reverse Flys,Back,3,20,60,5,FALSE,Unknown,Fitbod,TRUE
-12/8/2020,Dumbbell Shoulder Press,Deltoids,4,8,48,10,FALSE,Unknown,Fitbod,TRUE
-12/8/2020,Dumbbell Concentration Curls,Biceps,1,12,12,25,FALSE,Unknown,Fitbod,TRUE
-12/8/2020,Dumbbell Bicep Curls,Biceps,1,10,10,25,FALSE,Unknown,Fitbod,TRUE
-12/14/2020,Russian Twists,Abs,3,22,66,20,FALSE,Unknown,Fitbod,FALSE
-1/4/2021,Arnold Dumbbell Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE
-1/6/2021,Dumbbell Chest Press,Chest,2,13,26,30,FALSE,Unknown,Fitbod,TRUE
-1/8/2021,Dumbbell Kickbacks,Triceps,3,10,30,5,FALSE,Unknown,Fitbod,TRUE
-1/11/2021,Dumbbell Romanian Deadlift,Glutes,5,4,20,40,FALSE,Unknown,Fitbod,TRUE
-1/11/2021,Dumbbell Bent Over Rows,Back,4,13,52,10,FALSE,Unknown,Fitbod,TRUE
-1/13/2021,Zottman Curls,Biceps,4,9,36,10,FALSE,Unknown,Fitbod,TRUE
-1/13/2021,Dumbbell Bicep Curls,Biceps,4,18,72,5,FALSE,Unknown,Fitbod,TRUE
-1/15/2021,Dumbbell Lunges,Quads,3,19,57,5,FALSE,Unknown,Fitbod,TRUE
-1/15/2021,Dumbbell Chest Press,Chest,4,10,40,40,FALSE,Unknown,Fitbod,TRUE
-1/15/2021,Dumbbell Sumo Squat,Quads,4,5,20,40,FALSE,Unknown,Fitbod,TRUE
-1/18/2021,Dumbbell Shoulder Press,Deltoids,4,14,56,10,FALSE,Unknown,Fitbod,TRUE
-1/18/2021,Dumbbell Bent Over Rows,Back,5,14,70,10,FALSE,Unknown,Fitbod,TRUE
-1/18/2021,Front Shoulder Raises,Deltoids,5,8,40,5,FALSE,Unknown,Fitbod,TRUE
-1/20/2021,Dumbbell Squats,Quads,2,10,20,30,FALSE,Unknown,Fitbod,FALSE
-1/20/2021,Dumbbell Romanian Deadlift,Glutes,2,17,34,30,FALSE,Unknown,Fitbod,TRUE
-1/22/2021,Dumbbell Squats,Quads,5,5,30,10,FALSE,Unknown,Fitbod,TRUE
-1/22/2021,Dumbbell Hammer Curls,Biceps,3,10,30,10,FALSE,Unknown,Fitbod,TRUE
-1/25/2021,Dumbbell Shoulder Press,Deltoids,4,8,45,10,FALSE,Unknown,Fitbod,TRUE
-1/25/2021,Dumbbell Bent Over Rows,Back,3,15,45,10,FALSE,Unknown,Fitbod,TRUE
-1/25/2021,Dumbbell Shoulder Press,Deltoids,3,14,42,5,FALSE,Unknown,Fitbod,TRUE
-2/1/2021,Dumbbell Concentration Curls,Biceps,3,9,27,30,FALSE,Unknown,Fitbod,TRUE
-2/1/2021,Dumbbell Bicep Curls,Biceps,2,3,6,30,FALSE,Unknown,Fitbod,TRUE
-5/17/2021,Arnold Dumbbell Press,Deltoids,5,8,40,20,FALSE,Unknown,Fitbod,TRUE
-5/17/2021,Front Shoulder Raises,Deltoids,5,9,45,4,FALSE,Unknown,Fitbod,TRUE
-5/17/2021,Reverse Flys,Back,4,14,56,5,FALSE,Unknown,Fitbod,TRUE
-5/19/2021,Dumbbell Lunges,Quads,2,15,30,5,FALSE,Unknown,Fitbod,TRUE
-5/21/2021,Dumbbell Concentration Curls,Biceps,2,8,16,25,FALSE,Unknown,Fitbod,TRUE
-5/21/2021,Dumbbell Chest Press,Chest,2,20,40,15,FALSE,Unknown,Fitbod,TRUE
-5/25/2021,Side Shoulder Raises,Deltoids,4,15,60,5,FALSE,Unknown,Fitbod,TRUE
-5/26/2021,Dumbbell Squats,Quads,3,10,30,5,FALSE,Unknown,Fitbod,TRUE
-5/26/2021,Dumbbell Bent Over Rows,Back,4,8,56,10,FALSE,Unknown,Fitbod,TRUE
-6/1/2021,Dumbbell Shoulder Press,Deltoids,4,9,36,10,FALSE,Unknown,Fitbod,TRUE
-6/1/2021,Dumbbell Bicep Curls,Biceps,6,5,110,5,FALSE,Unknown,Fitbod,TRUE
-6/1/2021,Dumbbell Hammer Curls,Biceps,2,20,40,5,FALSE,Unknown,Fitbod,TRUE
-6/1/2021,Zottman Curls,Biceps,4,19,76,5,FALSE,Unknown,Fitbod,TRUE
-6/5/2021,Dumbbell Bicep Curls,Biceps,1,15,15,20,FALSE,Unknown,Fitbod,TRUE
-6/5/2021,Dumbbell Chest Press,Chest,1,7,7,20,FALSE,Unknown,Fitbod,TRUE
-6/7/2021,Russian Twists,Abs,4,8,32,20,FALSE,Unknown,Fitbod,FALSE
-6/9/2021,Dumbbell Chest Press,Chest,4,11,44,30,FALSE,Unknown,Fitbod,TRUE
-6/9/2021,Dumbbell Kickbacks,Triceps,4,16,64,5,FALSE,Unknown,Fitbod,TRUE
-6/21/2021,Dumbbell Shoulder Press,Deltoids,4,11,44,10,FALSE,Unknown,Fitbod,TRUE
-6/21/2021,Dumbbell No Money Curls,Biceps,4,9,36,10,FALSE,Unknown,Fitbod,TRUE
-6/21/2021,Dumbbell Concentration Curls,Biceps,4,18,72,10,FALSE,Unknown,Fitbod,TRUE
-6/21/2021,Dumbbell Bicep Curls,Biceps,1,20,20,10,FALSE,Unknown,Fitbod,TRUE
-6/25/2021,Dumbbell Tricep Extensions,Triceps,2,14,28,20,FALSE,Unknown,Fitbod,FALSE
-6/30/2021,Dumbbell Shoulder Press,Deltoids,4,9,36,10,FALSE,Unknown,Fitbod,TRUE
-7/5/2021,Dumbbell Hammer Curls,Biceps,3,19,57,5,FALSE,Unknown,Fitbod,TRUE
-8/23/2021,Dumbbell Bicep Curls,Biceps,4,8,32,15,FALSE,Unknown,Fitbod,TRUE
-8/24/2021,Single Leg Romanian Deadlift,Glutes,2,13,26,5,FALSE,Unknown,Fitbod,TRUE
-8/25/2021,Dumbbell Bicep Curls,Biceps,3,8,24,10,FALSE,Unknown,Fitbod,TRUE
-8/30/2021,Dumbbell Sumo Squat,Quads,5,5,25,25,FALSE,Unknown,Fitbod,TRUE
-8/31/2021,Dumbbell Bicep Curls,Biceps,3,6,18,25,FALSE,Unknown,Fitbod,TRUE
-9/7/2021,Dumbbell Bicep Curls,Biceps,3,15,45,10,FALSE,Unknown,Fitbod,TRUE
-10/20/2021,Dumbbell Bicep Curls,Biceps,4,14,31,20,FALSE,Unknown,Fitbod,TRUE
-10/24/2021,Dumbbell Chest Press,Chest,4,8,48,30,FALSE,Unknown,Fitbod,TRUE
-10/24/2021,Front Shoulder Raises,Deltoids,23,10,230,5,FALSE,Unknown,Fitbod,TRUE
-10/25/2021,Dumbbell Bicep Curls,Biceps,4,4,25,20,FALSE,Unknown,Fitbod,TRUE
-10/30/2021,Dumbbell Shoulder Press,Deltoids,4,8,61,10,FALSE,Unknown,Fitbod,TRUE
-10/30/2021,Dumbbell Bicep Curls,Biceps,4,5,13,25,FALSE,Unknown,Fitbod,TRUE
-11/21/2021,Front Shoulder Raises,Deltoids,7,14,98,5,FALSE,Unknown,Fitbod,TRUE
-5/10/2022,Front Shoulder Raises,Deltoids,4,4,43,5,FALSE,Unknown,Fitbod,TRUE
-5/10/2022,Dumbbell Bicep Curls,Biceps,2,3,6,30,FALSE,Unknown,Fitbod,TRUE
-5/10/2022,Dumbbell Shoulder Press,Deltoids,4,10,40,10,FALSE,Unknown,Fitbod,TRUE
-6/24/2022,Dumbbell Hammer Curls,Biceps,3,10,22,20,TRUE,Unknown,Self,TRUE
-6/27/2022,Dumbbell Flys,Chest,3,10,30,20,TRUE,Unknown,Self,TRUE
-6/27/2022,Side Shoulder Raises,Deltoids,3,5,15,20,TRUE,Unknown,Self,TRUE
-6/27/2022,Forearms (Over),Forearms,2,10,20,20,FALSE,Unknown,Self,TRUE
-6/27/2022,Forearms (Under),Forearms,4,10,40,20,FALSE,Unknown,Self,TRUE
-6/27/2022,Dumbbell Concentration Curls,Biceps,3,5,15,30,TRUE,Unknown,Self,TRUE
-6/27/2022,Dumbbell Shoulder Press,Deltoids,3,8,24,30,TRUE,Unknown,Self,TRUE
-6/27/2022,Dumbbell Hammer Curls,Biceps,3,5,15,30,TRUE,Unknown,Self,TRUE
-6/27/2022,Dumbbell Kickbacks,Triceps,3,5,15,20,FALSE,Unknown,Self,TRUE
-6/28/2022,Dumbbell Rows,Back,4,10,40,50,TRUE,Unknown,Self,TRUE
-6/28/2022,Dumbbell Calf Raises,Calves,4,10,40,50,TRUE,Unknown,Self,FALSE
-6/29/2022,Dumbbell Squats,Quads,3,8,24,50,FALSE,Unknown,Self,FALSE
-6/30/2022,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Self,TRUE
-6/30/2022,Dumbbell Hammer Curls,Biceps,3,8,18,30,FALSE,Unknown,Self,TRUE
-6/30/2022,Dumbbell Tricep Extensions,Triceps,3,10,30,50,FALSE,Unknown,Self,FALSE
-6/30/2022,Dumbbell Chest Press,Chest,3,8,24,50,FALSE,Unknown,Self,TRUE
-7/1/2022,Dumbbell Rows,Back,3,8,24,50,TRUE,Unknown,Self,TRUE
-7/1/2022,Side Shoulder Raises,Deltoids,3,15,45,10,FALSE,Unknown,Self,TRUE
-7/1/2022,Front Shoulder Raises,Deltoids,3,15,45,10,FALSE,Unknown,Self,TRUE
-7/1/2022,Dumbbell Calf Raises,Calves,3,20,60,50,FALSE,Unknown,Self,FALSE
-7/4/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Hard,Self,TRUE
-7/4/2022,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Normal,Self,TRUE
-7/4/2022,Dumbbell Shoulder Press,Deltoids,4,15,60,20,FALSE,Easy,Self,TRUE
-7/5/2022,Dumbbell Kickbacks,Triceps,3,8,24,20,FALSE,Hard,Self,TRUE
-7/5/2022,Dumbbell Tricep Extensions,Triceps,3,15,45,20,FALSE,Easy,Self,TRUE
-7/5/2022,Reverse Flys,Back,3,8,24,20,FALSE,Hard,Self,TRUE
-7/5/2022,Dumbbell Concentration Curls,Biceps,3,15,45,20,TRUE,Normal,Self,TRUE
-7/5/2022,Forearms (Over),Forearms,2,10,20,20,FALSE,Hard,Self,TRUE
-7/5/2022,Forearms (Under),Forearms,2,10,20,20,FALSE,Normal,Self,TRUE
-7/6/2022,Dumbbell Squats,Quads,3,8,24,30,FALSE,Normal,Self,TRUE
-7/6/2022,Dumbbell Calf Raises,Calves,3,10,24,30,FALSE,Easy,Self,TRUE
-7/7/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Hard,Self,TRUE
-7/7/2022,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Normal,Self,TRUE
-7/13/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Hard,Self,TRUE
-7/13/2022,Zottman Curls,Biceps,3,5,15,30,FALSE,Hard,Self,TRUE
-7/14/2022,Dumbbell Skullcrusher,Triceps,3,8,24,30,FALSE,Hard,Self,TRUE
-7/14/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Hard,Self,TRUE
-7/15/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE
-7/15/2022,Svend Press,Chest,3,15,45,10,FALSE,Normal,Self,TRUE
-7/15/2022,Front Shoulder Raises,Deltoids,3,15,45,10,FALSE,Easy,Self,TRUE
-7/18/2022,Russian Twists,Abs,3,12,36,30,FALSE,Easy,Self,FALSE
-7/18/2022,Reverse Flys,Back,3,8,24,20,FALSE,Normal,Self,TRUE
-7/18/2022,Zottman Curls,Biceps,3,8,24,20,FALSE,Normal,Self,TRUE
-7/19/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE
-7/19/2022,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Easy,Self,TRUE
-7/19/2022,Dumbbell Calf Raises,Calves,3,10,30,30,TRUE,Easy,Self,TRUE
-7/20/2022,Dumbbell Squats,Quads,3,8,24,30,FALSE,Easy,Self,TRUE
-7/21/2022,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE
-7/21/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE
-7/22/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE
-7/22/2022,Hand Grips,Forearms,3,40,120,22,FALSE,Easy,Self,TRUE
-7/25/2022,Hand Grips,Forearms,4,40,160,22,FALSE,Easy,Self,TRUE
-7/26/2022,Front Shoulder Raises,Deltoids,4,10,40,10,TRUE,Normal,Self,TRUE
-7/26/2022,Dumbbell Squats,Quads,3,10,30,30,FALSE,Normal,Self,TRUE
-7/26/2022,Hand Grips,Forearms,5,40,200,22,FALSE,Normal,Self,TRUE
-7/27/2022,Russian Twists,Abs,4,12,48,30,FALSE,Normal,Self,FALSE
-7/27/2022,Hand Grips,Forearms,5,40,200,22,FALSE,Normal,Self,TRUE
-7/27/2022,Dumbbell Concentration Curls,Biceps,4,10,36,30,FALSE,Normal,Self,TRUE
-7/28/2022,Dumbbell Bent Over Rows,Back,3,8,24,30,FALSE,Easy,Self,TRUE
-7/28/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE
-8/1/2022,Russian Twists,Abs,3,18,54,30,FALSE,Normal,Self,FALSE
-8/1/2022,Dumbbell Calf Raises,Calves,3,18,54,30,FALSE,Easy,Self,TRUE
-8/1/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE
-8/2/2022,Dumbbell Squats,Quads,3,10,30,30,FALSE,Normal,Self,TRUE
-8/2/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE
-8/2/2022,Hand Grips,Forearms,5,40,200,22,FALSE,Normal,Self,TRUE
-8/3/2022,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Normal,Self,TRUE
-8/3/2022,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Hard,Self,TRUE
-8/4/2022,Hand Grips,Forearms,5,5,25,100,FALSE,Hard,Self,TRUE
-8/4/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Hard,Self,TRUE
-8/4/2022,Dumbbell Bent Over Rows,Back,3,10,30,30,FALSE,Easy,Self,TRUE
-8/8/2022,Russian Twists,Abs,3,18,54,30,FALSE,Normal,Self,FALSE
-8/8/2022,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE
-8/8/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE
-8/8/2022,Hand Grips,Forearms,5,5,25,100,FALSE,Hard,Self,TRUE
-8/9/2022,Hand Grips,Forearms,5,5,25,100,FALSE,Hard,Self,TRUE
-8/10/2022,Dumbbell Squats,Quads,3,12,36,30,FALSE,Normal,Self,TRUE
-8/10/2022,Dumbbell Flys,Chest,3,13,36,30,FALSE,Normal,Self,TRUE
-8/10/2022,Hand Grips,Forearms,5,6,30,100,FALSE,Hard,Self,TRUE
-8/11/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE
-8/12/2022,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Normal,Self,TRUE
-8/12/2022,Hand Grips,Forearms,5,8,40,100,FALSE,Hard,Self,TRUE
-8/15/2022,Russian Twists,Abs,3,10,30,60,FALSE,Normal,Self,FALSE
-8/15/2022,Reverse Flys,Back,3,8,24,20,FALSE,Normal,Self,TRUE
-8/15/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE
-8/16/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE
-8/17/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE
-8/18/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE
-8/18/2022,Dumbbell Calf Raises,Calves,3,25,75,30,FALSE,Normal,Self,TRUE
-8/18/2022,Reverse Flys,Back,3,15,45,10,FALSE,Normal,Self,TRUE
-8/19/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE
-8/23/2022,Russian Twists,Abs,3,10,30,60,FALSE,Normal,Self,FALSE
-8/23/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE
-8/24/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE
-8/24/2022,Front Shoulder Raises,Deltoids,3,15,45,10,TRUE,Normal,Self,TRUE
-8/24/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE
-8/25/2022,Dumbbell Flys,Chest,3,13,39,30,FALSE,Easy,Self,TRUE
-8/29/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE
-8/29/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE
-8/30/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,35,FALSE,Hard,Self,TRUE
-8/30/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE
-8/31/2022,Dumbbell Rows,Back,3,8,24,60,FALSE,Normal,Self,TRUE
-8/31/2022,Hand Grips,Forearms,5,12,60,100,FALSE,Hard,Self,TRUE
-9/1/2022,Dumbbell Concentration Curls,Biceps,3,8,24,35,FALSE,Normal,Self,TRUE
-9/1/2022,Hand Grips,Forearms,5,12,60,100,FALSE,Hard,Self,TRUE
-9/2/2022,Dumbbell Calf Raises,Calves,3,15,45,47.5,FALSE,Normal,Self,TRUE
-9/2/2022,Hand Grips,Forearms,5,8,40,120,FALSE,Hard,Self,TRUE
-9/6/2022,Dumbbell Rows,Back,3,8,24,60,FALSE,Normal,Self,TRUE
-9/6/2022,Hand Grips,Forearms,3,5,15,140,FALSE,Absurd,Self,TRUE
-9/7/2022,Dumbbell Concentration Curls,Biceps,3,8,24,35,FALSE,Normal,Self,TRUE
-9/7/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,35,FALSE,Normal,Self,TRUE
-9/7/2022,Hand Grips,Forearms,5,15,75,100,FALSE,Normal,Self,TRUE
+Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Source,Per Arm,Drop Sets
+10/4/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/4/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/4/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/4/2013,Forearms (Under),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/4/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/4/2013,Dumbbell Rows,Back,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/4/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/4/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/4/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/4/2013,Dumbbell Chest Press,Chest,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/7/2013,Front Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/7/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/7/2013,Forearms (Over),Forearms,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/7/2013,Forearms (Under),Forearms,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/7/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/7/2013,Dumbbell Rows,Back,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/7/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/7/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/7/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/7/2013,Dumbbell Chest Press,Chest,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/9/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/9/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/9/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/9/2013,Forearms (Under),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/9/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/9/2013,Dumbbell Rows,Back,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/9/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/9/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/9/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/9/2013,Dumbbell Chest Press,Chest,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/11/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/11/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/11/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/11/2013,Forearms (Under),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/11/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/11/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/11/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/11/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/11/2013,Dumbbell Chest Press,Chest,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/14/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/14/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/14/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/14/2013,Forearms (Under),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/14/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/14/2013,Dumbbell Rows,Back,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/14/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/14/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/14/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/16/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/16/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/16/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/16/2013,Forearms (Under),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/16/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/16/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/16/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/16/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,TRUE,Unknown,Paper,TRUE,FALSE
+10/18/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/18/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/18/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/18/2013,Forearms (Under),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+10/18/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+10/18/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/18/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/18/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/23/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/23/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/23/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/23/2013,Forearms (Under),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/23/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/23/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+10/23/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/25/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/25/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/25/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/25/2013,Forearms (Under),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/25/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+10/25/2013,Dumbbell Concentration Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+10/28/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/28/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/28/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/28/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/28/2013,Forearms (Under),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/28/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+10/28/2013,Dumbbell Concentration Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+10/28/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/30/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/30/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/30/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+10/30/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/30/2013,Forearms (Under),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+10/30/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+10/30/2013,Dumbbell Concentration Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+10/30/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+11/1/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+11/1/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+11/1/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+11/1/2013,Forearms (Under),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+11/1/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+11/1/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+11/1/2013,Dumbbell Concentration Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+11/1/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+11/4/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/4/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/4/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/4/2013,Forearms (Under),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/4/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/4/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/4/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/4/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/6/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/6/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/6/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/6/2013,Forearms (Under),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/6/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/6/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/6/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/6/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/8/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/8/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/8/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/8/2013,Forearms (Under),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/8/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/8/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/8/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/8/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/11/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/11/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/11/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/11/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/11/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/11/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/11/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/13/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/13/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/13/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/13/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/13/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/13/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/13/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/15/2013,Front Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/15/2013,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/15/2013,Dumbbell Squats,Quads,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/15/2013,Forearms (Over),Forearms,3,5,15,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/15/2013,Dumbbell Tricep Extensions,Triceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/15/2013,Dumbbell Hammer Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/15/2013,Dumbbell Concentration Curls,Biceps,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/15/2013,Dumbbell Shoulder Press,Deltoids,3,5,15,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/18/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/18/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+11/18/2013,Dumbbell Squats,Quads,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/18/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/18/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/18/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+11/18/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+11/18/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/20/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/20/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+11/20/2013,Dumbbell Squats,Quads,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/20/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/20/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/20/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+11/20/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+11/20/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/22/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/22/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+11/22/2013,Dumbbell Squats,Quads,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/22/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/22/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/22/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+11/22/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+11/22/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/25/2013,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/25/2013,Side Shoulder Raises,Deltoids,3,8,24,14,FALSE,Unknown,Paper,TRUE,FALSE
+11/25/2013,Dumbbell Squats,Quads,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/25/2013,Forearms (Over),Forearms,3,8,24,20,FALSE,Unknown,Paper,TRUE,FALSE
+11/25/2013,Dumbbell Tricep Extensions,Triceps,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+11/25/2013,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+11/25/2013,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Paper,TRUE,FALSE
+11/25/2013,Dumbbell Shoulder Press,Deltoids,3,8,24,36,FALSE,Unknown,Paper,TRUE,FALSE
+12/2/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/2/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/2/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/2/2013,Dumbbell Squats,Quads,4,10,40,20,FALSE,Unknown,Paper,TRUE,FALSE
+12/2/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+12/2/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+12/2/2013,Dumbbell Concentration Curls,Biceps,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+12/2/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+12/4/2013,Dumbbell Kickbacks,Triceps,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/4/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/4/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/4/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/4/2013,Dumbbell Squats,Quads,4,10,40,20,FALSE,Unknown,Paper,TRUE,FALSE
+12/4/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+12/4/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+12/4/2013,Dumbbell Concentration Curls,Biceps,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+12/4/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+12/4/2013,Dumbbell Rows,Back,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+12/6/2013,Dumbbell Kickbacks,Triceps,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/6/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/6/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/6/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+12/6/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+12/6/2013,Dumbbell Concentration Curls,Biceps,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+12/6/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+12/6/2013,Dumbbell Rows,Back,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+12/11/2013,Dumbbell Kickbacks,Triceps,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/11/2013,Front Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/11/2013,Side Shoulder Raises,Deltoids,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/11/2013,Forearms (Over),Forearms,4,10,40,14,FALSE,Unknown,Paper,TRUE,FALSE
+12/11/2013,Dumbbell Squats,Quads,4,10,40,20,FALSE,Unknown,Paper,TRUE,FALSE
+12/11/2013,Dumbbell Tricep Extensions,Triceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+12/11/2013,Dumbbell Hammer Curls,Biceps,4,10,40,26,FALSE,Unknown,Paper,TRUE,FALSE
+12/11/2013,Dumbbell Concentration Curls,Biceps,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+12/11/2013,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+12/11/2013,Dumbbell Rows,Back,4,10,40,30,FALSE,Unknown,Paper,TRUE,FALSE
+8/28/2018,Dumbbell Shoulder Press,Deltoids,5,6,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/28/2018,Dumbbell Lunges,Quads,5,2,10,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/28/2018,Dumbbell Rows,Back,3,10,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/28/2018,Dumbbell Bicep Curls,Biceps,3,10,24,24,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/30/2018,Dumbbell Clean,Quads,2,11,16,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/30/2018,Dumbbell Romanian Deadlift,Glutes,2,20,40,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/30/2018,Single Leg Romanian Deadlift,Glutes,3,5,15,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/1/2018,Dumbbell Skullcrusher,Triceps,4,8,31,24,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/1/2018,Dumbbell Tricep Extensions,Triceps,3,12,36,24,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/1/2018,Russian Twists,Abs,3,18,54,10,FALSE,Unknown,Fitbod,FALSE,FALSE
+9/3/2018,Dumbbell Shoulder Press,Deltoids,3,12,36,24,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/3/2018,Dumbbell Hammer Curls,Biceps,3,10,30,24,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/3/2018,Dumbbell Bicep Curls,Biceps,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/3/2018,Front Shoulder Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/5/2018,Dumbbell Squats,Quads,5,6,30,24,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/5/2018,Sumo Squats,Quads,3,10,30,24,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/5/2018,Around the Worlds,Chest,3,10,30,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/8/2018,Dumbbell Shoulder Press,Deltoids,5,5,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/8/2018,Dumbbell Rows,Back,4,8,32,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/8/2018,Side Shoulder Raises,Deltoids,3,15,45,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/8/2018,Arnold Dumbbell Press,Deltoids,3,10,32,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/10/2018,Dumbbell Concentration Curls,Biceps,3,10,30,24,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/10/2018,Zottman Curls,Biceps,3,10,30,14,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/10/2018,Single Arm Dumbbell Bench Press,Chest,3,10,24,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/13/2018,Dumbbell Shoulder Press,Deltoids,3,12,36,24,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/13/2018,Side Raises to Front Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/15/2018,Dumbbell Rows,Back,5,5,25,50,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/15/2018,Dumbbell Bent Over Rows,Back,4,8,32,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/15/2018,Around the Worlds,Chest,4,8,32,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/17/2018,Dumbbell Shoulder Press,Deltoids,5,6,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/17/2018,Dumbbell Bicep Curls,Biceps,3,10,30,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/17/2018,Single Arm Overhead Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/21/2018,Dumbbell Shoulder Press,Deltoids,4,8,32,34,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/21/2018,Dumbbell Rows,Back,3,12,36,34,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/21/2018,Dumbbell Bent Over Rows,Back,3,12,36,24,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/21/2018,Front Shoulder Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/21/2018,Single Leg Romanian Deadlift,Glutes,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/24/2018,Dumbbell Hammer Curls,Biceps,3,12,36,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/24/2018,Dumbbell Chest Press,Chest,5,8,40,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/24/2018,Dumbbell Romanian Deadlift,Glutes,3,10,30,15,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/24/2018,Dumbbell Kickbacks,Triceps,3,10,30,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/26/2018,Dumbbell Lunges,Quads,5,2,10,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/26/2018,Dumbbell Shoulder Press,Deltoids,4,8,32,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/26/2018,Dumbbell Rows,Back,5,5,25,50,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/2/2018,Dumbbell Bent Over Rows,Back,2,20,40,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/2/2018,Side Shoulder Raises,Deltoids,2,20,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/4/2018,Dumbbell Romanian Deadlift,Glutes,4,8,32,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/4/2018,Dumbbell Clean,Glutes,3,10,30,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/4/2018,Single Leg Romanian Deadlift,Glutes,3,10,30,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/4/2018,Russian Twists,Abs,4,15,60,10,FALSE,Unknown,Fitbod,FALSE,FALSE
+10/8/2018,Dumbbell Bicep Curls,Biceps,5,6,30,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/8/2018,Single Arm Dumbbell Tricep Extension,Triceps,3,15,45,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/8/2018,Dumbbell Bicep Curls,Biceps,3,15,45,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/8/2018,Dumbbell Skullcrusher,Triceps,3,15,45,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/11/2018,Dumbbell Rows,Back,4,8,32,50,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/11/2018,Dumbbell Bent Over Rows,Back,3,12,36,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/11/2018,Around the Worlds,Chest,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/15/2018,Dumbbell Shoulder Press,Deltoids,5,5,25,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/23/2018,Dumbbell Rows,Back,4,8,32,45,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/30/2018,Dumbbell Shoulder Press,Deltoids,4,8,32,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/30/2018,Dumbbell Lunges,Quads,5,2,10,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/30/2018,Dumbbell Squats,Quads,4,8,32,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/6/2018,Dumbbell Hammer Curls,Biceps,3,12,36,14,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/6/2018,Dumbbell Bicep Curls,Biceps,3,20,60,14,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/6/2018,Dumbbell Bicep Curls,Biceps,3,12,36,14,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/12/2018,Dumbbell Shoulder Press,Deltoids,4,8,32,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/12/2018,Dumbbell Rows,Back,6,5,33,60,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/12/2018,Dumbbell Bent Over Rows,Back,2,15,30,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/15/2018,Svend Press,Chest,3,15,45,10,FALSE,Unknown,Fitbod,FALSE,FALSE
+4/20/2019,Dumbbell Shoulder Press,Deltoids,5,5,25,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+4/20/2019,Dumbbell Lunges,Quads,2,4,8,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+4/20/2019,Reverse Flys,Back,3,15,45,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+4/23/2019,Dumbbell Bicep Curls,Biceps,2,10,20,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/7/2019,Dumbbell Hammer Curls,Biceps,4,5,20,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/9/2019,Dumbbell Shoulder Press,Deltoids,3,6,18,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/24/2019,Front Shoulder Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/24/2019,Dumbbell Shoulder Press,Deltoids,3,12,36,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/28/2019,Side Shoulder Raises,Deltoids,3,10,30,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/28/2019,Dumbbell Shoulder Press,Deltoids,5,6,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/8/2019,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/11/2019,Dumbbell Bicep Curls,Biceps,2,15,25,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/11/2019,Dumbbell Tricep Extensions,Triceps,3,15,41,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/15/2019,Dumbbell Bicep Curls,Biceps,3,5,13,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/15/2019,Dumbbell Tricep Extensions,Triceps,3,10,30,30,FALSE,Unknown,Fitbod,FALSE,FALSE
+7/15/2019,Side Raises to Front Raises,Deltoids,3,10,30,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/20/2019,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/20/2019,Dumbbell Hammer Curls,Biceps,4,8,28,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/20/2019,Dumbbell Chest Press,Chest,3,12,36,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/25/2019,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/25/2019,Dumbbell Bent Over Rows,Back,4,8,32,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/27/2019,Dumbbell Concentration Curls,Biceps,5,6,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/1/2019,Dumbbell Shoulder Press,Deltoids,5,6,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/1/2019,Dumbbell Lunges,Quads,5,2,10,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/1/2019,Reverse Flys,Back,3,10,30,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/1/2019,Dumbbell Squats,Quads,1,5,5,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/2/2019,Zottman Curls,Biceps,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/2/2019,Dumbbell Kickbacks,Triceps,3,10,30,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/2/2019,Front Shoulder Raises,Deltoids,3,10,30,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/5/2019,Dumbbell Bent Over Rows,Back,5,5,25,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/5/2019,Dumbbell Shoulder Press,Deltoids,4,8,32,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/8/2019,Dumbbell Shoulder Press,Deltoids,5,6,30,35,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/8/2019,Dumbbell Bicep Curls,Biceps,5,5,24,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/9/2019,Single Arm Dumbbell Tricep Extension,Triceps,5,5,25,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/9/2019,Dumbbell Tricep Extensions,Triceps,4,20,85,15,FALSE,Unknown,Fitbod,FALSE,FALSE
+8/9/2019,Single Leg Romanian Deadlift,Glutes,1,10,10,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/12/2019,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/12/2019,Dumbbell Bent Over Rows,Back,4,8,56,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/13/2019,Dumbbell Hammer Curls,Biceps,4,8,32,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/16/2019,Dumbbell Romanian Deadlift,Glutes,3,15,45,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/20/2019,Dumbbell Shoulder Press,Deltoids,5,5,25,35,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/20/2019,Dumbbell Bicep Curls,Biceps,1,15,15,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/21/2019,Dumbbell Tricep Extensions,Triceps,4,8,32,30,FALSE,Unknown,Fitbod,FALSE,FALSE
+8/21/2019,Dumbbell Kickbacks,Triceps,1,12,12,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/25/2019,Dumbbell Shoulder Press,Deltoids,3,12,36,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/25/2019,Dumbbell Bent Over Rows,Back,4,10,46,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/25/2019,Front Shoulder Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/1/2019,Dumbbell Shoulder Press,Deltoids,5,5,25,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/1/2019,Dumbbell Bicep Curls,Biceps,4,10,33,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/4/2019,Dumbbell Bent Over Rows,Back,4,8,32,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/6/2019,Dumbbell Shoulder Press,Deltoids,5,6,30,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/12/2019,Dumbbell Shoulder Press,Deltoids,4,10,46,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+3/20/2020,Dumbbell Bicep Curls,Biceps,4,8,32,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/2/2020,Dumbbell Lunges,Quads,4,4,19,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/2/2020,Dumbbell Hammer Curls,Biceps,3,12,36,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/2/2020,Dumbbell Squats,Quads,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/3/2020,Dumbbell Shoulder Press,Deltoids,3,12,36,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/3/2020,Dumbbell Bent Over Rows,Back,3,13,39,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/3/2020,Front Shoulder Raises,Deltoids,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/3/2020,Side Shoulder Raises,Deltoids,3,8,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/3/2020,Dumbbell Tricep Extensions,Triceps,3,10,30,20,FALSE,Unknown,Spreadsheet,TRUE,FALSE
+5/5/2020,Dumbbell Bicep Curls,Biceps,3,8,24,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/5/2020,Dumbbell Concentration Curls,Biceps,2,5,10,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/5/2020,Dumbbell Chest Press,Chest,2,11,22,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/6/2020,Dumbbell Romanian Deadlift,Glutes,4,8,32,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/7/2020,Dumbbell Kickbacks,Triceps,2,15,30,10,FALSE,Unknown,Spreadsheet,TRUE,FALSE
+5/8/2020,Dumbbell Tricep Extensions,Triceps,1,1,1,40,FALSE,Unknown,Spreadsheet,TRUE,FALSE
+5/9/2020,Reverse Flys,Back,3,10,30,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/9/2020,Dumbbell Bicep Curls,Biceps,3,9,27,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/9/2020,Single Leg Romanian Deadlift,Glutes,2,8,16,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/10/2020,Dumbbell Bent Over Rows,Back,4,8,32,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/11/2020,Dumbbell Lunges,Quads,3,5,15,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/14/2020,Dumbbell Shoulder Press,Deltoids,4,8,32,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/14/2020,Dumbbell Tricep Extensions,Triceps,3,5,15,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/14/2020,Dumbbell No Money Curls,Biceps,3,8,24,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/14/2020,Dumbbell Hammer Curls,Biceps,3,10,27,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/15/2020,Dumbbell Lunges,Quads,4,4,16,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/15/2020,Dumbbell Bent Over Rows,Back,5,5,25,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/15/2020,Russian Twists,Abs,4,22,88,10,FALSE,Unknown,Fitbod,FALSE,FALSE
+5/18/2020,Dumbbell Shoulder Press,Deltoids,4,5,40,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/3/2020,Dumbbell Bicep Curls,Biceps,2,5,10,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/3/2020,Dumbbell Hammer Curls,Biceps,2,17,34,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/4/2020,Dumbbell Lunges,Quads,3,8,24,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/4/2020,Front Shoulder Raises,Deltoids,2,12,24,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/4/2020,Side Shoulder Raises,Deltoids,2,20,40,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/24/2020,Front Shoulder Raises,Deltoids,4,11,44,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/24/2020,Dumbbell Bent Over Rows,Back,4,5,38,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/28/2020,Dumbbell Squats,Quads,3,12,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/19/2020,Dumbbell Bicep Curls,Biceps,1,18,18,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/26/2020,Dumbbell Shoulder Press,Deltoids,3,18,54,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/26/2020,Reverse Flys,Back,3,19,39,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/9/2020,Dumbbell Lunges,Quads,4,5,16,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/9/2020,Dumbbell Hammer Curls,Biceps,5,12,60,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/23/2020,Dumbbell Squats,Quads,3,9,27,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/23/2020,Dumbbell Bent Over Rows,Back,4,8,42,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/30/2020,Reverse Flys,Back,3,20,60,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+12/8/2020,Dumbbell Shoulder Press,Deltoids,4,8,48,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+12/8/2020,Dumbbell Concentration Curls,Biceps,1,12,12,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+12/8/2020,Dumbbell Bicep Curls,Biceps,1,10,10,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+12/14/2020,Russian Twists,Abs,3,22,66,20,FALSE,Unknown,Fitbod,FALSE,FALSE
+1/4/2021,Arnold Dumbbell Press,Deltoids,3,10,30,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/6/2021,Dumbbell Chest Press,Chest,2,13,26,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/8/2021,Dumbbell Kickbacks,Triceps,3,10,30,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/11/2021,Dumbbell Romanian Deadlift,Glutes,5,4,20,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/11/2021,Dumbbell Bent Over Rows,Back,4,13,52,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/13/2021,Zottman Curls,Biceps,4,9,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/13/2021,Dumbbell Bicep Curls,Biceps,4,18,72,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/15/2021,Dumbbell Lunges,Quads,3,19,57,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/15/2021,Dumbbell Chest Press,Chest,4,10,40,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/15/2021,Dumbbell Sumo Squat,Quads,4,5,20,40,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/18/2021,Dumbbell Shoulder Press,Deltoids,4,14,56,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/18/2021,Dumbbell Bent Over Rows,Back,5,14,70,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/18/2021,Front Shoulder Raises,Deltoids,5,8,40,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/20/2021,Dumbbell Squats,Quads,2,10,20,30,FALSE,Unknown,Fitbod,FALSE,FALSE
+1/20/2021,Dumbbell Romanian Deadlift,Glutes,2,17,34,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/22/2021,Dumbbell Squats,Quads,5,5,30,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/22/2021,Dumbbell Hammer Curls,Biceps,3,10,30,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/25/2021,Dumbbell Shoulder Press,Deltoids,4,8,45,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/25/2021,Dumbbell Bent Over Rows,Back,3,15,45,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+1/25/2021,Dumbbell Shoulder Press,Deltoids,3,14,42,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+2/1/2021,Dumbbell Concentration Curls,Biceps,3,9,27,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+2/1/2021,Dumbbell Bicep Curls,Biceps,2,3,6,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/17/2021,Arnold Dumbbell Press,Deltoids,5,8,40,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/17/2021,Front Shoulder Raises,Deltoids,5,9,45,4,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/17/2021,Reverse Flys,Back,4,14,56,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/19/2021,Dumbbell Lunges,Quads,2,15,30,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/21/2021,Dumbbell Concentration Curls,Biceps,2,8,16,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/21/2021,Dumbbell Chest Press,Chest,2,20,40,15,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/25/2021,Side Shoulder Raises,Deltoids,4,15,60,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/26/2021,Dumbbell Squats,Quads,3,10,30,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/26/2021,Dumbbell Bent Over Rows,Back,4,8,56,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/1/2021,Dumbbell Shoulder Press,Deltoids,4,9,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/1/2021,Dumbbell Bicep Curls,Biceps,6,5,110,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/1/2021,Dumbbell Hammer Curls,Biceps,2,20,40,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/1/2021,Zottman Curls,Biceps,4,19,76,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/5/2021,Dumbbell Bicep Curls,Biceps,1,15,15,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/5/2021,Dumbbell Chest Press,Chest,1,7,7,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/7/2021,Russian Twists,Abs,4,8,32,20,FALSE,Unknown,Fitbod,FALSE,FALSE
+6/9/2021,Dumbbell Chest Press,Chest,4,11,44,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/9/2021,Dumbbell Kickbacks,Triceps,4,16,64,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/21/2021,Dumbbell Shoulder Press,Deltoids,4,11,44,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/21/2021,Dumbbell No Money Curls,Biceps,4,9,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/21/2021,Dumbbell Concentration Curls,Biceps,4,18,72,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/21/2021,Dumbbell Bicep Curls,Biceps,1,20,20,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/25/2021,Dumbbell Tricep Extensions,Triceps,2,14,28,20,FALSE,Unknown,Fitbod,FALSE,FALSE
+6/30/2021,Dumbbell Shoulder Press,Deltoids,4,9,36,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+7/5/2021,Dumbbell Hammer Curls,Biceps,3,19,57,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/23/2021,Dumbbell Bicep Curls,Biceps,4,8,32,15,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/24/2021,Single Leg Romanian Deadlift,Glutes,2,13,26,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/25/2021,Dumbbell Bicep Curls,Biceps,3,8,24,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/30/2021,Dumbbell Sumo Squat,Quads,5,5,25,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+8/31/2021,Dumbbell Bicep Curls,Biceps,3,6,18,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+9/7/2021,Dumbbell Bicep Curls,Biceps,3,15,45,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/20/2021,Dumbbell Bicep Curls,Biceps,4,14,31,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/24/2021,Dumbbell Chest Press,Chest,4,8,48,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/24/2021,Front Shoulder Raises,Deltoids,23,10,230,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/25/2021,Dumbbell Bicep Curls,Biceps,4,4,25,20,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/30/2021,Dumbbell Shoulder Press,Deltoids,4,8,61,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+10/30/2021,Dumbbell Bicep Curls,Biceps,4,5,13,25,FALSE,Unknown,Fitbod,TRUE,FALSE
+11/21/2021,Front Shoulder Raises,Deltoids,7,14,98,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/10/2022,Front Shoulder Raises,Deltoids,4,4,43,5,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/10/2022,Dumbbell Bicep Curls,Biceps,2,3,6,30,FALSE,Unknown,Fitbod,TRUE,FALSE
+5/10/2022,Dumbbell Shoulder Press,Deltoids,4,10,40,10,FALSE,Unknown,Fitbod,TRUE,FALSE
+6/24/2022,Dumbbell Hammer Curls,Biceps,3,10,22,20,TRUE,Unknown,Self,TRUE,FALSE
+6/27/2022,Dumbbell Flys,Chest,3,10,30,20,TRUE,Unknown,Self,TRUE,FALSE
+6/27/2022,Side Shoulder Raises,Deltoids,3,5,15,20,TRUE,Unknown,Self,TRUE,FALSE
+6/27/2022,Forearms (Over),Forearms,2,10,20,20,FALSE,Unknown,Self,TRUE,FALSE
+6/27/2022,Forearms (Under),Forearms,4,10,40,20,FALSE,Unknown,Self,TRUE,FALSE
+6/27/2022,Dumbbell Concentration Curls,Biceps,3,5,15,30,TRUE,Unknown,Self,TRUE,FALSE
+6/27/2022,Dumbbell Shoulder Press,Deltoids,3,8,24,30,TRUE,Unknown,Self,TRUE,FALSE
+6/27/2022,Dumbbell Hammer Curls,Biceps,3,5,15,30,TRUE,Unknown,Self,TRUE,FALSE
+6/27/2022,Dumbbell Kickbacks,Triceps,3,5,15,20,FALSE,Unknown,Self,TRUE,FALSE
+6/28/2022,Dumbbell Rows,Back,4,10,40,50,TRUE,Unknown,Self,TRUE,FALSE
+6/28/2022,Dumbbell Calf Raises,Calves,4,10,40,50,TRUE,Unknown,Self,FALSE,FALSE
+6/29/2022,Dumbbell Squats,Quads,3,8,24,50,FALSE,Unknown,Self,FALSE,FALSE
+6/30/2022,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Unknown,Self,TRUE,FALSE
+6/30/2022,Dumbbell Hammer Curls,Biceps,3,8,18,30,FALSE,Unknown,Self,TRUE,FALSE
+6/30/2022,Dumbbell Tricep Extensions,Triceps,3,10,30,50,FALSE,Unknown,Self,FALSE,FALSE
+6/30/2022,Dumbbell Chest Press,Chest,3,8,24,50,FALSE,Unknown,Self,TRUE,FALSE
+7/1/2022,Dumbbell Rows,Back,3,8,24,50,TRUE,Unknown,Self,TRUE,FALSE
+7/1/2022,Side Shoulder Raises,Deltoids,3,15,45,10,FALSE,Unknown,Self,TRUE,FALSE
+7/1/2022,Front Shoulder Raises,Deltoids,3,15,45,10,FALSE,Unknown,Self,TRUE,FALSE
+7/1/2022,Dumbbell Calf Raises,Calves,3,20,60,50,FALSE,Unknown,Self,FALSE,FALSE
+7/4/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Hard,Self,TRUE,FALSE
+7/4/2022,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Normal,Self,TRUE,FALSE
+7/4/2022,Dumbbell Shoulder Press,Deltoids,4,15,60,20,FALSE,Easy,Self,TRUE,FALSE
+7/5/2022,Dumbbell Kickbacks,Triceps,3,8,24,20,FALSE,Hard,Self,TRUE,FALSE
+7/5/2022,Dumbbell Tricep Extensions,Triceps,3,15,45,20,FALSE,Easy,Self,TRUE,FALSE
+7/5/2022,Reverse Flys,Back,3,8,24,20,FALSE,Hard,Self,TRUE,FALSE
+7/5/2022,Dumbbell Concentration Curls,Biceps,3,15,45,20,TRUE,Normal,Self,TRUE,FALSE
+7/5/2022,Forearms (Over),Forearms,2,10,20,20,FALSE,Hard,Self,TRUE,FALSE
+7/5/2022,Forearms (Under),Forearms,2,10,20,20,FALSE,Normal,Self,TRUE,FALSE
+7/6/2022,Dumbbell Squats,Quads,3,8,24,30,FALSE,Normal,Self,TRUE,FALSE
+7/6/2022,Dumbbell Calf Raises,Calves,3,10,24,30,FALSE,Easy,Self,TRUE,FALSE
+7/7/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Hard,Self,TRUE,FALSE
+7/7/2022,Dumbbell Shoulder Press,Deltoids,4,10,40,30,FALSE,Normal,Self,TRUE,FALSE
+7/13/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Hard,Self,TRUE,FALSE
+7/13/2022,Zottman Curls,Biceps,3,5,15,30,FALSE,Hard,Self,TRUE,FALSE
+7/14/2022,Dumbbell Skullcrusher,Triceps,3,8,24,30,FALSE,Hard,Self,TRUE,FALSE
+7/14/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Hard,Self,TRUE,FALSE
+7/15/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE,FALSE
+7/15/2022,Svend Press,Chest,3,15,45,10,FALSE,Normal,Self,TRUE,FALSE
+7/15/2022,Front Shoulder Raises,Deltoids,3,15,45,10,FALSE,Easy,Self,TRUE,FALSE
+7/18/2022,Russian Twists,Abs,3,12,36,30,FALSE,Easy,Self,FALSE,FALSE
+7/18/2022,Reverse Flys,Back,3,8,24,20,FALSE,Normal,Self,TRUE,FALSE
+7/18/2022,Zottman Curls,Biceps,3,8,24,20,FALSE,Normal,Self,TRUE,FALSE
+7/19/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE,FALSE
+7/19/2022,Dumbbell Shoulder Press,Deltoids,3,10,30,30,FALSE,Easy,Self,TRUE,FALSE
+7/19/2022,Dumbbell Calf Raises,Calves,3,10,30,30,TRUE,Easy,Self,TRUE,FALSE
+7/20/2022,Dumbbell Squats,Quads,3,8,24,30,FALSE,Easy,Self,TRUE,FALSE
+7/21/2022,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE,FALSE
+7/21/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE,FALSE
+7/22/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE,FALSE
+7/22/2022,Hand Grips,Forearms,3,40,120,22,FALSE,Easy,Self,TRUE,FALSE
+7/25/2022,Hand Grips,Forearms,4,40,160,22,FALSE,Easy,Self,TRUE,FALSE
+7/26/2022,Front Shoulder Raises,Deltoids,4,10,40,10,TRUE,Normal,Self,TRUE,FALSE
+7/26/2022,Dumbbell Squats,Quads,3,10,30,30,FALSE,Normal,Self,TRUE,FALSE
+7/26/2022,Hand Grips,Forearms,5,40,200,22,FALSE,Normal,Self,TRUE,FALSE
+7/27/2022,Russian Twists,Abs,4,12,48,30,FALSE,Normal,Self,FALSE,FALSE
+7/27/2022,Hand Grips,Forearms,5,40,200,22,FALSE,Normal,Self,TRUE,FALSE
+7/27/2022,Dumbbell Concentration Curls,Biceps,4,10,36,30,FALSE,Normal,Self,TRUE,FALSE
+7/28/2022,Dumbbell Bent Over Rows,Back,3,8,24,30,FALSE,Easy,Self,TRUE,FALSE
+7/28/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE,FALSE
+8/1/2022,Russian Twists,Abs,3,18,54,30,FALSE,Normal,Self,FALSE,FALSE
+8/1/2022,Dumbbell Calf Raises,Calves,3,18,54,30,FALSE,Easy,Self,TRUE,FALSE
+8/1/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE,FALSE
+8/2/2022,Dumbbell Squats,Quads,3,10,30,30,FALSE,Normal,Self,TRUE,FALSE
+8/2/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE,FALSE
+8/2/2022,Hand Grips,Forearms,5,40,200,22,FALSE,Normal,Self,TRUE,FALSE
+8/3/2022,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Normal,Self,TRUE,FALSE
+8/3/2022,Side Shoulder Raises,Deltoids,3,5,15,20,FALSE,Hard,Self,TRUE,FALSE
+8/4/2022,Hand Grips,Forearms,5,5,25,100,FALSE,Hard,Self,TRUE,FALSE
+8/4/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Hard,Self,TRUE,FALSE
+8/4/2022,Dumbbell Bent Over Rows,Back,3,10,30,30,FALSE,Easy,Self,TRUE,FALSE
+8/8/2022,Russian Twists,Abs,3,18,54,30,FALSE,Normal,Self,FALSE,FALSE
+8/8/2022,Dumbbell Concentration Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE,FALSE
+8/8/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE,FALSE
+8/8/2022,Hand Grips,Forearms,5,5,25,100,FALSE,Hard,Self,TRUE,FALSE
+8/9/2022,Hand Grips,Forearms,5,5,25,100,FALSE,Hard,Self,TRUE,FALSE
+8/10/2022,Dumbbell Squats,Quads,3,12,36,30,FALSE,Normal,Self,TRUE,FALSE
+8/10/2022,Dumbbell Flys,Chest,3,13,36,30,FALSE,Normal,Self,TRUE,FALSE
+8/10/2022,Hand Grips,Forearms,5,6,30,100,FALSE,Hard,Self,TRUE,FALSE
+8/11/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE,FALSE
+8/12/2022,Front Shoulder Raises,Deltoids,3,8,24,20,FALSE,Normal,Self,TRUE,FALSE
+8/12/2022,Hand Grips,Forearms,5,8,40,100,FALSE,Hard,Self,TRUE,FALSE
+8/15/2022,Russian Twists,Abs,3,10,30,60,FALSE,Normal,Self,FALSE,FALSE
+8/15/2022,Reverse Flys,Back,3,8,24,20,FALSE,Normal,Self,TRUE,FALSE
+8/15/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE,FALSE
+8/16/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE,FALSE
+8/17/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE,FALSE
+8/18/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE,FALSE
+8/18/2022,Dumbbell Calf Raises,Calves,3,25,75,30,FALSE,Normal,Self,TRUE,FALSE
+8/18/2022,Reverse Flys,Back,3,15,45,10,FALSE,Normal,Self,TRUE,FALSE
+8/19/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE,FALSE
+8/23/2022,Russian Twists,Abs,3,10,30,60,FALSE,Normal,Self,FALSE,FALSE
+8/23/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE,FALSE
+8/24/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Normal,Self,TRUE,FALSE
+8/24/2022,Front Shoulder Raises,Deltoids,3,15,45,10,TRUE,Normal,Self,TRUE,FALSE
+8/24/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE,FALSE
+8/25/2022,Dumbbell Flys,Chest,3,13,39,30,FALSE,Easy,Self,TRUE,FALSE
+8/29/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Normal,Self,TRUE,FALSE
+8/29/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE,FALSE
+8/30/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,35,FALSE,Hard,Self,TRUE,FALSE
+8/30/2022,Hand Grips,Forearms,5,5,25,120,FALSE,Hard,Self,TRUE,FALSE
+8/31/2022,Dumbbell Rows,Back,3,8,24,60,FALSE,Normal,Self,TRUE,FALSE
+8/31/2022,Hand Grips,Forearms,5,12,60,100,FALSE,Hard,Self,TRUE,FALSE
+9/1/2022,Dumbbell Concentration Curls,Biceps,3,8,24,35,FALSE,Normal,Self,TRUE,FALSE
+9/1/2022,Hand Grips,Forearms,5,12,60,100,FALSE,Hard,Self,TRUE,FALSE
+9/2/2022,Dumbbell Calf Raises,Calves,3,15,45,47.5,FALSE,Normal,Self,TRUE,FALSE
+9/2/2022,Hand Grips,Forearms,5,8,40,120,FALSE,Hard,Self,TRUE,FALSE
+9/6/2022,Dumbbell Rows,Back,3,8,24,60,FALSE,Normal,Self,TRUE,FALSE
+9/6/2022,Hand Grips,Forearms,3,5,15,140,FALSE,Absurd,Self,TRUE,FALSE
+9/7/2022,Dumbbell Concentration Curls,Biceps,3,8,24,35,FALSE,Normal,Self,TRUE,FALSE
+9/7/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,35,FALSE,Normal,Self,TRUE,FALSE
+9/7/2022,Hand Grips,Forearms,5,15,75,100,FALSE,Normal,Self,TRUE,FALSE
+9/8/2022,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE,TRUE
+9/8/2022,Hand Grips,Forearms,3,5,15,140,FALSE,Hard,Self,TRUE,TRUE
