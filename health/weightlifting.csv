@@ -563,3 +563,6 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 9/12/2022,Front Shoulder Raises,Deltoids,3,10,30,10,FALSE,Normal,Self,TRUE,TRUE
 9/12/2022,Dumbbell Calf Raises,Calves,3,18,54,30,FALSE,Easy,Self,TRUE,TRUE
 9/12/2022,Hand Grips,Forearms,5,5,25,140,FALSE,Absurd,Self,TRUE,FALSE
+9/13/2022,Dumbbell Hammer Curls,Biceps,3,8,24,30,FALSE,Hard,Self,TRUE,TRUE
+9/13/2022,Single Arm Dumbbell Tricep Extension,Triceps,3,8,24,30,FALSE,Hard,Self,TRUE,TRUE
+9/13/2022,Hand Grips,Forearms,5,12,60,100,FALSE,Normal,Self,TRUE,FALSE
