@@ -601,9 +601,11 @@ Date,Exercise,Muscle Groups,Sets,Reps,Total Reps,Weight,Negatives,Difficulty,Sou
 1/16/2023,Dumbbell Squats,Quads,3,10,30,10,FALSE,Easy,Self,TRUE,FALSE
 1/20/2022,Hand Grips,Forearms,3,10,30,120,FALSE,Normal,Self,TRUE,FALSE
 1/26/2023,Dumbbell Flys,Chest,3,10,30,30,FALSE,Normal,Self,TRUE,FALSE
-1/28/2023,Dumbbell Shoulder Press,Shoulders,3,12,36,30,FALSE,Easy,Self,TRUE,FALSE
+1/28/2023,Dumbbell Shoulder Press,Deltoids,3,12,36,30,FALSE,Easy,Self,TRUE,FALSE
 1/28/2023,Dumbbell Concentration Curls,Biceps,3,10,30,30,FALSE,Normal,Self,TRUE,FALSE
-1/28/2023,Front Shoulder Raises,Shoulders,3,10,30,10,FALSE,Easy,Self,TRUE,FALSE
+1/28/2023,Front Shoulder Raises,Deltoids,3,10,30,10,FALSE,Easy,Self,TRUE,FALSE
 1/29/2023,Hand Grips,Forearms,5,5,25,140,FALSE,Hard,Self,TRUE,FALSE
 1/30/2023,Two-handed Dumbbell Skullcrusher,Triceps,3,14,42,30,FALSE,Normal,Self,FALSE,FALSE
 2/1/2023,Dumbbell Concentration Curls,Biceps,3,10,30,30,FALSE,Normal,Self,TRUE,FALSE
+2/2/2023,Hand Grips,Forearms,3,5,15,140,FALSE,Normal,Self,TRUE,FALSE
+2/3/2023,Side Shoulder Raises,Deltoids,3,10,30,10,FALSE,Easy,Self,TRUE,FALSE
