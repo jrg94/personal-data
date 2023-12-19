@@ -289,36 +289,36 @@ Year,Season,Course,Question,Index,Group,Mean,Standard Deviation,Section
 2019,Spring,CSE 1223,The instructor created an atmosphere conducive to learning,8,Instructor,4.59,0.95,8282
 2019,Spring,CSE 1223,The instructor communicated the subject matter clearly,9,Instructor,4.53,0.97,8282
 2019,Spring,CSE 1223,"Overall, I would rate this instructor as",10,Instructor,4.77,0.63,8282
-2019,Spring,CSE 1223,The subject matter of this course was well organized,1,Department,4.22,0.98,8282
-2019,Spring,CSE 1223,This course was intellectually stimulating,2,Department,4.16,1.01,8282
-2019,Spring,CSE 1223,This instructor was genuinely interested in teaching,3,Department,4.3,0.96,8282
-2019,Spring,CSE 1223,The instructor encouraged students to think for themselves,4,Department,4.28,0.94,8282
-2019,Spring,CSE 1223,The instructor was well prepared,5,Department,4.26,0.98,8282
-2019,Spring,CSE 1223,The instructor was genuinely interested in helping students,6,Department,4.31,0.95,8282
-2019,Spring,CSE 1223,I learned a great deal from this instructor,7,Department,4.07,1.1,8282
-2019,Spring,CSE 1223,The instructor created an atmosphere conducive to learning,8,Department,4.13,1.03,8282
-2019,Spring,CSE 1223,The instructor communicated the subject matter clearly,9,Department,4.09,1.09,8282
-2019,Spring,CSE 1223,"Overall, I would rate this instructor as",10,Department,4.24,1.02,8282
-2019,Spring,CSE 1223,The subject matter of this course was well organized,1,College,4.2,0.99,8282
-2019,Spring,CSE 1223,This course was intellectually stimulating,2,College,4.2,0.98,8282
-2019,Spring,CSE 1223,This instructor was genuinely interested in teaching,3,College,4.38,0.92,8282
-2019,Spring,CSE 1223,The instructor encouraged students to think for themselves,4,College,4.35,0.9,8282
-2019,Spring,CSE 1223,The instructor was well prepared,5,College,4.29,0.96,8282
-2019,Spring,CSE 1223,The instructor was genuinely interested in helping students,6,College,4.38,0.93,8282
-2019,Spring,CSE 1223,I learned a great deal from this instructor,7,College,4.12,1.07,8282
-2019,Spring,CSE 1223,The instructor created an atmosphere conducive to learning,8,College,4.17,1.03,8282
-2019,Spring,CSE 1223,The instructor communicated the subject matter clearly,9,College,4.13,1.07,8282
-2019,Spring,CSE 1223,"Overall, I would rate this instructor as",10,College,4.3,1.01,8282
-2019,Spring,CSE 1223,The subject matter of this course was well organized,1,University,4.26,0.98,8282
-2019,Spring,CSE 1223,This course was intellectually stimulating,2,University,4.2,1.01,8282
-2019,Spring,CSE 1223,This instructor was genuinely interested in teaching,3,University,4.47,0.88,8282
-2019,Spring,CSE 1223,The instructor encouraged students to think for themselves,4,University,4.4,0.89,8282
-2019,Spring,CSE 1223,The instructor was well prepared,5,University,4.37,0.94,8282
-2019,Spring,CSE 1223,The instructor was genuinely interested in helping students,6,University,4.43,0.91,8282
-2019,Spring,CSE 1223,I learned a great deal from this instructor,7,University,4.17,1.08,8282
-2019,Spring,CSE 1223,The instructor created an atmosphere conducive to learning,8,University,4.27,1,8282
-2019,Spring,CSE 1223,The instructor communicated the subject matter clearly,9,University,4.21,1.07,8282
-2019,Spring,CSE 1223,"Overall, I would rate this instructor as",10,University,4.37,0.97,8282
+2019,Spring,CSE 1223,The subject matter of this course was well organized,1,Department,4.22,0.98,,
+2019,Spring,CSE 1223,This course was intellectually stimulating,2,Department,4.16,1.01,,
+2019,Spring,CSE 1223,This instructor was genuinely interested in teaching,3,Department,4.3,0.96,,
+2019,Spring,CSE 1223,The instructor encouraged students to think for themselves,4,Department,4.28,0.94,,
+2019,Spring,CSE 1223,The instructor was well prepared,5,Department,4.26,0.98,,
+2019,Spring,CSE 1223,The instructor was genuinely interested in helping students,6,Department,4.31,0.95,,
+2019,Spring,CSE 1223,I learned a great deal from this instructor,7,Department,4.07,1.1,,
+2019,Spring,CSE 1223,The instructor created an atmosphere conducive to learning,8,Department,4.13,1.03,,
+2019,Spring,CSE 1223,The instructor communicated the subject matter clearly,9,Department,4.09,1.09,,
+2019,Spring,CSE 1223,"Overall, I would rate this instructor as",10,Department,4.24,1.02,,
+2019,Spring,CSE 1223,The subject matter of this course was well organized,1,College,4.2,0.99,,
+2019,Spring,CSE 1223,This course was intellectually stimulating,2,College,4.2,0.98,,
+2019,Spring,CSE 1223,This instructor was genuinely interested in teaching,3,College,4.38,0.92,,
+2019,Spring,CSE 1223,The instructor encouraged students to think for themselves,4,College,4.35,0.9,,
+2019,Spring,CSE 1223,The instructor was well prepared,5,College,4.29,0.96,,
+2019,Spring,CSE 1223,The instructor was genuinely interested in helping students,6,College,4.38,0.93,,
+2019,Spring,CSE 1223,I learned a great deal from this instructor,7,College,4.12,1.07,,
+2019,Spring,CSE 1223,The instructor created an atmosphere conducive to learning,8,College,4.17,1.03,,
+2019,Spring,CSE 1223,The instructor communicated the subject matter clearly,9,College,4.13,1.07,,
+2019,Spring,CSE 1223,"Overall, I would rate this instructor as",10,College,4.3,1.01,,
+2019,Spring,CSE 1223,The subject matter of this course was well organized,1,University,4.26,0.98,,
+2019,Spring,CSE 1223,This course was intellectually stimulating,2,University,4.2,1.01,,
+2019,Spring,CSE 1223,This instructor was genuinely interested in teaching,3,University,4.47,0.88,,
+2019,Spring,CSE 1223,The instructor encouraged students to think for themselves,4,University,4.4,0.89,,
+2019,Spring,CSE 1223,The instructor was well prepared,5,University,4.37,0.94,,
+2019,Spring,CSE 1223,The instructor was genuinely interested in helping students,6,University,4.43,0.91,,
+2019,Spring,CSE 1223,I learned a great deal from this instructor,7,University,4.17,1.08,,
+2019,Spring,CSE 1223,The instructor created an atmosphere conducive to learning,8,University,4.27,1,,
+2019,Spring,CSE 1223,The instructor communicated the subject matter clearly,9,University,4.21,1.07,,
+2019,Spring,CSE 1223,"Overall, I would rate this instructor as",10,University,4.37,0.97,,
 2018,Autumn,CSE 1223,The subject matter of this course was well organized,1,Instructor,4.13,0.61,26319
 2018,Autumn,CSE 1223,This course was intellectually stimulating,2,Instructor,4.38,0.66,26319
 2018,Autumn,CSE 1223,This instructor was genuinely interested in teaching,3,Instructor,4.72,0.52,26319
