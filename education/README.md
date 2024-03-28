@@ -55,3 +55,7 @@ below details the headers:
 - **Group**: the group to which the mean result belongs to (e.g., Instructor, University, Department, or College)
 - **Mean**: the mean rating out of 5 for that particular question
 - **Standard Deviation**: the standard deviation of the ratings for that particular question
+
+Note: a lot of data is duplicated in this CSV. When I teach three times a semester, I am going
+to have the same College, University, and Department metrics. Rather than only list them under
+one section, I duplicated them to save myself headache later. 
