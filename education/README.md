@@ -68,3 +68,13 @@ below details the headers:
 
 - **Section ID**: a unique identifier linking back to a course in [teaching history](teaching-history.csv)
 - **Comment**: a comment made by a previous student
+
+## SEI Questions Lookup
+
+The purpose of the [SEI questions lookup](sei-questions-lookup.csv) file is to define the 10 questions
+used in every student evaluation of instruction. The file is setup to be
+expanded if needed. For now, the headers are as follows:
+
+- **Question ID**: a unique identifier for the question
+- **Question**: the question description
+- **Scale**: the max scale value on a Likert scale (e.g., 3, 5, 7, etc.)
