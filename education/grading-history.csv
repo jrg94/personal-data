@@ -1997,3 +1997,2149 @@ Section ID,Student ID,Title,Grade,Total
 26319,37,Midterm II,67.00,100.00
 26319,37,Final Exam,66.00,100.00
 26319,37,Participation and Attendance,2.00,3.00
+8281,1,Homework 1,2.00,2.00
+8281,1,Homework 2,2.00,2.00
+8281,1,Homework 3,2.00,2.00
+8281,1,Homework 4,2.00,2.00
+8281,1,Homework 5,2.00,2.00
+8281,1,Homework 6,2.00,2.00
+8281,1,Homework 7,2.00,2.00
+8281,1,Homework 8,2.00,2.00
+8281,1,Homework 9,2.00,2.00
+8281,1,Homework 10,2.00,2.00
+8281,1,Homework 11,2.00,2.00
+8281,1,Homework 12,2.00,2.00
+8281,1,Homework 13,2.00,2.00
+8281,1,Homework 14,2.00,2.00
+8281,1,Project 1,10.00,10.00
+8281,1,Project 2,10.00,10.00
+8281,1,Project 3,10.00,10.00
+8281,1,Project 4,10.00,10.00
+8281,1,Project 5,10.00,10.00
+8281,1,Project 6,10.00,10.00
+8281,1,Project 7,4.00,10.00
+8281,1,Project 8,10.00,10.00
+8281,1,Project 9,10.00,10.00
+8281,1,Project 10,8.00,10.00
+8281,1,Project 11,8.00,10.00
+8281,1,Project 12,10.00,10.00
+8281,1,Closed Lab 01,2.00,2.00
+8281,1,Closed Lab 02,2.00,2.00
+8281,1,Closed Lab 03,2.00,2.00
+8281,1,Closed Lab 04,2.00,2.00
+8281,1,Closed Lab 05,2.00,2.00
+8281,1,Closed Lab 06,2.00,2.00
+8281,1,Closed Lab 07,2.00,2.00
+8281,1,Closed Lab 08,2.00,2.00
+8281,1,Closed Lab 09,2.00,2.00
+8281,1,Closed Lab 10,2.00,2.00
+8281,1,Closed Lab 11,2.00,2.00
+8281,1,Closed Lab 12,2.00,2.00
+8281,1,Closed Lab 13,2.00,2.00
+8281,1,Closed Lab 14,2.00,2.00
+8281,1,Reading Quiz #1 - Fundamentals,9.00,10.00
+8281,1,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,1,Reading Quiz #3 - Loops,10.00,10.00
+8281,1,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,1,Reading Quiz #5 - Methods,10.00,10.00
+8281,1,Reading Quiz #6 - Arrays,3.00,3.00
+8281,1,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,1,Reading Quiz #8 - File I/O,3.00,3.00
+8281,1,Reading Quiz #9 - OOP,4.00,4.00
+8281,1,Midterm I,90.00,100.00
+8281,1,Midterm II,91.00,100.00
+8281,1,Final Exam,84.00,100.00
+8281,1,Participation and Attendance,3.00,3.00
+8281,1,Top Hat,85.48,100.00
+8281,1,TH-Attendance,100.00,100.00
+8281,2,Homework 1,2.00,2.00
+8281,2,Homework 2,2.00,2.00
+8281,2,Homework 3,2.00,2.00
+8281,2,Homework 4,2.00,2.00
+8281,2,Homework 5,2.00,2.00
+8281,2,Homework 6,2.00,2.00
+8281,2,Homework 7,2.00,2.00
+8281,2,Homework 8,2.00,2.00
+8281,2,Homework 9,2.00,2.00
+8281,2,Homework 10,2.00,2.00
+8281,2,Homework 11,2.00,2.00
+8281,2,Homework 12,2.00,2.00
+8281,2,Homework 13,2.00,2.00
+8281,2,Homework 14,2.00,2.00
+8281,2,Project 1,10.00,10.00
+8281,2,Project 2,12.00,10.00
+8281,2,Project 3,10.00,10.00
+8281,2,Project 4,12.00,10.00
+8281,2,Project 5,10.00,10.00
+8281,2,Project 6,10.00,10.00
+8281,2,Project 7,10.00,10.00
+8281,2,Project 8,10.00,10.00
+8281,2,Project 9,10.00,10.00
+8281,2,Project 10,12.00,10.00
+8281,2,Project 11,10.00,10.00
+8281,2,Project 12,8.00,10.00
+8281,2,Closed Lab 01,2.00,2.00
+8281,2,Closed Lab 02,2.00,2.00
+8281,2,Closed Lab 03,2.00,2.00
+8281,2,Closed Lab 04,2.00,2.00
+8281,2,Closed Lab 05,2.00,2.00
+8281,2,Closed Lab 06,2.00,2.00
+8281,2,Closed Lab 07,2.00,2.00
+8281,2,Closed Lab 08,2.00,2.00
+8281,2,Closed Lab 09,2.00,2.00
+8281,2,Closed Lab 10,2.00,2.00
+8281,2,Closed Lab 11,2.00,2.00
+8281,2,Closed Lab 12,2.00,2.00
+8281,2,Closed Lab 13,2.00,2.00
+8281,2,Closed Lab 14,0.00,2.00
+8281,2,Reading Quiz #1 - Fundamentals,9.00,10.00
+8281,2,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,2,Reading Quiz #3 - Loops,10.00,10.00
+8281,2,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,2,Reading Quiz #5 - Methods,10.00,10.00
+8281,2,Reading Quiz #6 - Arrays,3.00,3.00
+8281,2,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,2,Reading Quiz #8 - File I/O,3.00,3.00
+8281,2,Reading Quiz #9 - OOP,4.00,4.00
+8281,2,Midterm I,79.00,100.00
+8281,2,Midterm II,89.00,100.00
+8281,2,Final Exam,87.00,100.00
+8281,2,Participation and Attendance,3.00,3.00
+8281,2,Top Hat,74.19,100.00
+8281,2,TH-Attendance,79.17,100.00
+8281,3,Homework 1,2.00,2.00
+8281,3,Homework 2,2.00,2.00
+8281,3,Homework 3,2.00,2.00
+8281,3,Homework 4,2.00,2.00
+8281,3,Homework 5,2.00,2.00
+8281,3,Homework 6,2.00,2.00
+8281,3,Homework 7,2.00,2.00
+8281,3,Homework 8,0.00,2.00
+8281,3,Homework 9,2.00,2.00
+8281,3,Homework 10,2.00,2.00
+8281,3,Homework 11,2.00,2.00
+8281,3,Homework 12,2.00,2.00
+8281,3,Homework 13,2.00,2.00
+8281,3,Homework 14,2.00,2.00
+8281,3,Project 1,10.00,10.00
+8281,3,Project 2,10.00,10.00
+8281,3,Project 3,10.00,10.00
+8281,3,Project 4,10.00,10.00
+8281,3,Project 5,10.00,10.00
+8281,3,Project 6,6.00,10.00
+8281,3,Project 7,10.00,10.00
+8281,3,Project 8,10.00,10.00
+8281,3,Project 9,10.00,10.00
+8281,3,Project 10,10.00,10.00
+8281,3,Project 11,10.00,10.00
+8281,3,Project 12,10.00,10.00
+8281,3,Closed Lab 01,2.00,2.00
+8281,3,Closed Lab 02,2.00,2.00
+8281,3,Closed Lab 03,2.00,2.00
+8281,3,Closed Lab 04,2.00,2.00
+8281,3,Closed Lab 05,2.00,2.00
+8281,3,Closed Lab 06,2.00,2.00
+8281,3,Closed Lab 07,2.00,2.00
+8281,3,Closed Lab 08,2.00,2.00
+8281,3,Closed Lab 09,2.00,2.00
+8281,3,Closed Lab 10,2.00,2.00
+8281,3,Closed Lab 11,2.00,2.00
+8281,3,Closed Lab 12,2.00,2.00
+8281,3,Closed Lab 13,2.00,2.00
+8281,3,Closed Lab 14,2.00,2.00
+8281,3,Reading Quiz #1 - Fundamentals,5.00,10.00
+8281,3,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,3,Reading Quiz #3 - Loops,10.00,10.00
+8281,3,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,3,Reading Quiz #5 - Methods,10.00,10.00
+8281,3,Reading Quiz #6 - Arrays,3.00,3.00
+8281,3,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,3,Reading Quiz #8 - File I/O,3.00,3.00
+8281,3,Reading Quiz #9 - OOP,4.00,4.00
+8281,3,Midterm I,77.00,100.00
+8281,3,Midterm II,66.00,100.00
+8281,3,Final Exam,87.00,100.00
+8281,3,Participation and Attendance,3.00,3.00
+8281,3,Top Hat,50.00,100.00
+8281,3,TH-Attendance,91.67,100.00
+8281,4,Homework 1,2.00,2.00
+8281,4,Homework 2,2.00,2.00
+8281,4,Homework 3,2.00,2.00
+8281,4,Homework 4,2.00,2.00
+8281,4,Homework 5,2.00,2.00
+8281,4,Homework 6,2.00,2.00
+8281,4,Homework 7,2.00,2.00
+8281,4,Homework 8,2.00,2.00
+8281,4,Homework 9,2.00,2.00
+8281,4,Homework 10,2.00,2.00
+8281,4,Homework 11,2.00,2.00
+8281,4,Homework 12,2.00,2.00
+8281,4,Homework 13,2.00,2.00
+8281,4,Homework 14,2.00,2.00
+8281,4,Project 1,10.00,10.00
+8281,4,Project 2,12.00,10.00
+8281,4,Project 3,8.00,10.00
+8281,4,Project 4,8.00,10.00
+8281,4,Project 5,10.00,10.00
+8281,4,Project 6,10.00,10.00
+8281,4,Project 7,10.00,10.00
+8281,4,Project 8,10.00,10.00
+8281,4,Project 9,10.00,10.00
+8281,4,Project 10,10.00,10.00
+8281,4,Project 11,8.00,10.00
+8281,4,Project 12,8.00,10.00
+8281,4,Closed Lab 01,2.00,2.00
+8281,4,Closed Lab 02,2.00,2.00
+8281,4,Closed Lab 03,2.00,2.00
+8281,4,Closed Lab 04,2.00,2.00
+8281,4,Closed Lab 05,2.00,2.00
+8281,4,Closed Lab 06,2.00,2.00
+8281,4,Closed Lab 07,2.00,2.00
+8281,4,Closed Lab 08,2.00,2.00
+8281,4,Closed Lab 09,2.00,2.00
+8281,4,Closed Lab 10,2.00,2.00
+8281,4,Closed Lab 11,2.00,2.00
+8281,4,Closed Lab 12,2.00,2.00
+8281,4,Closed Lab 13,2.00,2.00
+8281,4,Closed Lab 14,2.00,2.00
+8281,4,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,4,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,4,Reading Quiz #3 - Loops,10.00,10.00
+8281,4,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,4,Reading Quiz #5 - Methods,10.00,10.00
+8281,4,Reading Quiz #6 - Arrays,3.00,3.00
+8281,4,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,4,Reading Quiz #8 - File I/O,3.00,3.00
+8281,4,Reading Quiz #9 - OOP,4.00,4.00
+8281,4,Midterm I,85.00,100.00
+8281,4,Midterm II,75.00,100.00
+8281,4,Final Exam,91.00,100.00
+8281,4,Participation and Attendance,3.00,3.00
+8281,4,Top Hat,69.35,100.00
+8281,4,TH-Attendance,100.00,100.00
+8281,5,Homework 1,2.00,2.00
+8281,5,Homework 2,2.00,2.00
+8281,5,Homework 3,2.00,2.00
+8281,5,Homework 4,2.00,2.00
+8281,5,Homework 5,2.00,2.00
+8281,5,Homework 6,2.00,2.00
+8281,5,Homework 7,2.00,2.00
+8281,5,Homework 8,2.00,2.00
+8281,5,Homework 9,2.00,2.00
+8281,5,Homework 10,2.00,2.00
+8281,5,Homework 11,2.00,2.00
+8281,5,Homework 12,2.00,2.00
+8281,5,Homework 13,2.00,2.00
+8281,5,Homework 14,2.00,2.00
+8281,5,Project 1,10.00,10.00
+8281,5,Project 2,11.00,10.00
+8281,5,Project 3,10.00,10.00
+8281,5,Project 4,10.00,10.00
+8281,5,Project 5,10.00,10.00
+8281,5,Project 6,10.00,10.00
+8281,5,Project 7,10.00,10.00
+8281,5,Project 8,10.00,10.00
+8281,5,Project 9,10.00,10.00
+8281,5,Project 10,10.00,10.00
+8281,5,Project 11,10.00,10.00
+8281,5,Project 12,10.00,10.00
+8281,5,Closed Lab 01,2.00,2.00
+8281,5,Closed Lab 02,2.00,2.00
+8281,5,Closed Lab 03,2.00,2.00
+8281,5,Closed Lab 04,2.00,2.00
+8281,5,Closed Lab 05,2.00,2.00
+8281,5,Closed Lab 06,2.00,2.00
+8281,5,Closed Lab 07,2.00,2.00
+8281,5,Closed Lab 08,2.00,2.00
+8281,5,Closed Lab 09,2.00,2.00
+8281,5,Closed Lab 10,2.00,2.00
+8281,5,Closed Lab 11,2.00,2.00
+8281,5,Closed Lab 12,2.00,2.00
+8281,5,Closed Lab 13,2.00,2.00
+8281,5,Closed Lab 14,2.00,2.00
+8281,5,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,5,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,5,Reading Quiz #3 - Loops,10.00,10.00
+8281,5,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,5,Reading Quiz #5 - Methods,10.00,10.00
+8281,5,Reading Quiz #6 - Arrays,3.00,3.00
+8281,5,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,5,Reading Quiz #8 - File I/O,3.00,3.00
+8281,5,Reading Quiz #9 - OOP,4.00,4.00
+8281,5,Midterm I,100.00,100.00
+8281,5,Midterm II,100.00,100.00
+8281,5,Final Exam,93.00,100.00
+8281,5,Participation and Attendance,3.00,3.00
+8281,5,Top Hat,85.48,100.00
+8281,5,TH-Attendance,100.00,100.00
+8281,6,Homework 1,2.00,2.00
+8281,6,Homework 2,2.00,2.00
+8281,6,Homework 3,2.00,2.00
+8281,6,Homework 4,0.00,2.00
+8281,6,Homework 5,2.00,2.00
+8281,6,Homework 6,2.00,2.00
+8281,6,Homework 7,0.00,2.00
+8281,6,Homework 8,2.00,2.00
+8281,6,Homework 9,2.00,2.00
+8281,6,Homework 10,2.00,2.00
+8281,6,Homework 11,0.00,2.00
+8281,6,Homework 12,0.00,2.00
+8281,6,Homework 13,2.00,2.00
+8281,6,Homework 14,2.00,2.00
+8281,6,Project 1,10.00,10.00
+8281,6,Project 2,10.00,10.00
+8281,6,Project 3,10.00,10.00
+8281,6,Project 4,12.00,10.00
+8281,6,Project 5,10.00,10.00
+8281,6,Project 6,10.00,10.00
+8281,6,Project 7,10.00,10.00
+8281,6,Project 8,10.00,10.00
+8281,6,Project 9,10.00,10.00
+8281,6,Project 10,10.00,10.00
+8281,6,Project 11,8.00,10.00
+8281,6,Project 12,10.00,10.00
+8281,6,Closed Lab 01,2.00,2.00
+8281,6,Closed Lab 02,1.00,2.00
+8281,6,Closed Lab 03,2.00,2.00
+8281,6,Closed Lab 04,2.00,2.00
+8281,6,Closed Lab 05,2.00,2.00
+8281,6,Closed Lab 06,2.00,2.00
+8281,6,Closed Lab 07,2.00,2.00
+8281,6,Closed Lab 08,2.00,2.00
+8281,6,Closed Lab 09,2.00,2.00
+8281,6,Closed Lab 10,2.00,2.00
+8281,6,Closed Lab 11,0.00,2.00
+8281,6,Closed Lab 12,0.00,2.00
+8281,6,Closed Lab 13,2.00,2.00
+8281,6,Closed Lab 14,2.00,2.00
+8281,6,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,6,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,6,Reading Quiz #3 - Loops,10.00,10.00
+8281,6,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,6,Reading Quiz #5 - Methods,10.00,10.00
+8281,6,Reading Quiz #6 - Arrays,3.00,3.00
+8281,6,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,6,Reading Quiz #8 - File I/O,3.00,3.00
+8281,6,Reading Quiz #9 - OOP,4.00,4.00
+8281,6,Midterm I,36.00,100.00
+8281,6,Midterm II,47.00,100.00
+8281,6,Final Exam,61.00,100.00
+8281,6,Participation and Attendance,3.00,3.00
+8281,6,Top Hat,53.23,100.00
+8281,6,TH-Attendance,95.83,100.00
+8281,7,Homework 1,2.00,2.00
+8281,7,Homework 2,2.00,2.00
+8281,7,Homework 3,2.00,2.00
+8281,7,Homework 4,2.00,2.00
+8281,7,Homework 5,2.00,2.00
+8281,7,Homework 6,2.00,2.00
+8281,7,Homework 7,2.00,2.00
+8281,7,Homework 8,2.00,2.00
+8281,7,Homework 9,2.00,2.00
+8281,7,Homework 10,2.00,2.00
+8281,7,Homework 11,2.00,2.00
+8281,7,Homework 12,2.00,2.00
+8281,7,Homework 13,2.00,2.00
+8281,7,Homework 14,2.00,2.00
+8281,7,Project 1,10.00,10.00
+8281,7,Project 2,11.00,10.00
+8281,7,Project 3,10.00,10.00
+8281,7,Project 4,6.00,10.00
+8281,7,Project 5,8.00,10.00
+8281,7,Project 6,10.00,10.00
+8281,7,Project 7,10.00,10.00
+8281,7,Project 8,10.00,10.00
+8281,7,Project 9,10.00,10.00
+8281,7,Project 10,10.00,10.00
+8281,7,Project 11,10.00,10.00
+8281,7,Project 12,10.00,10.00
+8281,7,Closed Lab 01,2.00,2.00
+8281,7,Closed Lab 02,2.00,2.00
+8281,7,Closed Lab 03,2.00,2.00
+8281,7,Closed Lab 04,2.00,2.00
+8281,7,Closed Lab 05,2.00,2.00
+8281,7,Closed Lab 06,2.00,2.00
+8281,7,Closed Lab 07,2.00,2.00
+8281,7,Closed Lab 08,2.00,2.00
+8281,7,Closed Lab 09,2.00,2.00
+8281,7,Closed Lab 10,2.00,2.00
+8281,7,Closed Lab 11,2.00,2.00
+8281,7,Closed Lab 12,2.00,2.00
+8281,7,Closed Lab 13,2.00,2.00
+8281,7,Closed Lab 14,2.00,2.00
+8281,7,Reading Quiz #1 - Fundamentals,9.00,10.00
+8281,7,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,7,Reading Quiz #3 - Loops,10.00,10.00
+8281,7,Reading Quiz #4 - Nested Loops,4.00,5.00
+8281,7,Reading Quiz #5 - Methods,10.00,10.00
+8281,7,Reading Quiz #6 - Arrays,3.00,3.00
+8281,7,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,7,Reading Quiz #8 - File I/O,3.00,3.00
+8281,7,Reading Quiz #9 - OOP,4.00,4.00
+8281,7,Midterm I,87.00,100.00
+8281,7,Midterm II,76.00,100.00
+8281,7,Final Exam,86.00,100.00
+8281,7,Participation and Attendance,3.00,3.00
+8281,7,Top Hat,82.26,100.00
+8281,7,TH-Attendance,87.50,100.00
+8281,8,Homework 1,2.00,2.00
+8281,8,Homework 2,2.00,2.00
+8281,8,Homework 3,2.00,2.00
+8281,8,Homework 4,1.00,2.00
+8281,8,Homework 5,0.00,2.00
+8281,8,Homework 6,0.00,2.00
+8281,8,Homework 7,2.00,2.00
+8281,8,Homework 8,2.00,2.00
+8281,8,Homework 9,2.00,2.00
+8281,8,Homework 10,2.00,2.00
+8281,8,Homework 11,2.00,2.00
+8281,8,Homework 12,2.00,2.00
+8281,8,Homework 13,2.00,2.00
+8281,8,Homework 14,2.00,2.00
+8281,8,Project 1,10.00,10.00
+8281,8,Project 2,12.00,10.00
+8281,8,Project 3,8.00,10.00
+8281,8,Project 4,12.00,10.00
+8281,8,Project 5,8.00,10.00
+8281,8,Project 6,10.00,10.00
+8281,8,Project 7,10.00,10.00
+8281,8,Project 8,10.00,10.00
+8281,8,Project 9,10.00,10.00
+8281,8,Project 10,10.00,10.00
+8281,8,Project 11,10.00,10.00
+8281,8,Project 12,8.00,10.00
+8281,8,Closed Lab 01,2.00,2.00
+8281,8,Closed Lab 02,2.00,2.00
+8281,8,Closed Lab 03,2.00,2.00
+8281,8,Closed Lab 04,2.00,2.00
+8281,8,Closed Lab 05,2.00,2.00
+8281,8,Closed Lab 06,2.00,2.00
+8281,8,Closed Lab 07,2.00,2.00
+8281,8,Closed Lab 08,2.00,2.00
+8281,8,Closed Lab 09,2.00,2.00
+8281,8,Closed Lab 10,2.00,2.00
+8281,8,Closed Lab 11,2.00,2.00
+8281,8,Closed Lab 12,2.00,2.00
+8281,8,Closed Lab 13,2.00,2.00
+8281,8,Closed Lab 14,0.00,2.00
+8281,8,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,8,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,8,Reading Quiz #3 - Loops,10.00,10.00
+8281,8,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,8,Reading Quiz #5 - Methods,10.00,10.00
+8281,8,Reading Quiz #6 - Arrays,3.00,3.00
+8281,8,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,8,Reading Quiz #8 - File I/O,3.00,3.00
+8281,8,Reading Quiz #9 - OOP,4.00,4.00
+8281,8,Midterm I,82.00,100.00
+8281,8,Midterm II,74.00,100.00
+8281,8,Final Exam,67.00,100.00
+8281,8,Participation and Attendance,3.00,3.00
+8281,8,Top Hat,32.26,100.00
+8281,8,TH-Attendance,50.00,100.00
+8281,9,Homework 1,2.00,2.00
+8281,9,Homework 2,2.00,2.00
+8281,9,Homework 3,2.00,2.00
+8281,9,Homework 4,2.00,2.00
+8281,9,Homework 5,2.00,2.00
+8281,9,Homework 6,2.00,2.00
+8281,9,Homework 7,2.00,2.00
+8281,9,Homework 8,2.00,2.00
+8281,9,Homework 9,2.00,2.00
+8281,9,Homework 10,2.00,2.00
+8281,9,Homework 11,2.00,2.00
+8281,9,Homework 12,2.00,2.00
+8281,9,Homework 13,2.00,2.00
+8281,9,Homework 14,2.00,2.00
+8281,9,Project 1,10.00,10.00
+8281,9,Project 2,10.00,10.00
+8281,9,Project 3,6.00,10.00
+8281,9,Project 4,4.00,10.00
+8281,9,Project 5,8.00,10.00
+8281,9,Project 6,8.00,10.00
+8281,9,Project 7,10.00,10.00
+8281,9,Project 8,10.00,10.00
+8281,9,Project 9,8.00,10.00
+8281,9,Project 10,8.00,10.00
+8281,9,Project 11,8.00,10.00
+8281,9,Project 12,8.00,10.00
+8281,9,Closed Lab 01,2.00,2.00
+8281,9,Closed Lab 02,2.00,2.00
+8281,9,Closed Lab 03,2.00,2.00
+8281,9,Closed Lab 04,2.00,2.00
+8281,9,Closed Lab 05,2.00,2.00
+8281,9,Closed Lab 06,2.00,2.00
+8281,9,Closed Lab 07,2.00,2.00
+8281,9,Closed Lab 08,2.00,2.00
+8281,9,Closed Lab 09,2.00,2.00
+8281,9,Closed Lab 10,2.00,2.00
+8281,9,Closed Lab 11,2.00,2.00
+8281,9,Closed Lab 12,2.00,2.00
+8281,9,Closed Lab 13,2.00,2.00
+8281,9,Closed Lab 14,2.00,2.00
+8281,9,Reading Quiz #1 - Fundamentals,8.00,10.00
+8281,9,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,9,Reading Quiz #3 - Loops,10.00,10.00
+8281,9,Reading Quiz #4 - Nested Loops,4.80,5.00
+8281,9,Reading Quiz #5 - Methods,10.00,10.00
+8281,9,Reading Quiz #6 - Arrays,3.00,3.00
+8281,9,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,9,Reading Quiz #8 - File I/O,3.00,3.00
+8281,9,Reading Quiz #9 - OOP,4.00,4.00
+8281,9,Midterm I,92.00,100.00
+8281,9,Midterm II,91.00,100.00
+8281,9,Final Exam,89.00,100.00
+8281,9,Participation and Attendance,3.00,3.00
+8281,9,Top Hat,80.65,100.00
+8281,9,TH-Attendance,91.67,100.00
+8281,10,Homework 1,2.00,2.00
+8281,10,Homework 2,2.00,2.00
+8281,10,Homework 3,2.00,2.00
+8281,10,Homework 4,2.00,2.00
+8281,10,Homework 5,2.00,2.00
+8281,10,Homework 6,2.00,2.00
+8281,10,Homework 7,2.00,2.00
+8281,10,Homework 8,2.00,2.00
+8281,10,Homework 9,2.00,2.00
+8281,10,Homework 10,2.00,2.00
+8281,10,Homework 11,2.00,2.00
+8281,10,Homework 12,2.00,2.00
+8281,10,Homework 13,2.00,2.00
+8281,10,Homework 14,2.00,2.00
+8281,10,Project 1,10.00,10.00
+8281,10,Project 2,12.00,10.00
+8281,10,Project 3,10.00,10.00
+8281,10,Project 4,12.00,10.00
+8281,10,Project 5,10.00,10.00
+8281,10,Project 6,10.00,10.00
+8281,10,Project 7,10.00,10.00
+8281,10,Project 8,10.00,10.00
+8281,10,Project 9,10.00,10.00
+8281,10,Project 10,8.00,10.00
+8281,10,Project 11,10.00,10.00
+8281,10,Project 12,8.00,10.00
+8281,10,Closed Lab 01,2.00,2.00
+8281,10,Closed Lab 02,2.00,2.00
+8281,10,Closed Lab 03,2.00,2.00
+8281,10,Closed Lab 04,2.00,2.00
+8281,10,Closed Lab 05,2.00,2.00
+8281,10,Closed Lab 06,2.00,2.00
+8281,10,Closed Lab 07,2.00,2.00
+8281,10,Closed Lab 08,2.00,2.00
+8281,10,Closed Lab 09,2.00,2.00
+8281,10,Closed Lab 10,2.00,2.00
+8281,10,Closed Lab 11,2.00,2.00
+8281,10,Closed Lab 12,2.00,2.00
+8281,10,Closed Lab 13,2.00,2.00
+8281,10,Closed Lab 14,2.00,2.00
+8281,10,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,10,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,10,Reading Quiz #3 - Loops,10.00,10.00
+8281,10,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,10,Reading Quiz #5 - Methods,10.00,10.00
+8281,10,Reading Quiz #6 - Arrays,3.00,3.00
+8281,10,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,10,Reading Quiz #8 - File I/O,3.00,3.00
+8281,10,Reading Quiz #9 - OOP,4.00,4.00
+8281,10,Midterm I,99.00,100.00
+8281,10,Midterm II,95.00,100.00
+8281,10,Final Exam,97.00,100.00
+8281,10,Participation and Attendance,3.00,3.00
+8281,10,Top Hat,80.65,100.00
+8281,10,TH-Attendance,100.00,100.00
+8281,11,Homework 1,2.00,2.00
+8281,11,Homework 2,2.00,2.00
+8281,11,Homework 3,2.00,2.00
+8281,11,Homework 4,0.00,2.00
+8281,11,Homework 5,2.00,2.00
+8281,11,Homework 6,2.00,2.00
+8281,11,Homework 7,2.00,2.00
+8281,11,Homework 8,0.00,2.00
+8281,11,Homework 9,2.00,2.00
+8281,11,Homework 10,2.00,2.00
+8281,11,Homework 11,2.00,2.00
+8281,11,Homework 12,2.00,2.00
+8281,11,Homework 13,2.00,2.00
+8281,11,Homework 14,2.00,2.00
+8281,11,Project 1,10.00,10.00
+8281,11,Project 2,12.00,10.00
+8281,11,Project 3,10.00,10.00
+8281,11,Project 4,12.00,10.00
+8281,11,Project 5,10.00,10.00
+8281,11,Project 6,10.00,10.00
+8281,11,Project 7,10.00,10.00
+8281,11,Project 8,10.00,10.00
+8281,11,Project 9,10.00,10.00
+8281,11,Project 10,12.00,10.00
+8281,11,Project 11,10.00,10.00
+8281,11,Project 12,10.00,10.00
+8281,11,Closed Lab 01,2.00,2.00
+8281,11,Closed Lab 02,2.00,2.00
+8281,11,Closed Lab 03,2.00,2.00
+8281,11,Closed Lab 04,2.00,2.00
+8281,11,Closed Lab 05,2.00,2.00
+8281,11,Closed Lab 06,2.00,2.00
+8281,11,Closed Lab 07,2.00,2.00
+8281,11,Closed Lab 08,2.00,2.00
+8281,11,Closed Lab 09,2.00,2.00
+8281,11,Closed Lab 10,2.00,2.00
+8281,11,Closed Lab 11,2.00,2.00
+8281,11,Closed Lab 12,2.00,2.00
+8281,11,Closed Lab 13,0.00,2.00
+8281,11,Closed Lab 14,2.00,2.00
+8281,11,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,11,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,11,Reading Quiz #3 - Loops,10.00,10.00
+8281,11,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,11,Reading Quiz #5 - Methods,10.00,10.00
+8281,11,Reading Quiz #6 - Arrays,3.00,3.00
+8281,11,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,11,Reading Quiz #8 - File I/O,3.00,3.00
+8281,11,Reading Quiz #9 - OOP,4.00,4.00
+8281,11,Midterm I,95.00,100.00
+8281,11,Midterm II,88.00,100.00
+8281,11,Final Exam,95.00,100.00
+8281,11,Participation and Attendance,2.00,3.00
+8281,11,Top Hat,22.58,100.00
+8281,11,TH-Attendance,41.67,100.00
+8281,12,Homework 1,2.00,2.00
+8281,12,Homework 2,2.00,2.00
+8281,12,Homework 3,2.00,2.00
+8281,12,Homework 4,2.00,2.00
+8281,12,Homework 5,2.00,2.00
+8281,12,Homework 6,2.00,2.00
+8281,12,Homework 7,2.00,2.00
+8281,12,Homework 8,2.00,2.00
+8281,12,Homework 9,2.00,2.00
+8281,12,Homework 10,2.00,2.00
+8281,12,Homework 11,2.00,2.00
+8281,12,Homework 12,2.00,2.00
+8281,12,Homework 13,2.00,2.00
+8281,12,Homework 14,2.00,2.00
+8281,12,Project 1,10.00,10.00
+8281,12,Project 2,0.00,10.00
+8281,12,Project 3,10.00,10.00
+8281,12,Project 4,6.00,10.00
+8281,12,Project 5,10.00,10.00
+8281,12,Project 6,10.00,10.00
+8281,12,Project 7,10.00,10.00
+8281,12,Project 8,10.00,10.00
+8281,12,Project 9,10.00,10.00
+8281,12,Project 10,8.00,10.00
+8281,12,Project 11,8.00,10.00
+8281,12,Project 12,10.00,10.00
+8281,12,Closed Lab 01,2.00,2.00
+8281,12,Closed Lab 02,2.00,2.00
+8281,12,Closed Lab 03,0.00,2.00
+8281,12,Closed Lab 04,2.00,2.00
+8281,12,Closed Lab 05,2.00,2.00
+8281,12,Closed Lab 06,2.00,2.00
+8281,12,Closed Lab 07,1.00,2.00
+8281,12,Closed Lab 08,2.00,2.00
+8281,12,Closed Lab 09,1.00,2.00
+8281,12,Closed Lab 10,2.00,2.00
+8281,12,Closed Lab 11,2.00,2.00
+8281,12,Closed Lab 12,2.00,2.00
+8281,12,Closed Lab 13,2.00,2.00
+8281,12,Closed Lab 14,2.00,2.00
+8281,12,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,12,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,12,Reading Quiz #3 - Loops,10.00,10.00
+8281,12,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,12,Reading Quiz #5 - Methods,10.00,10.00
+8281,12,Reading Quiz #6 - Arrays,3.00,3.00
+8281,12,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,12,Reading Quiz #8 - File I/O,3.00,3.00
+8281,12,Reading Quiz #9 - OOP,4.00,4.00
+8281,12,Midterm I,89.00,100.00
+8281,12,Midterm II,87.00,100.00
+8281,12,Final Exam,88.00,100.00
+8281,12,Participation and Attendance,0.00,3.00
+8281,12,Top Hat,6.45,100.00
+8281,12,TH-Attendance,12.50,100.00
+8281,13,Homework 1,2.00,2.00
+8281,13,Homework 2,2.00,2.00
+8281,13,Homework 3,2.00,2.00
+8281,13,Homework 4,2.00,2.00
+8281,13,Homework 5,2.00,2.00
+8281,13,Homework 6,2.00,2.00
+8281,13,Homework 7,2.00,2.00
+8281,13,Homework 8,2.00,2.00
+8281,13,Homework 9,2.00,2.00
+8281,13,Homework 10,2.00,2.00
+8281,13,Homework 11,2.00,2.00
+8281,13,Homework 12,2.00,2.00
+8281,13,Homework 13,2.00,2.00
+8281,13,Homework 14,2.00,2.00
+8281,13,Project 1,10.00,10.00
+8281,13,Project 2,12.00,10.00
+8281,13,Project 3,8.00,10.00
+8281,13,Project 4,11.00,10.00
+8281,13,Project 5,10.00,10.00
+8281,13,Project 6,10.00,10.00
+8281,13,Project 7,10.00,10.00
+8281,13,Project 8,10.00,10.00
+8281,13,Project 9,10.00,10.00
+8281,13,Project 10,10.00,10.00
+8281,13,Project 11,10.00,10.00
+8281,13,Project 12,10.00,10.00
+8281,13,Closed Lab 01,2.00,2.00
+8281,13,Closed Lab 02,2.00,2.00
+8281,13,Closed Lab 03,2.00,2.00
+8281,13,Closed Lab 04,2.00,2.00
+8281,13,Closed Lab 05,2.00,2.00
+8281,13,Closed Lab 06,2.00,2.00
+8281,13,Closed Lab 07,2.00,2.00
+8281,13,Closed Lab 08,2.00,2.00
+8281,13,Closed Lab 09,2.00,2.00
+8281,13,Closed Lab 10,2.00,2.00
+8281,13,Closed Lab 11,2.00,2.00
+8281,13,Closed Lab 12,2.00,2.00
+8281,13,Closed Lab 13,2.00,2.00
+8281,13,Closed Lab 14,2.00,2.00
+8281,13,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,13,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,13,Reading Quiz #3 - Loops,10.00,10.00
+8281,13,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,13,Reading Quiz #5 - Methods,10.00,10.00
+8281,13,Reading Quiz #6 - Arrays,3.00,3.00
+8281,13,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,13,Reading Quiz #8 - File I/O,3.00,3.00
+8281,13,Reading Quiz #9 - OOP,4.00,4.00
+8281,13,Midterm I,95.00,100.00
+8281,13,Midterm II,100.00,100.00
+8281,13,Final Exam,90.00,100.00
+8281,13,Participation and Attendance,3.00,3.00
+8281,13,Top Hat,75.81,100.00
+8281,13,TH-Attendance,83.33,100.00
+8281,14,Homework 1,2.00,2.00
+8281,14,Homework 2,2.00,2.00
+8281,14,Homework 3,2.00,2.00
+8281,14,Homework 4,2.00,2.00
+8281,14,Homework 5,2.00,2.00
+8281,14,Homework 6,2.00,2.00
+8281,14,Homework 7,2.00,2.00
+8281,14,Homework 8,2.00,2.00
+8281,14,Homework 9,2.00,2.00
+8281,14,Homework 10,2.00,2.00
+8281,14,Homework 11,2.00,2.00
+8281,14,Homework 12,2.00,2.00
+8281,14,Homework 13,2.00,2.00
+8281,14,Homework 14,2.00,2.00
+8281,14,Project 1,10.00,10.00
+8281,14,Project 2,10.00,10.00
+8281,14,Project 3,10.00,10.00
+8281,14,Project 4,10.00,10.00
+8281,14,Project 5,10.00,10.00
+8281,14,Project 6,10.00,10.00
+8281,14,Project 7,10.00,10.00
+8281,14,Project 8,10.00,10.00
+8281,14,Project 9,10.00,10.00
+8281,14,Project 10,10.00,10.00
+8281,14,Project 11,6.00,10.00
+8281,14,Project 12,10.00,10.00
+8281,14,Closed Lab 01,2.00,2.00
+8281,14,Closed Lab 02,2.00,2.00
+8281,14,Closed Lab 03,2.00,2.00
+8281,14,Closed Lab 04,2.00,2.00
+8281,14,Closed Lab 05,2.00,2.00
+8281,14,Closed Lab 06,2.00,2.00
+8281,14,Closed Lab 07,2.00,2.00
+8281,14,Closed Lab 08,2.00,2.00
+8281,14,Closed Lab 09,2.00,2.00
+8281,14,Closed Lab 10,2.00,2.00
+8281,14,Closed Lab 11,2.00,2.00
+8281,14,Closed Lab 12,2.00,2.00
+8281,14,Closed Lab 13,2.00,2.00
+8281,14,Closed Lab 14,0.00,2.00
+8281,14,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,14,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,14,Reading Quiz #3 - Loops,10.00,10.00
+8281,14,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,14,Reading Quiz #5 - Methods,10.00,10.00
+8281,14,Reading Quiz #6 - Arrays,3.00,3.00
+8281,14,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,14,Reading Quiz #8 - File I/O,3.00,3.00
+8281,14,Reading Quiz #9 - OOP,4.00,4.00
+8281,14,Midterm I,94.00,100.00
+8281,14,Midterm II,88.00,100.00
+8281,14,Final Exam,93.00,100.00
+8281,14,Participation and Attendance,2.00,3.00
+8281,14,Top Hat,41.94,100.00
+8281,14,TH-Attendance,50.00,100.00
+8281,15,Homework 1,2.00,2.00
+8281,15,Homework 2,2.00,2.00
+8281,15,Homework 3,2.00,2.00
+8281,15,Homework 4,2.00,2.00
+8281,15,Homework 5,2.00,2.00
+8281,15,Homework 6,2.00,2.00
+8281,15,Homework 7,2.00,2.00
+8281,15,Homework 8,2.00,2.00
+8281,15,Homework 9,2.00,2.00
+8281,15,Homework 10,2.00,2.00
+8281,15,Homework 11,2.00,2.00
+8281,15,Homework 12,2.00,2.00
+8281,15,Homework 13,2.00,2.00
+8281,15,Homework 14,2.00,2.00
+8281,15,Project 1,10.00,10.00
+8281,15,Project 2,12.00,10.00
+8281,15,Project 3,10.00,10.00
+8281,15,Project 4,12.00,10.00
+8281,15,Project 5,10.00,10.00
+8281,15,Project 6,10.00,10.00
+8281,15,Project 7,10.00,10.00
+8281,15,Project 8,10.00,10.00
+8281,15,Project 9,10.00,10.00
+8281,15,Project 10,12.00,10.00
+8281,15,Project 11,10.00,10.00
+8281,15,Project 12,8.00,10.00
+8281,15,Closed Lab 01,2.00,2.00
+8281,15,Closed Lab 02,2.00,2.00
+8281,15,Closed Lab 03,2.00,2.00
+8281,15,Closed Lab 04,2.00,2.00
+8281,15,Closed Lab 05,2.00,2.00
+8281,15,Closed Lab 06,2.00,2.00
+8281,15,Closed Lab 07,2.00,2.00
+8281,15,Closed Lab 08,2.00,2.00
+8281,15,Closed Lab 09,2.00,2.00
+8281,15,Closed Lab 10,2.00,2.00
+8281,15,Closed Lab 11,2.00,2.00
+8281,15,Closed Lab 12,2.00,2.00
+8281,15,Closed Lab 13,2.00,2.00
+8281,15,Closed Lab 14,2.00,2.00
+8281,15,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,15,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,15,Reading Quiz #3 - Loops,10.00,10.00
+8281,15,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,15,Reading Quiz #5 - Methods,10.00,10.00
+8281,15,Reading Quiz #6 - Arrays,3.00,3.00
+8281,15,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,15,Reading Quiz #8 - File I/O,3.00,3.00
+8281,15,Reading Quiz #9 - OOP,4.00,4.00
+8281,15,Midterm I,94.00,100.00
+8281,15,Midterm II,98.00,100.00
+8281,15,Final Exam,99.00,100.00
+8281,15,Participation and Attendance,2.00,3.00
+8281,15,Top Hat,88.71,100.00
+8281,15,TH-Attendance,95.83,100.00
+8281,16,Homework 1,2.00,2.00
+8281,16,Homework 2,2.00,2.00
+8281,16,Homework 3,2.00,2.00
+8281,16,Homework 4,2.00,2.00
+8281,16,Homework 5,2.00,2.00
+8281,16,Homework 6,2.00,2.00
+8281,16,Homework 7,2.00,2.00
+8281,16,Homework 8,2.00,2.00
+8281,16,Homework 9,2.00,2.00
+8281,16,Homework 10,2.00,2.00
+8281,16,Homework 11,2.00,2.00
+8281,16,Homework 12,2.00,2.00
+8281,16,Homework 13,2.00,2.00
+8281,16,Homework 14,2.00,2.00
+8281,16,Project 1,10.00,10.00
+8281,16,Project 2,12.00,10.00
+8281,16,Project 3,8.00,10.00
+8281,16,Project 4,12.00,10.00
+8281,16,Project 5,10.00,10.00
+8281,16,Project 6,10.00,10.00
+8281,16,Project 7,10.00,10.00
+8281,16,Project 8,10.00,10.00
+8281,16,Project 9,10.00,10.00
+8281,16,Project 10,10.00,10.00
+8281,16,Project 11,10.00,10.00
+8281,16,Project 12,10.00,10.00
+8281,16,Closed Lab 01,2.00,2.00
+8281,16,Closed Lab 02,2.00,2.00
+8281,16,Closed Lab 03,2.00,2.00
+8281,16,Closed Lab 04,2.00,2.00
+8281,16,Closed Lab 05,2.00,2.00
+8281,16,Closed Lab 06,2.00,2.00
+8281,16,Closed Lab 07,2.00,2.00
+8281,16,Closed Lab 08,2.00,2.00
+8281,16,Closed Lab 09,2.00,2.00
+8281,16,Closed Lab 10,2.00,2.00
+8281,16,Closed Lab 11,2.00,2.00
+8281,16,Closed Lab 12,2.00,2.00
+8281,16,Closed Lab 13,2.00,2.00
+8281,16,Closed Lab 14,2.00,2.00
+8281,16,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,16,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,16,Reading Quiz #3 - Loops,10.00,10.00
+8281,16,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,16,Reading Quiz #5 - Methods,10.00,10.00
+8281,16,Reading Quiz #6 - Arrays,3.00,3.00
+8281,16,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,16,Reading Quiz #8 - File I/O,3.00,3.00
+8281,16,Reading Quiz #9 - OOP,4.00,4.00
+8281,16,Midterm I,87.00,100.00
+8281,16,Midterm II,63.00,100.00
+8281,16,Final Exam,74.00,100.00
+8281,16,Participation and Attendance,3.00,3.00
+8281,16,Top Hat,74.19,100.00
+8281,16,TH-Attendance,100.00,100.00
+8281,17,Homework 1,2.00,2.00
+8281,17,Homework 2,2.00,2.00
+8281,17,Homework 3,2.00,2.00
+8281,17,Homework 4,2.00,2.00
+8281,17,Homework 5,2.00,2.00
+8281,17,Homework 6,2.00,2.00
+8281,17,Homework 7,2.00,2.00
+8281,17,Homework 8,2.00,2.00
+8281,17,Homework 9,2.00,2.00
+8281,17,Homework 10,2.00,2.00
+8281,17,Homework 11,2.00,2.00
+8281,17,Homework 12,2.00,2.00
+8281,17,Homework 13,2.00,2.00
+8281,17,Homework 14,2.00,2.00
+8281,17,Project 1,8.00,10.00
+8281,17,Project 2,12.00,10.00
+8281,17,Project 3,10.00,10.00
+8281,17,Project 4,6.00,10.00
+8281,17,Project 5,10.00,10.00
+8281,17,Project 6,10.00,10.00
+8281,17,Project 7,10.00,10.00
+8281,17,Project 8,10.00,10.00
+8281,17,Project 9,10.00,10.00
+8281,17,Project 10,10.00,10.00
+8281,17,Project 11,8.00,10.00
+8281,17,Project 12,8.00,10.00
+8281,17,Closed Lab 01,2.00,2.00
+8281,17,Closed Lab 02,2.00,2.00
+8281,17,Closed Lab 03,2.00,2.00
+8281,17,Closed Lab 04,2.00,2.00
+8281,17,Closed Lab 05,2.00,2.00
+8281,17,Closed Lab 06,2.00,2.00
+8281,17,Closed Lab 07,2.00,2.00
+8281,17,Closed Lab 08,2.00,2.00
+8281,17,Closed Lab 09,2.00,2.00
+8281,17,Closed Lab 10,2.00,2.00
+8281,17,Closed Lab 11,2.00,2.00
+8281,17,Closed Lab 12,2.00,2.00
+8281,17,Closed Lab 13,2.00,2.00
+8281,17,Closed Lab 14,2.00,2.00
+8281,17,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,17,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,17,Reading Quiz #3 - Loops,10.00,10.00
+8281,17,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,17,Reading Quiz #5 - Methods,10.00,10.00
+8281,17,Reading Quiz #6 - Arrays,3.00,3.00
+8281,17,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,17,Reading Quiz #8 - File I/O,3.00,3.00
+8281,17,Reading Quiz #9 - OOP,4.00,4.00
+8281,17,Midterm I,94.00,100.00
+8281,17,Midterm II,75.00,100.00
+8281,17,Final Exam,85.00,100.00
+8281,17,Participation and Attendance,3.00,3.00
+8281,17,Top Hat,72.58,100.00
+8281,17,TH-Attendance,100.00,100.00
+8281,18,Homework 1,2.00,2.00
+8281,18,Homework 2,2.00,2.00
+8281,18,Homework 3,2.00,2.00
+8281,18,Homework 4,2.00,2.00
+8281,18,Homework 5,2.00,2.00
+8281,18,Homework 6,2.00,2.00
+8281,18,Homework 7,2.00,2.00
+8281,18,Homework 8,2.00,2.00
+8281,18,Homework 9,2.00,2.00
+8281,18,Homework 10,2.00,2.00
+8281,18,Homework 11,2.00,2.00
+8281,18,Homework 12,2.00,2.00
+8281,18,Homework 13,2.00,2.00
+8281,18,Homework 14,2.00,2.00
+8281,18,Project 1,10.00,10.00
+8281,18,Project 2,10.00,10.00
+8281,18,Project 3,10.00,10.00
+8281,18,Project 4,10.00,10.00
+8281,18,Project 5,10.00,10.00
+8281,18,Project 6,6.00,10.00
+8281,18,Project 7,10.00,10.00
+8281,18,Project 8,10.00,10.00
+8281,18,Project 9,10.00,10.00
+8281,18,Project 10,10.00,10.00
+8281,18,Project 11,10.00,10.00
+8281,18,Project 12,10.00,10.00
+8281,18,Closed Lab 01,2.00,2.00
+8281,18,Closed Lab 02,2.00,2.00
+8281,18,Closed Lab 03,2.00,2.00
+8281,18,Closed Lab 04,2.00,2.00
+8281,18,Closed Lab 05,2.00,2.00
+8281,18,Closed Lab 06,2.00,2.00
+8281,18,Closed Lab 07,2.00,2.00
+8281,18,Closed Lab 08,2.00,2.00
+8281,18,Closed Lab 09,2.00,2.00
+8281,18,Closed Lab 10,2.00,2.00
+8281,18,Closed Lab 11,2.00,2.00
+8281,18,Closed Lab 12,2.00,2.00
+8281,18,Closed Lab 13,2.00,2.00
+8281,18,Closed Lab 14,2.00,2.00
+8281,18,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,18,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,18,Reading Quiz #3 - Loops,10.00,10.00
+8281,18,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,18,Reading Quiz #5 - Methods,10.00,10.00
+8281,18,Reading Quiz #6 - Arrays,3.00,3.00
+8281,18,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,18,Reading Quiz #8 - File I/O,3.00,3.00
+8281,18,Reading Quiz #9 - OOP,4.00,4.00
+8281,18,Midterm I,85.00,100.00
+8281,18,Midterm II,89.00,100.00
+8281,18,Final Exam,89.00,100.00
+8281,18,Participation and Attendance,2.00,3.00
+8281,18,Top Hat,50.00,100.00
+8281,18,TH-Attendance,91.67,100.00
+8281,19,Homework 1,2.00,2.00
+8281,19,Homework 2,2.00,2.00
+8281,19,Homework 3,2.00,2.00
+8281,19,Homework 4,2.00,2.00
+8281,19,Homework 5,2.00,2.00
+8281,19,Homework 6,2.00,2.00
+8281,19,Homework 7,2.00,2.00
+8281,19,Homework 8,2.00,2.00
+8281,19,Homework 9,2.00,2.00
+8281,19,Homework 10,0.00,2.00
+8281,19,Homework 11,2.00,2.00
+8281,19,Homework 12,2.00,2.00
+8281,19,Homework 13,2.00,2.00
+8281,19,Homework 14,2.00,2.00
+8281,19,Project 1,10.00,10.00
+8281,19,Project 2,12.00,10.00
+8281,19,Project 3,10.00,10.00
+8281,19,Project 4,8.00,10.00
+8281,19,Project 5,10.00,10.00
+8281,19,Project 6,10.00,10.00
+8281,19,Project 7,10.00,10.00
+8281,19,Project 8,10.00,10.00
+8281,19,Project 9,10.00,10.00
+8281,19,Project 10,10.00,10.00
+8281,19,Project 11,8.00,10.00
+8281,19,Project 12,8.00,10.00
+8281,19,Closed Lab 01,2.00,2.00
+8281,19,Closed Lab 02,2.00,2.00
+8281,19,Closed Lab 03,2.00,2.00
+8281,19,Closed Lab 04,2.00,2.00
+8281,19,Closed Lab 05,2.00,2.00
+8281,19,Closed Lab 06,2.00,2.00
+8281,19,Closed Lab 07,2.00,2.00
+8281,19,Closed Lab 08,2.00,2.00
+8281,19,Closed Lab 09,2.00,2.00
+8281,19,Closed Lab 10,2.00,2.00
+8281,19,Closed Lab 11,2.00,2.00
+8281,19,Closed Lab 12,2.00,2.00
+8281,19,Closed Lab 13,2.00,2.00
+8281,19,Closed Lab 14,2.00,2.00
+8281,19,Reading Quiz #1 - Fundamentals,9.00,10.00
+8281,19,Reading Quiz #2 - Boolean Expressions,9.00,10.00
+8281,19,Reading Quiz #3 - Loops,7.00,10.00
+8281,19,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,19,Reading Quiz #5 - Methods,8.00,10.00
+8281,19,Reading Quiz #6 - Arrays,3.00,3.00
+8281,19,Reading Quiz #7 - ArrayLists,2.00,3.00
+8281,19,Reading Quiz #8 - File I/O,3.00,3.00
+8281,19,Reading Quiz #9 - OOP,4.00,4.00
+8281,19,Midterm I,90.00,100.00
+8281,19,Midterm II,92.00,100.00
+8281,19,Final Exam,93.00,100.00
+8281,19,Participation and Attendance,3.00,3.00
+8281,19,Top Hat,75.81,100.00
+8281,19,TH-Attendance,95.83,100.00
+8281,20,Homework 1,2.00,2.00
+8281,20,Homework 2,0.00,2.00
+8281,20,Homework 3,2.00,2.00
+8281,20,Homework 4,2.00,2.00
+8281,20,Homework 5,2.00,2.00
+8281,20,Homework 6,2.00,2.00
+8281,20,Homework 7,2.00,2.00
+8281,20,Homework 8,2.00,2.00
+8281,20,Homework 9,2.00,2.00
+8281,20,Homework 10,2.00,2.00
+8281,20,Homework 11,2.00,2.00
+8281,20,Homework 12,2.00,2.00
+8281,20,Homework 13,0.00,2.00
+8281,20,Homework 14,2.00,2.00
+8281,20,Project 1,10.00,10.00
+8281,20,Project 2,12.00,10.00
+8281,20,Project 3,10.00,10.00
+8281,20,Project 4,12.00,10.00
+8281,20,Project 5,10.00,10.00
+8281,20,Project 6,10.00,10.00
+8281,20,Project 7,2.00,10.00
+8281,20,Project 8,10.00,10.00
+8281,20,Project 9,10.00,10.00
+8281,20,Project 10,8.00,10.00
+8281,20,Project 11,10.00,10.00
+8281,20,Project 12,8.00,10.00
+8281,20,Closed Lab 01,2.00,2.00
+8281,20,Closed Lab 02,2.00,2.00
+8281,20,Closed Lab 03,2.00,2.00
+8281,20,Closed Lab 04,2.00,2.00
+8281,20,Closed Lab 05,2.00,2.00
+8281,20,Closed Lab 06,2.00,2.00
+8281,20,Closed Lab 07,2.00,2.00
+8281,20,Closed Lab 08,2.00,2.00
+8281,20,Closed Lab 09,2.00,2.00
+8281,20,Closed Lab 10,2.00,2.00
+8281,20,Closed Lab 11,2.00,2.00
+8281,20,Closed Lab 12,2.00,2.00
+8281,20,Closed Lab 13,2.00,2.00
+8281,20,Closed Lab 14,2.00,2.00
+8281,20,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,20,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,20,Reading Quiz #3 - Loops,10.00,10.00
+8281,20,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,20,Reading Quiz #5 - Methods,10.00,10.00
+8281,20,Reading Quiz #6 - Arrays,3.00,3.00
+8281,20,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,20,Reading Quiz #8 - File I/O,3.00,3.00
+8281,20,Reading Quiz #9 - OOP,4.00,4.00
+8281,20,Midterm I,82.00,100.00
+8281,20,Midterm II,70.00,100.00
+8281,20,Final Exam,73.00,100.00
+8281,20,Participation and Attendance,3.00,3.00
+8281,20,Top Hat,62.90,100.00
+8281,20,TH-Attendance,0.00,100.00
+8281,21,Homework 1,2.00,2.00
+8281,21,Homework 2,2.00,2.00
+8281,21,Homework 3,2.00,2.00
+8281,21,Homework 4,0.00,2.00
+8281,21,Homework 5,0.00,2.00
+8281,21,Homework 6,0.00,2.00
+8281,21,Homework 7,0.00,2.00
+8281,21,Homework 8,0.00,2.00
+8281,21,Homework 9,0.00,2.00
+8281,21,Homework 10,0.00,2.00
+8281,21,Homework 11,0.00,2.00
+8281,21,Homework 12,0.00,2.00
+8281,21,Homework 13,0.00,2.00
+8281,21,Homework 14,0.00,2.00
+8281,21,Project 1,8.00,10.00
+8281,21,Project 2,12.00,10.00
+8281,21,Project 3,10.00,10.00
+8281,21,Project 4,11.00,10.00
+8281,21,Project 5,8.00,10.00
+8281,21,Project 6,8.00,10.00
+8281,21,Project 7,0.00,10.00
+8281,21,Project 8,0.00,10.00
+8281,21,Project 9,10.00,10.00
+8281,21,Project 10,0.00,10.00
+8281,21,Project 11,0.00,10.00
+8281,21,Project 12,0.00,10.00
+8281,21,Closed Lab 01,2.00,2.00
+8281,21,Closed Lab 02,2.00,2.00
+8281,21,Closed Lab 03,2.00,2.00
+8281,21,Closed Lab 04,2.00,2.00
+8281,21,Closed Lab 05,1.00,2.00
+8281,21,Closed Lab 06,2.00,2.00
+8281,21,Closed Lab 07,0.00,2.00
+8281,21,Closed Lab 08,0.00,2.00
+8281,21,Closed Lab 09,0.00,2.00
+8281,21,Closed Lab 10,2.00,2.00
+8281,21,Closed Lab 11,0.00,2.00
+8281,21,Closed Lab 12,2.00,2.00
+8281,21,Closed Lab 13,0.00,2.00
+8281,21,Closed Lab 14,0.00,2.00
+8281,21,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,21,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,21,Reading Quiz #3 - Loops,10.00,10.00
+8281,21,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,21,Reading Quiz #5 - Methods,10.00,10.00
+8281,21,Reading Quiz #6 - Arrays,3.00,3.00
+8281,21,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,21,Reading Quiz #8 - File I/O,3.00,3.00
+8281,21,Reading Quiz #9 - OOP,4.00,4.00
+8281,21,Midterm I,88.00,100.00
+8281,21,Midterm II,84.00,100.00
+8281,21,Final Exam,87.00,100.00
+8281,21,Participation and Attendance,1.00,3.00
+8281,21,Top Hat,37.10,100.00
+8281,21,TH-Attendance,45.83,100.00
+8281,22,Homework 1,2.00,2.00
+8281,22,Homework 2,2.00,2.00
+8281,22,Homework 3,2.00,2.00
+8281,22,Homework 4,2.00,2.00
+8281,22,Homework 5,2.00,2.00
+8281,22,Homework 6,2.00,2.00
+8281,22,Homework 7,2.00,2.00
+8281,22,Homework 8,2.00,2.00
+8281,22,Homework 9,2.00,2.00
+8281,22,Homework 10,2.00,2.00
+8281,22,Homework 11,2.00,2.00
+8281,22,Homework 12,2.00,2.00
+8281,22,Homework 13,2.00,2.00
+8281,22,Homework 14,2.00,2.00
+8281,22,Project 1,10.00,10.00
+8281,22,Project 2,10.00,10.00
+8281,22,Project 3,10.00,10.00
+8281,22,Project 4,10.00,10.00
+8281,22,Project 5,8.00,10.00
+8281,22,Project 6,10.00,10.00
+8281,22,Project 7,8.00,10.00
+8281,22,Project 8,8.00,10.00
+8281,22,Project 9,10.00,10.00
+8281,22,Project 10,8.00,10.00
+8281,22,Project 11,8.00,10.00
+8281,22,Project 12,8.00,10.00
+8281,22,Closed Lab 01,2.00,2.00
+8281,22,Closed Lab 02,2.00,2.00
+8281,22,Closed Lab 03,2.00,2.00
+8281,22,Closed Lab 04,2.00,2.00
+8281,22,Closed Lab 05,2.00,2.00
+8281,22,Closed Lab 06,2.00,2.00
+8281,22,Closed Lab 07,2.00,2.00
+8281,22,Closed Lab 08,2.00,2.00
+8281,22,Closed Lab 09,2.00,2.00
+8281,22,Closed Lab 10,2.00,2.00
+8281,22,Closed Lab 11,2.00,2.00
+8281,22,Closed Lab 12,0.00,2.00
+8281,22,Closed Lab 13,2.00,2.00
+8281,22,Closed Lab 14,2.00,2.00
+8281,22,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,22,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,22,Reading Quiz #3 - Loops,10.00,10.00
+8281,22,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,22,Reading Quiz #5 - Methods,10.00,10.00
+8281,22,Reading Quiz #6 - Arrays,3.00,3.00
+8281,22,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,22,Reading Quiz #8 - File I/O,3.00,3.00
+8281,22,Reading Quiz #9 - OOP,4.00,4.00
+8281,22,Midterm I,93.00,100.00
+8281,22,Midterm II,84.00,100.00
+8281,22,Final Exam,79.00,100.00
+8281,22,Participation and Attendance,3.00,3.00
+8281,22,Top Hat,75.81,100.00
+8281,22,TH-Attendance,91.67,100.00
+8281,23,Homework 1,2.00,2.00
+8281,23,Homework 2,2.00,2.00
+8281,23,Homework 3,2.00,2.00
+8281,23,Homework 4,2.00,2.00
+8281,23,Homework 5,2.00,2.00
+8281,23,Homework 6,2.00,2.00
+8281,23,Homework 7,2.00,2.00
+8281,23,Homework 8,1.00,2.00
+8281,23,Homework 9,2.00,2.00
+8281,23,Homework 10,0.00,2.00
+8281,23,Homework 11,2.00,2.00
+8281,23,Homework 12,2.00,2.00
+8281,23,Homework 13,2.00,2.00
+8281,23,Homework 14,2.00,2.00
+8281,23,Project 1,10.00,10.00
+8281,23,Project 2,12.00,10.00
+8281,23,Project 3,10.00,10.00
+8281,23,Project 4,12.00,10.00
+8281,23,Project 5,8.00,10.00
+8281,23,Project 6,10.00,10.00
+8281,23,Project 7,10.00,10.00
+8281,23,Project 8,10.00,10.00
+8281,23,Project 9,10.00,10.00
+8281,23,Project 10,12.00,10.00
+8281,23,Project 11,8.00,10.00
+8281,23,Project 12,10.00,10.00
+8281,23,Closed Lab 01,2.00,2.00
+8281,23,Closed Lab 02,2.00,2.00
+8281,23,Closed Lab 03,2.00,2.00
+8281,23,Closed Lab 04,2.00,2.00
+8281,23,Closed Lab 05,2.00,2.00
+8281,23,Closed Lab 06,2.00,2.00
+8281,23,Closed Lab 07,2.00,2.00
+8281,23,Closed Lab 08,2.00,2.00
+8281,23,Closed Lab 09,2.00,2.00
+8281,23,Closed Lab 10,2.00,2.00
+8281,23,Closed Lab 11,2.00,2.00
+8281,23,Closed Lab 12,2.00,2.00
+8281,23,Closed Lab 13,2.00,2.00
+8281,23,Closed Lab 14,2.00,2.00
+8281,23,Reading Quiz #1 - Fundamentals,5.00,10.00
+8281,23,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,23,Reading Quiz #3 - Loops,10.00,10.00
+8281,23,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,23,Reading Quiz #5 - Methods,10.00,10.00
+8281,23,Reading Quiz #6 - Arrays,3.00,3.00
+8281,23,Reading Quiz #7 - ArrayLists,0.00,3.00
+8281,23,Reading Quiz #8 - File I/O,3.00,3.00
+8281,23,Reading Quiz #9 - OOP,4.00,4.00
+8281,23,Midterm I,85.00,100.00
+8281,23,Midterm II,96.00,100.00
+8281,23,Final Exam,98.00,100.00
+8281,23,Participation and Attendance,3.00,3.00
+8281,23,Top Hat,61.29,100.00
+8281,23,TH-Attendance,83.33,100.00
+8281,24,Homework 1,2.00,2.00
+8281,24,Homework 2,2.00,2.00
+8281,24,Homework 3,2.00,2.00
+8281,24,Homework 4,2.00,2.00
+8281,24,Homework 5,2.00,2.00
+8281,24,Homework 6,2.00,2.00
+8281,24,Homework 7,2.00,2.00
+8281,24,Homework 8,2.00,2.00
+8281,24,Homework 9,0.00,2.00
+8281,24,Homework 10,2.00,2.00
+8281,24,Homework 11,2.00,2.00
+8281,24,Homework 12,2.00,2.00
+8281,24,Homework 13,1.00,2.00
+8281,24,Homework 14,2.00,2.00
+8281,24,Project 1,10.00,10.00
+8281,24,Project 2,12.00,10.00
+8281,24,Project 3,8.00,10.00
+8281,24,Project 4,8.00,10.00
+8281,24,Project 5,10.00,10.00
+8281,24,Project 6,8.00,10.00
+8281,24,Project 7,10.00,10.00
+8281,24,Project 8,10.00,10.00
+8281,24,Project 9,8.00,10.00
+8281,24,Project 10,8.00,10.00
+8281,24,Project 11,5.00,10.00
+8281,24,Project 12,8.00,10.00
+8281,24,Closed Lab 01,2.00,2.00
+8281,24,Closed Lab 02,2.00,2.00
+8281,24,Closed Lab 03,2.00,2.00
+8281,24,Closed Lab 04,2.00,2.00
+8281,24,Closed Lab 05,2.00,2.00
+8281,24,Closed Lab 06,2.00,2.00
+8281,24,Closed Lab 07,2.00,2.00
+8281,24,Closed Lab 08,2.00,2.00
+8281,24,Closed Lab 09,2.00,2.00
+8281,24,Closed Lab 10,2.00,2.00
+8281,24,Closed Lab 11,2.00,2.00
+8281,24,Closed Lab 12,0.00,2.00
+8281,24,Closed Lab 13,0.00,2.00
+8281,24,Closed Lab 14,2.00,2.00
+8281,24,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,24,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,24,Reading Quiz #3 - Loops,10.00,10.00
+8281,24,Reading Quiz #4 - Nested Loops,4.00,5.00
+8281,24,Reading Quiz #5 - Methods,10.00,10.00
+8281,24,Reading Quiz #6 - Arrays,3.00,3.00
+8281,24,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,24,Reading Quiz #8 - File I/O,3.00,3.00
+8281,24,Reading Quiz #9 - OOP,4.00,4.00
+8281,24,Midterm I,76.00,100.00
+8281,24,Midterm II,57.00,100.00
+8281,24,Final Exam,65.00,100.00
+8281,24,Participation and Attendance,3.00,3.00
+8281,24,Top Hat,27.42,100.00
+8281,24,TH-Attendance,58.33,100.00
+8281,25,Homework 1,2.00,2.00
+8281,25,Homework 2,2.00,2.00
+8281,25,Homework 3,2.00,2.00
+8281,25,Homework 4,2.00,2.00
+8281,25,Homework 5,2.00,2.00
+8281,25,Homework 6,2.00,2.00
+8281,25,Homework 7,2.00,2.00
+8281,25,Homework 8,2.00,2.00
+8281,25,Homework 9,2.00,2.00
+8281,25,Homework 10,2.00,2.00
+8281,25,Homework 11,2.00,2.00
+8281,25,Homework 12,2.00,2.00
+8281,25,Homework 13,2.00,2.00
+8281,25,Homework 14,2.00,2.00
+8281,25,Project 1,10.00,10.00
+8281,25,Project 2,12.00,10.00
+8281,25,Project 3,10.00,10.00
+8281,25,Project 4,12.00,10.00
+8281,25,Project 5,10.00,10.00
+8281,25,Project 6,10.00,10.00
+8281,25,Project 7,10.00,10.00
+8281,25,Project 8,10.00,10.00
+8281,25,Project 9,10.00,10.00
+8281,25,Project 10,10.00,10.00
+8281,25,Project 11,10.00,10.00
+8281,25,Project 12,10.00,10.00
+8281,25,Closed Lab 01,2.00,2.00
+8281,25,Closed Lab 02,2.00,2.00
+8281,25,Closed Lab 03,2.00,2.00
+8281,25,Closed Lab 04,2.00,2.00
+8281,25,Closed Lab 05,2.00,2.00
+8281,25,Closed Lab 06,2.00,2.00
+8281,25,Closed Lab 07,2.00,2.00
+8281,25,Closed Lab 08,2.00,2.00
+8281,25,Closed Lab 09,2.00,2.00
+8281,25,Closed Lab 10,2.00,2.00
+8281,25,Closed Lab 11,2.00,2.00
+8281,25,Closed Lab 12,2.00,2.00
+8281,25,Closed Lab 13,2.00,2.00
+8281,25,Closed Lab 14,2.00,2.00
+8281,25,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,25,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,25,Reading Quiz #3 - Loops,10.00,10.00
+8281,25,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,25,Reading Quiz #5 - Methods,10.00,10.00
+8281,25,Reading Quiz #6 - Arrays,3.00,3.00
+8281,25,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,25,Reading Quiz #8 - File I/O,3.00,3.00
+8281,25,Reading Quiz #9 - OOP,4.00,4.00
+8281,25,Midterm I,95.00,100.00
+8281,25,Midterm II,91.00,100.00
+8281,25,Final Exam,95.00,100.00
+8281,25,Participation and Attendance,3.00,3.00
+8281,25,Top Hat,72.58,100.00
+8281,25,TH-Attendance,91.67,100.00
+8281,26,Homework 1,2.00,2.00
+8281,26,Homework 2,2.00,2.00
+8281,26,Homework 3,2.00,2.00
+8281,26,Homework 4,2.00,2.00
+8281,26,Homework 5,2.00,2.00
+8281,26,Homework 6,2.00,2.00
+8281,26,Homework 7,2.00,2.00
+8281,26,Homework 8,2.00,2.00
+8281,26,Homework 9,2.00,2.00
+8281,26,Homework 10,2.00,2.00
+8281,26,Homework 11,2.00,2.00
+8281,26,Homework 12,2.00,2.00
+8281,26,Homework 13,2.00,2.00
+8281,26,Homework 14,2.00,2.00
+8281,26,Project 1,10.00,10.00
+8281,26,Project 2,12.00,10.00
+8281,26,Project 3,8.00,10.00
+8281,26,Project 4,12.00,10.00
+8281,26,Project 5,10.00,10.00
+8281,26,Project 6,10.00,10.00
+8281,26,Project 7,10.00,10.00
+8281,26,Project 8,10.00,10.00
+8281,26,Project 9,10.00,10.00
+8281,26,Project 10,12.00,10.00
+8281,26,Project 11,10.00,10.00
+8281,26,Project 12,8.00,10.00
+8281,26,Closed Lab 01,2.00,2.00
+8281,26,Closed Lab 02,2.00,2.00
+8281,26,Closed Lab 03,2.00,2.00
+8281,26,Closed Lab 04,2.00,2.00
+8281,26,Closed Lab 05,2.00,2.00
+8281,26,Closed Lab 06,2.00,2.00
+8281,26,Closed Lab 07,2.00,2.00
+8281,26,Closed Lab 08,2.00,2.00
+8281,26,Closed Lab 09,2.00,2.00
+8281,26,Closed Lab 10,2.00,2.00
+8281,26,Closed Lab 11,2.00,2.00
+8281,26,Closed Lab 12,2.00,2.00
+8281,26,Closed Lab 13,2.00,2.00
+8281,26,Closed Lab 14,2.00,2.00
+8281,26,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,26,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,26,Reading Quiz #3 - Loops,10.00,10.00
+8281,26,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,26,Reading Quiz #5 - Methods,10.00,10.00
+8281,26,Reading Quiz #6 - Arrays,3.00,3.00
+8281,26,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,26,Reading Quiz #8 - File I/O,3.00,3.00
+8281,26,Reading Quiz #9 - OOP,4.00,4.00
+8281,26,Midterm I,100.00,100.00
+8281,26,Midterm II,100.00,100.00
+8281,26,Final Exam,97.00,100.00
+8281,26,Participation and Attendance,3.00,3.00
+8281,26,Top Hat,58.06,100.00
+8281,26,TH-Attendance,79.17,100.00
+8281,27,Homework 1,2.00,2.00
+8281,27,Homework 2,2.00,2.00
+8281,27,Homework 3,2.00,2.00
+8281,27,Homework 4,2.00,2.00
+8281,27,Homework 5,2.00,2.00
+8281,27,Homework 6,2.00,2.00
+8281,27,Homework 7,2.00,2.00
+8281,27,Homework 8,2.00,2.00
+8281,27,Homework 9,2.00,2.00
+8281,27,Homework 10,2.00,2.00
+8281,27,Homework 11,2.00,2.00
+8281,27,Homework 12,2.00,2.00
+8281,27,Homework 13,2.00,2.00
+8281,27,Homework 14,2.00,2.00
+8281,27,Project 1,10.00,10.00
+8281,27,Project 2,10.00,10.00
+8281,27,Project 3,6.00,10.00
+8281,27,Project 4,10.00,10.00
+8281,27,Project 5,8.00,10.00
+8281,27,Project 6,6.00,10.00
+8281,27,Project 7,10.00,10.00
+8281,27,Project 8,10.00,10.00
+8281,27,Project 9,10.00,10.00
+8281,27,Project 10,10.00,10.00
+8281,27,Project 11,8.00,10.00
+8281,27,Project 12,10.00,10.00
+8281,27,Closed Lab 01,2.00,2.00
+8281,27,Closed Lab 02,2.00,2.00
+8281,27,Closed Lab 03,2.00,2.00
+8281,27,Closed Lab 04,2.00,2.00
+8281,27,Closed Lab 05,2.00,2.00
+8281,27,Closed Lab 06,2.00,2.00
+8281,27,Closed Lab 07,2.00,2.00
+8281,27,Closed Lab 08,2.00,2.00
+8281,27,Closed Lab 09,2.00,2.00
+8281,27,Closed Lab 10,2.00,2.00
+8281,27,Closed Lab 11,2.00,2.00
+8281,27,Closed Lab 12,2.00,2.00
+8281,27,Closed Lab 13,2.00,2.00
+8281,27,Closed Lab 14,2.00,2.00
+8281,27,Reading Quiz #1 - Fundamentals,6.00,10.00
+8281,27,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,27,Reading Quiz #3 - Loops,10.00,10.00
+8281,27,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,27,Reading Quiz #5 - Methods,10.00,10.00
+8281,27,Reading Quiz #6 - Arrays,3.00,3.00
+8281,27,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,27,Reading Quiz #8 - File I/O,3.00,3.00
+8281,27,Reading Quiz #9 - OOP,4.00,4.00
+8281,27,Midterm I,88.00,100.00
+8281,27,Midterm II,95.00,100.00
+8281,27,Final Exam,84.00,100.00
+8281,27,Participation and Attendance,3.00,3.00
+8281,27,Top Hat,75.81,100.00
+8281,27,TH-Attendance,91.67,100.00
+8281,28,Homework 1,2.00,2.00
+8281,28,Homework 2,0.00,2.00
+8281,28,Homework 3,2.00,2.00
+8281,28,Homework 4,0.00,2.00
+8281,28,Homework 5,0.00,2.00
+8281,28,Homework 6,1.00,2.00
+8281,28,Homework 7,0.00,2.00
+8281,28,Homework 8,2.00,2.00
+8281,28,Homework 9,2.00,2.00
+8281,28,Homework 10,0.00,2.00
+8281,28,Homework 11,2.00,2.00
+8281,28,Homework 12,0.00,2.00
+8281,28,Homework 13,2.00,2.00
+8281,28,Homework 14,2.00,2.00
+8281,28,Project 1,10.00,10.00
+8281,28,Project 2,10.00,10.00
+8281,28,Project 3,10.00,10.00
+8281,28,Project 4,8.00,10.00
+8281,28,Project 5,8.00,10.00
+8281,28,Project 6,6.00,10.00
+8281,28,Project 7,8.00,10.00
+8281,28,Project 8,0.00,10.00
+8281,28,Project 9,8.00,10.00
+8281,28,Project 10,8.00,10.00
+8281,28,Project 11,8.00,10.00
+8281,28,Project 12,10.00,10.00
+8281,28,Closed Lab 01,2.00,2.00
+8281,28,Closed Lab 02,2.00,2.00
+8281,28,Closed Lab 03,2.00,2.00
+8281,28,Closed Lab 04,2.00,2.00
+8281,28,Closed Lab 05,2.00,2.00
+8281,28,Closed Lab 06,0.00,2.00
+8281,28,Closed Lab 07,2.00,2.00
+8281,28,Closed Lab 08,0.00,2.00
+8281,28,Closed Lab 09,0.00,2.00
+8281,28,Closed Lab 10,0.00,2.00
+8281,28,Closed Lab 11,0.00,2.00
+8281,28,Closed Lab 12,0.00,2.00
+8281,28,Closed Lab 13,0.00,2.00
+8281,28,Closed Lab 14,2.00,2.00
+8281,28,Reading Quiz #1 - Fundamentals,9.00,10.00
+8281,28,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,28,Reading Quiz #3 - Loops,9.00,10.00
+8281,28,Reading Quiz #4 - Nested Loops,4.00,5.00
+8281,28,Reading Quiz #5 - Methods,10.00,10.00
+8281,28,Reading Quiz #6 - Arrays,3.00,3.00
+8281,28,Reading Quiz #7 - ArrayLists,1.00,3.00
+8281,28,Reading Quiz #8 - File I/O,3.00,3.00
+8281,28,Reading Quiz #9 - OOP,4.00,4.00
+8281,28,Midterm I,81.00,100.00
+8281,28,Midterm II,65.00,100.00
+8281,28,Final Exam,85.00,100.00
+8281,28,Participation and Attendance,3.00,3.00
+8281,28,Top Hat,54.84,100.00
+8281,28,TH-Attendance,58.33,100.00
+8281,29,Homework 1,2.00,2.00
+8281,29,Homework 2,2.00,2.00
+8281,29,Homework 3,2.00,2.00
+8281,29,Homework 4,2.00,2.00
+8281,29,Homework 5,2.00,2.00
+8281,29,Homework 6,2.00,2.00
+8281,29,Homework 7,2.00,2.00
+8281,29,Homework 8,2.00,2.00
+8281,29,Homework 9,2.00,2.00
+8281,29,Homework 10,2.00,2.00
+8281,29,Homework 11,2.00,2.00
+8281,29,Homework 12,2.00,2.00
+8281,29,Homework 13,2.00,2.00
+8281,29,Homework 14,2.00,2.00
+8281,29,Project 1,10.00,10.00
+8281,29,Project 2,11.00,10.00
+8281,29,Project 3,10.00,10.00
+8281,29,Project 4,12.00,10.00
+8281,29,Project 5,10.00,10.00
+8281,29,Project 6,10.00,10.00
+8281,29,Project 7,10.00,10.00
+8281,29,Project 8,10.00,10.00
+8281,29,Project 9,10.00,10.00
+8281,29,Project 10,10.00,10.00
+8281,29,Project 11,10.00,10.00
+8281,29,Project 12,10.00,10.00
+8281,29,Closed Lab 01,2.00,2.00
+8281,29,Closed Lab 02,2.00,2.00
+8281,29,Closed Lab 03,2.00,2.00
+8281,29,Closed Lab 04,2.00,2.00
+8281,29,Closed Lab 05,2.00,2.00
+8281,29,Closed Lab 06,2.00,2.00
+8281,29,Closed Lab 07,2.00,2.00
+8281,29,Closed Lab 08,2.00,2.00
+8281,29,Closed Lab 09,2.00,2.00
+8281,29,Closed Lab 10,2.00,2.00
+8281,29,Closed Lab 11,2.00,2.00
+8281,29,Closed Lab 12,2.00,2.00
+8281,29,Closed Lab 13,2.00,2.00
+8281,29,Closed Lab 14,2.00,2.00
+8281,29,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,29,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,29,Reading Quiz #3 - Loops,10.00,10.00
+8281,29,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,29,Reading Quiz #5 - Methods,10.00,10.00
+8281,29,Reading Quiz #6 - Arrays,3.00,3.00
+8281,29,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,29,Reading Quiz #8 - File I/O,3.00,3.00
+8281,29,Reading Quiz #9 - OOP,4.00,4.00
+8281,29,Midterm I,94.00,100.00
+8281,29,Midterm II,96.00,100.00
+8281,29,Final Exam,91.00,100.00
+8281,29,Participation and Attendance,3.00,3.00
+8281,29,Top Hat,62.90,100.00
+8281,29,TH-Attendance,100.00,100.00
+8281,30,Homework 1,2.00,2.00
+8281,30,Homework 2,2.00,2.00
+8281,30,Homework 3,2.00,2.00
+8281,30,Homework 4,0.00,2.00
+8281,30,Homework 5,0.00,2.00
+8281,30,Homework 6,2.00,2.00
+8281,30,Homework 7,2.00,2.00
+8281,30,Homework 8,0.00,2.00
+8281,30,Homework 9,2.00,2.00
+8281,30,Homework 10,2.00,2.00
+8281,30,Homework 11,1.00,2.00
+8281,30,Homework 12,0.00,2.00
+8281,30,Homework 13,2.00,2.00
+8281,30,Homework 14,0.00,2.00
+8281,30,Project 1,8.00,10.00
+8281,30,Project 2,12.00,10.00
+8281,30,Project 3,10.00,10.00
+8281,30,Project 4,8.00,10.00
+8281,30,Project 5,10.00,10.00
+8281,30,Project 6,10.00,10.00
+8281,30,Project 7,8.00,10.00
+8281,30,Project 8,10.00,10.00
+8281,30,Project 9,10.00,10.00
+8281,30,Project 10,8.00,10.00
+8281,30,Project 11,10.00,10.00
+8281,30,Project 12,0.00,10.00
+8281,30,Closed Lab 01,2.00,2.00
+8281,30,Closed Lab 02,2.00,2.00
+8281,30,Closed Lab 03,2.00,2.00
+8281,30,Closed Lab 04,2.00,2.00
+8281,30,Closed Lab 05,2.00,2.00
+8281,30,Closed Lab 06,2.00,2.00
+8281,30,Closed Lab 07,0.00,2.00
+8281,30,Closed Lab 08,2.00,2.00
+8281,30,Closed Lab 09,2.00,2.00
+8281,30,Closed Lab 10,2.00,2.00
+8281,30,Closed Lab 11,2.00,2.00
+8281,30,Closed Lab 12,2.00,2.00
+8281,30,Closed Lab 13,2.00,2.00
+8281,30,Closed Lab 14,0.00,2.00
+8281,30,Reading Quiz #1 - Fundamentals,9.00,10.00
+8281,30,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,30,Reading Quiz #3 - Loops,10.00,10.00
+8281,30,Reading Quiz #4 - Nested Loops,4.00,5.00
+8281,30,Reading Quiz #5 - Methods,9.00,10.00
+8281,30,Reading Quiz #6 - Arrays,3.00,3.00
+8281,30,Reading Quiz #7 - ArrayLists,2.00,3.00
+8281,30,Reading Quiz #8 - File I/O,3.00,3.00
+8281,30,Reading Quiz #9 - OOP,4.00,4.00
+8281,30,Midterm I,61.00,100.00
+8281,30,Midterm II,52.00,100.00
+8281,30,Final Exam,62.00,100.00
+8281,30,Participation and Attendance,3.00,3.00
+8281,30,Top Hat,38.71,100.00
+8281,30,TH-Attendance,70.83,100.00
+8281,31,Homework 1,2.00,2.00
+8281,31,Homework 2,2.00,2.00
+8281,31,Homework 3,2.00,2.00
+8281,31,Homework 4,2.00,2.00
+8281,31,Homework 5,2.00,2.00
+8281,31,Homework 6,2.00,2.00
+8281,31,Homework 7,0.00,2.00
+8281,31,Homework 8,0.00,2.00
+8281,31,Homework 9,0.00,2.00
+8281,31,Homework 10,0.00,2.00
+8281,31,Homework 11,0.00,2.00
+8281,31,Homework 12,0.00,2.00
+8281,31,Homework 13,0.00,2.00
+8281,31,Homework 14,0.00,2.00
+8281,31,Project 1,6.00,10.00
+8281,31,Project 2,8.00,10.00
+8281,31,Project 3,10.00,10.00
+8281,31,Project 4,10.00,10.00
+8281,31,Project 5,10.00,10.00
+8281,31,Project 6,6.00,10.00
+8281,31,Project 7,8.00,10.00
+8281,31,Project 8,10.00,10.00
+8281,31,Project 9,10.00,10.00
+8281,31,Project 10,10.00,10.00
+8281,31,Project 11,6.00,10.00
+8281,31,Project 12,0.00,10.00
+8281,31,Closed Lab 01,2.00,2.00
+8281,31,Closed Lab 02,2.00,2.00
+8281,31,Closed Lab 03,2.00,2.00
+8281,31,Closed Lab 04,2.00,2.00
+8281,31,Closed Lab 05,2.00,2.00
+8281,31,Closed Lab 06,2.00,2.00
+8281,31,Closed Lab 07,0.00,2.00
+8281,31,Closed Lab 08,2.00,2.00
+8281,31,Closed Lab 09,2.00,2.00
+8281,31,Closed Lab 10,2.00,2.00
+8281,31,Closed Lab 11,0.00,2.00
+8281,31,Closed Lab 12,0.00,2.00
+8281,31,Closed Lab 13,0.00,2.00
+8281,31,Closed Lab 14,0.00,2.00
+8281,31,Reading Quiz #1 - Fundamentals,7.00,10.00
+8281,31,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,31,Reading Quiz #3 - Loops,9.00,10.00
+8281,31,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,31,Reading Quiz #5 - Methods,8.00,10.00
+8281,31,Reading Quiz #6 - Arrays,0.00,3.00
+8281,31,Reading Quiz #7 - ArrayLists,0.00,3.00
+8281,31,Reading Quiz #8 - File I/O,0.00,3.00
+8281,31,Reading Quiz #9 - OOP,4.00,4.00
+8281,31,Midterm I,76.00,100.00
+8281,31,Midterm II,67.00,100.00
+8281,31,Final Exam,57.00,100.00
+8281,31,Participation and Attendance,1.00,3.00
+8281,31,Top Hat,27.42,100.00
+8281,31,TH-Attendance,33.33,100.00
+8281,32,Homework 1,2.00,2.00
+8281,32,Homework 2,2.00,2.00
+8281,32,Homework 3,2.00,2.00
+8281,32,Homework 4,2.00,2.00
+8281,32,Homework 5,2.00,2.00
+8281,32,Homework 6,2.00,2.00
+8281,32,Homework 7,2.00,2.00
+8281,32,Homework 8,2.00,2.00
+8281,32,Homework 9,2.00,2.00
+8281,32,Homework 10,2.00,2.00
+8281,32,Homework 11,2.00,2.00
+8281,32,Homework 12,2.00,2.00
+8281,32,Homework 13,2.00,2.00
+8281,32,Homework 14,2.00,2.00
+8281,32,Project 1,10.00,10.00
+8281,32,Project 2,10.00,10.00
+8281,32,Project 3,8.00,10.00
+8281,32,Project 4,12.00,10.00
+8281,32,Project 5,10.00,10.00
+8281,32,Project 6,8.00,10.00
+8281,32,Project 7,10.00,10.00
+8281,32,Project 8,10.00,10.00
+8281,32,Project 9,10.00,10.00
+8281,32,Project 10,12.00,10.00
+8281,32,Project 11,10.00,10.00
+8281,32,Project 12,10.00,10.00
+8281,32,Closed Lab 01,2.00,2.00
+8281,32,Closed Lab 02,2.00,2.00
+8281,32,Closed Lab 03,2.00,2.00
+8281,32,Closed Lab 04,2.00,2.00
+8281,32,Closed Lab 05,2.00,2.00
+8281,32,Closed Lab 06,2.00,2.00
+8281,32,Closed Lab 07,1.00,2.00
+8281,32,Closed Lab 08,2.00,2.00
+8281,32,Closed Lab 09,2.00,2.00
+8281,32,Closed Lab 10,2.00,2.00
+8281,32,Closed Lab 11,2.00,2.00
+8281,32,Closed Lab 12,2.00,2.00
+8281,32,Closed Lab 13,2.00,2.00
+8281,32,Closed Lab 14,2.00,2.00
+8281,32,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,32,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,32,Reading Quiz #3 - Loops,10.00,10.00
+8281,32,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,32,Reading Quiz #5 - Methods,10.00,10.00
+8281,32,Reading Quiz #6 - Arrays,3.00,3.00
+8281,32,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,32,Reading Quiz #8 - File I/O,3.00,3.00
+8281,32,Reading Quiz #9 - OOP,4.00,4.00
+8281,32,Midterm I,100.00,100.00
+8281,32,Midterm II,92.00,100.00
+8281,32,Final Exam,94.00,100.00
+8281,32,Participation and Attendance,3.00,3.00
+8281,32,Top Hat,59.68,100.00
+8281,32,TH-Attendance,87.50,100.00
+8281,33,Homework 1,2.00,2.00
+8281,33,Homework 2,2.00,2.00
+8281,33,Homework 3,2.00,2.00
+8281,33,Homework 4,2.00,2.00
+8281,33,Homework 5,2.00,2.00
+8281,33,Homework 6,2.00,2.00
+8281,33,Homework 7,1.00,2.00
+8281,33,Homework 8,0.00,2.00
+8281,33,Homework 9,2.00,2.00
+8281,33,Homework 10,2.00,2.00
+8281,33,Homework 11,0.00,2.00
+8281,33,Homework 12,0.00,2.00
+8281,33,Homework 13,0.00,2.00
+8281,33,Homework 14,0.00,2.00
+8281,33,Project 1,10.00,10.00
+8281,33,Project 2,0.00,10.00
+8281,33,Project 3,10.00,10.00
+8281,33,Project 4,10.00,10.00
+8281,33,Project 5,10.00,10.00
+8281,33,Project 6,10.00,10.00
+8281,33,Project 7,10.00,10.00
+8281,33,Project 8,10.00,10.00
+8281,33,Project 9,10.00,10.00
+8281,33,Project 10,8.00,10.00
+8281,33,Project 11,0.00,10.00
+8281,33,Project 12,8.00,10.00
+8281,33,Closed Lab 01,2.00,2.00
+8281,33,Closed Lab 02,2.00,2.00
+8281,33,Closed Lab 03,2.00,2.00
+8281,33,Closed Lab 04,2.00,2.00
+8281,33,Closed Lab 05,2.00,2.00
+8281,33,Closed Lab 06,2.00,2.00
+8281,33,Closed Lab 07,2.00,2.00
+8281,33,Closed Lab 08,2.00,2.00
+8281,33,Closed Lab 09,2.00,2.00
+8281,33,Closed Lab 10,2.00,2.00
+8281,33,Closed Lab 11,2.00,2.00
+8281,33,Closed Lab 12,0.00,2.00
+8281,33,Closed Lab 13,2.00,2.00
+8281,33,Closed Lab 14,2.00,2.00
+8281,33,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,33,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,33,Reading Quiz #3 - Loops,10.00,10.00
+8281,33,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,33,Reading Quiz #5 - Methods,10.00,10.00
+8281,33,Reading Quiz #6 - Arrays,3.00,3.00
+8281,33,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,33,Reading Quiz #8 - File I/O,3.00,3.00
+8281,33,Reading Quiz #9 - OOP,4.00,4.00
+8281,33,Midterm I,82.00,100.00
+8281,33,Midterm II,86.00,100.00
+8281,33,Final Exam,84.00,100.00
+8281,33,Participation and Attendance,1.00,3.00
+8281,33,Top Hat,4.84,100.00
+8281,33,TH-Attendance,8.33,100.00
+8281,34,Homework 1,2.00,2.00
+8281,34,Homework 2,2.00,2.00
+8281,34,Homework 3,2.00,2.00
+8281,34,Homework 4,2.00,2.00
+8281,34,Homework 5,2.00,2.00
+8281,34,Homework 6,2.00,2.00
+8281,34,Homework 7,0.00,2.00
+8281,34,Homework 8,2.00,2.00
+8281,34,Homework 9,2.00,2.00
+8281,34,Homework 10,2.00,2.00
+8281,34,Homework 11,2.00,2.00
+8281,34,Homework 12,2.00,2.00
+8281,34,Homework 13,2.00,2.00
+8281,34,Homework 14,2.00,2.00
+8281,34,Project 1,10.00,10.00
+8281,34,Project 2,12.00,10.00
+8281,34,Project 3,8.00,10.00
+8281,34,Project 4,12.00,10.00
+8281,34,Project 5,10.00,10.00
+8281,34,Project 6,10.00,10.00
+8281,34,Project 7,10.00,10.00
+8281,34,Project 8,10.00,10.00
+8281,34,Project 9,10.00,10.00
+8281,34,Project 10,12.00,10.00
+8281,34,Project 11,10.00,10.00
+8281,34,Project 12,8.00,10.00
+8281,34,Closed Lab 01,2.00,2.00
+8281,34,Closed Lab 02,2.00,2.00
+8281,34,Closed Lab 03,2.00,2.00
+8281,34,Closed Lab 04,2.00,2.00
+8281,34,Closed Lab 05,2.00,2.00
+8281,34,Closed Lab 06,2.00,2.00
+8281,34,Closed Lab 07,2.00,2.00
+8281,34,Closed Lab 08,2.00,2.00
+8281,34,Closed Lab 09,2.00,2.00
+8281,34,Closed Lab 10,2.00,2.00
+8281,34,Closed Lab 11,2.00,2.00
+8281,34,Closed Lab 12,2.00,2.00
+8281,34,Closed Lab 13,2.00,2.00
+8281,34,Closed Lab 14,2.00,2.00
+8281,34,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,34,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,34,Reading Quiz #3 - Loops,10.00,10.00
+8281,34,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,34,Reading Quiz #5 - Methods,10.00,10.00
+8281,34,Reading Quiz #6 - Arrays,3.00,3.00
+8281,34,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,34,Reading Quiz #8 - File I/O,3.00,3.00
+8281,34,Reading Quiz #9 - OOP,4.00,4.00
+8281,34,Midterm I,86.00,100.00
+8281,34,Midterm II,80.00,100.00
+8281,34,Final Exam,89.00,100.00
+8281,34,Participation and Attendance,3.00,3.00
+8281,34,Top Hat,90.32,100.00
+8281,34,TH-Attendance,100.00,100.00
+8281,35,Homework 1,2.00,2.00
+8281,35,Homework 2,2.00,2.00
+8281,35,Homework 3,2.00,2.00
+8281,35,Homework 4,2.00,2.00
+8281,35,Homework 5,2.00,2.00
+8281,35,Homework 6,2.00,2.00
+8281,35,Homework 7,2.00,2.00
+8281,35,Homework 8,2.00,2.00
+8281,35,Homework 9,2.00,2.00
+8281,35,Homework 10,2.00,2.00
+8281,35,Homework 11,2.00,2.00
+8281,35,Homework 12,2.00,2.00
+8281,35,Homework 13,2.00,2.00
+8281,35,Homework 14,2.00,2.00
+8281,35,Project 1,10.00,10.00
+8281,35,Project 2,12.00,10.00
+8281,35,Project 3,10.00,10.00
+8281,35,Project 4,12.00,10.00
+8281,35,Project 5,8.00,10.00
+8281,35,Project 6,10.00,10.00
+8281,35,Project 7,10.00,10.00
+8281,35,Project 8,10.00,10.00
+8281,35,Project 9,10.00,10.00
+8281,35,Project 10,12.00,10.00
+8281,35,Project 11,10.00,10.00
+8281,35,Project 12,10.00,10.00
+8281,35,Closed Lab 01,2.00,2.00
+8281,35,Closed Lab 02,2.00,2.00
+8281,35,Closed Lab 03,2.00,2.00
+8281,35,Closed Lab 04,2.00,2.00
+8281,35,Closed Lab 05,2.00,2.00
+8281,35,Closed Lab 06,2.00,2.00
+8281,35,Closed Lab 07,2.00,2.00
+8281,35,Closed Lab 08,2.00,2.00
+8281,35,Closed Lab 09,2.00,2.00
+8281,35,Closed Lab 10,2.00,2.00
+8281,35,Closed Lab 11,2.00,2.00
+8281,35,Closed Lab 12,2.00,2.00
+8281,35,Closed Lab 13,2.00,2.00
+8281,35,Closed Lab 14,2.00,2.00
+8281,35,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,35,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,35,Reading Quiz #3 - Loops,10.00,10.00
+8281,35,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,35,Reading Quiz #5 - Methods,10.00,10.00
+8281,35,Reading Quiz #6 - Arrays,3.00,3.00
+8281,35,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,35,Reading Quiz #8 - File I/O,3.00,3.00
+8281,35,Reading Quiz #9 - OOP,4.00,4.00
+8281,35,Midterm I,91.00,100.00
+8281,35,Midterm II,98.00,100.00
+8281,35,Final Exam,93.00,100.00
+8281,35,Participation and Attendance,3.00,3.00
+8281,35,Top Hat,85.48,100.00
+8281,35,TH-Attendance,100.00,100.00
+8281,36,Homework 1,2.00,2.00
+8281,36,Homework 2,2.00,2.00
+8281,36,Homework 3,2.00,2.00
+8281,36,Homework 4,2.00,2.00
+8281,36,Homework 5,2.00,2.00
+8281,36,Homework 6,2.00,2.00
+8281,36,Homework 7,2.00,2.00
+8281,36,Homework 8,2.00,2.00
+8281,36,Homework 9,2.00,2.00
+8281,36,Homework 10,2.00,2.00
+8281,36,Homework 11,2.00,2.00
+8281,36,Homework 12,1.00,2.00
+8281,36,Homework 13,2.00,2.00
+8281,36,Homework 14,0.00,2.00
+8281,36,Project 1,10.00,10.00
+8281,36,Project 2,10.00,10.00
+8281,36,Project 3,8.00,10.00
+8281,36,Project 4,8.00,10.00
+8281,36,Project 5,10.00,10.00
+8281,36,Project 6,10.00,10.00
+8281,36,Project 7,8.00,10.00
+8281,36,Project 8,10.00,10.00
+8281,36,Project 9,10.00,10.00
+8281,36,Project 10,6.00,10.00
+8281,36,Project 11,6.00,10.00
+8281,36,Project 12,8.00,10.00
+8281,36,Closed Lab 01,2.00,2.00
+8281,36,Closed Lab 02,2.00,2.00
+8281,36,Closed Lab 03,2.00,2.00
+8281,36,Closed Lab 04,2.00,2.00
+8281,36,Closed Lab 05,2.00,2.00
+8281,36,Closed Lab 06,2.00,2.00
+8281,36,Closed Lab 07,1.00,2.00
+8281,36,Closed Lab 08,2.00,2.00
+8281,36,Closed Lab 09,2.00,2.00
+8281,36,Closed Lab 10,2.00,2.00
+8281,36,Closed Lab 11,2.00,2.00
+8281,36,Closed Lab 12,2.00,2.00
+8281,36,Closed Lab 13,2.00,2.00
+8281,36,Closed Lab 14,0.00,2.00
+8281,36,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,36,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,36,Reading Quiz #3 - Loops,10.00,10.00
+8281,36,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,36,Reading Quiz #5 - Methods,8.00,10.00
+8281,36,Reading Quiz #6 - Arrays,3.00,3.00
+8281,36,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,36,Reading Quiz #8 - File I/O,3.00,3.00
+8281,36,Reading Quiz #9 - OOP,4.00,4.00
+8281,36,Midterm I,84.00,100.00
+8281,36,Midterm II,85.00,100.00
+8281,36,Final Exam,83.00,100.00
+8281,36,Participation and Attendance,3.00,3.00
+8281,36,Top Hat,46.77,100.00
+8281,36,TH-Attendance,75.00,100.00
+8281,37,Homework 1,2.00,2.00
+8281,37,Homework 2,2.00,2.00
+8281,37,Homework 3,2.00,2.00
+8281,37,Homework 4,2.00,2.00
+8281,37,Homework 5,2.00,2.00
+8281,37,Homework 6,2.00,2.00
+8281,37,Homework 7,2.00,2.00
+8281,37,Homework 8,2.00,2.00
+8281,37,Homework 9,2.00,2.00
+8281,37,Homework 10,2.00,2.00
+8281,37,Homework 11,2.00,2.00
+8281,37,Homework 12,2.00,2.00
+8281,37,Homework 13,2.00,2.00
+8281,37,Homework 14,2.00,2.00
+8281,37,Project 1,10.00,10.00
+8281,37,Project 2,10.00,10.00
+8281,37,Project 3,10.00,10.00
+8281,37,Project 4,8.00,10.00
+8281,37,Project 5,10.00,10.00
+8281,37,Project 6,10.00,10.00
+8281,37,Project 7,10.00,10.00
+8281,37,Project 8,10.00,10.00
+8281,37,Project 9,10.00,10.00
+8281,37,Project 10,8.00,10.00
+8281,37,Project 11,10.00,10.00
+8281,37,Project 12,10.00,10.00
+8281,37,Closed Lab 01,2.00,2.00
+8281,37,Closed Lab 02,2.00,2.00
+8281,37,Closed Lab 03,2.00,2.00
+8281,37,Closed Lab 04,2.00,2.00
+8281,37,Closed Lab 05,2.00,2.00
+8281,37,Closed Lab 06,2.00,2.00
+8281,37,Closed Lab 07,2.00,2.00
+8281,37,Closed Lab 08,2.00,2.00
+8281,37,Closed Lab 09,2.00,2.00
+8281,37,Closed Lab 10,2.00,2.00
+8281,37,Closed Lab 11,2.00,2.00
+8281,37,Closed Lab 12,2.00,2.00
+8281,37,Closed Lab 13,2.00,2.00
+8281,37,Closed Lab 14,0.00,2.00
+8281,37,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,37,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,37,Reading Quiz #3 - Loops,10.00,10.00
+8281,37,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,37,Reading Quiz #5 - Methods,10.00,10.00
+8281,37,Reading Quiz #6 - Arrays,3.00,3.00
+8281,37,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,37,Reading Quiz #8 - File I/O,3.00,3.00
+8281,37,Reading Quiz #9 - OOP,4.00,4.00
+8281,37,Midterm I,89.00,100.00
+8281,37,Midterm II,71.00,100.00
+8281,37,Final Exam,74.00,100.00
+8281,37,Participation and Attendance,3.00,3.00
+8281,37,Top Hat,62.90,100.00
+8281,37,TH-Attendance,87.50,100.00
+8281,38,Homework 1,2.00,2.00
+8281,38,Homework 2,2.00,2.00
+8281,38,Homework 3,2.00,2.00
+8281,38,Homework 4,2.00,2.00
+8281,38,Homework 5,2.00,2.00
+8281,38,Homework 6,2.00,2.00
+8281,38,Homework 7,2.00,2.00
+8281,38,Homework 8,2.00,2.00
+8281,38,Homework 9,2.00,2.00
+8281,38,Homework 10,2.00,2.00
+8281,38,Homework 11,2.00,2.00
+8281,38,Homework 12,2.00,2.00
+8281,38,Homework 13,2.00,2.00
+8281,38,Homework 14,2.00,2.00
+8281,38,Project 1,8.00,10.00
+8281,38,Project 2,12.00,10.00
+8281,38,Project 3,10.00,10.00
+8281,38,Project 4,6.00,10.00
+8281,38,Project 5,10.00,10.00
+8281,38,Project 6,10.00,10.00
+8281,38,Project 7,10.00,10.00
+8281,38,Project 8,10.00,10.00
+8281,38,Project 9,10.00,10.00
+8281,38,Project 10,10.00,10.00
+8281,38,Project 11,8.00,10.00
+8281,38,Project 12,8.00,10.00
+8281,38,Closed Lab 01,2.00,2.00
+8281,38,Closed Lab 02,2.00,2.00
+8281,38,Closed Lab 03,2.00,2.00
+8281,38,Closed Lab 04,2.00,2.00
+8281,38,Closed Lab 05,2.00,2.00
+8281,38,Closed Lab 06,2.00,2.00
+8281,38,Closed Lab 07,2.00,2.00
+8281,38,Closed Lab 08,2.00,2.00
+8281,38,Closed Lab 09,2.00,2.00
+8281,38,Closed Lab 10,2.00,2.00
+8281,38,Closed Lab 11,2.00,2.00
+8281,38,Closed Lab 12,2.00,2.00
+8281,38,Closed Lab 13,2.00,2.00
+8281,38,Closed Lab 14,2.00,2.00
+8281,38,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,38,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,38,Reading Quiz #3 - Loops,10.00,10.00
+8281,38,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,38,Reading Quiz #5 - Methods,10.00,10.00
+8281,38,Reading Quiz #6 - Arrays,3.00,3.00
+8281,38,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,38,Reading Quiz #8 - File I/O,3.00,3.00
+8281,38,Reading Quiz #9 - OOP,4.00,4.00
+8281,38,Midterm I,94.00,100.00
+8281,38,Midterm II,70.00,100.00
+8281,38,Final Exam,83.00,100.00
+8281,38,Participation and Attendance,3.00,3.00
+8281,38,Top Hat,72.58,100.00
+8281,38,TH-Attendance,100.00,100.00
+8281,39,Homework 1,2.00,2.00
+8281,39,Homework 2,2.00,2.00
+8281,39,Homework 3,2.00,2.00
+8281,39,Homework 4,2.00,2.00
+8281,39,Homework 5,2.00,2.00
+8281,39,Homework 6,2.00,2.00
+8281,39,Homework 7,2.00,2.00
+8281,39,Homework 8,2.00,2.00
+8281,39,Homework 9,2.00,2.00
+8281,39,Homework 10,2.00,2.00
+8281,39,Homework 11,2.00,2.00
+8281,39,Homework 12,2.00,2.00
+8281,39,Homework 13,2.00,2.00
+8281,39,Homework 14,2.00,2.00
+8281,39,Project 1,10.00,10.00
+8281,39,Project 2,12.00,10.00
+8281,39,Project 3,8.00,10.00
+8281,39,Project 4,12.00,10.00
+8281,39,Project 5,10.00,10.00
+8281,39,Project 6,10.00,10.00
+8281,39,Project 7,10.00,10.00
+8281,39,Project 8,10.00,10.00
+8281,39,Project 9,10.00,10.00
+8281,39,Project 10,10.00,10.00
+8281,39,Project 11,10.00,10.00
+8281,39,Project 12,10.00,10.00
+8281,39,Closed Lab 01,2.00,2.00
+8281,39,Closed Lab 02,2.00,2.00
+8281,39,Closed Lab 03,2.00,2.00
+8281,39,Closed Lab 04,2.00,2.00
+8281,39,Closed Lab 05,2.00,2.00
+8281,39,Closed Lab 06,2.00,2.00
+8281,39,Closed Lab 07,2.00,2.00
+8281,39,Closed Lab 08,2.00,2.00
+8281,39,Closed Lab 09,2.00,2.00
+8281,39,Closed Lab 10,2.00,2.00
+8281,39,Closed Lab 11,2.00,2.00
+8281,39,Closed Lab 12,2.00,2.00
+8281,39,Closed Lab 13,2.00,2.00
+8281,39,Closed Lab 14,2.00,2.00
+8281,39,Reading Quiz #1 - Fundamentals,10.00,10.00
+8281,39,Reading Quiz #2 - Boolean Expressions,10.00,10.00
+8281,39,Reading Quiz #3 - Loops,10.00,10.00
+8281,39,Reading Quiz #4 - Nested Loops,5.00,5.00
+8281,39,Reading Quiz #5 - Methods,10.00,10.00
+8281,39,Reading Quiz #6 - Arrays,3.00,3.00
+8281,39,Reading Quiz #7 - ArrayLists,3.00,3.00
+8281,39,Reading Quiz #8 - File I/O,3.00,3.00
+8281,39,Reading Quiz #9 - OOP,4.00,4.00
+8281,39,Midterm I,97.00,100.00
+8281,39,Midterm II,91.00,100.00
+8281,39,Final Exam,95.00,100.00
+8281,39,Participation and Attendance,3.00,3.00
+8281,39,Top Hat,56.45,100.00
+8281,39,TH-Attendance,100.00,100.00
+

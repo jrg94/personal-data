@@ -37,3 +37,6 @@ details the headers:
 - **Title**: the name given to a particular assignment
 - **Grade**: the grade assessed for a particular assignment
 - **Total**: the maximum number of points a student could earn on that assignment
+
+This file is meant to deprecate the current grade files, which will be
+removed at a later date.
