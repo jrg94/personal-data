@@ -21,3 +21,19 @@ has a unique ID. The list below details the headers:
 - **End Time**: the time class ends for the course in 24-hour time
 - **Building**: the campus building that takes place as a two character code
 - **Room Number**: the number of the room in the building where the course is taught
+
+## Grading History
+
+The purpose of the [grading history](grading-history.csv) file is to
+record the score for every assignment ever graded. It was initially
+created because the exported spreadsheets from the learning management
+system leave a lot to be desired. This way, assignments can be treated
+like events where future changes don't disrupt analyses. The list below 
+details the headers:
+
+- **Section ID**: a unique identifier linking back to a course in [teaching history](teaching-history.csv)
+- **Student ID**: a non-unique identifier to distinguish students in a particular class (note: 
+  repeat students may not have the same ID)
+- **Title**: the name given to a particular assignment
+- **Grade**: the grade assessed for a particular assignment
+- **Total**: the maximum number of points a student could earn on that assignment
