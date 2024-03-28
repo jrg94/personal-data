@@ -21,6 +21,8 @@ has a unique ID. The list below details the headers:
 - **End Time**: the time class ends for the course in 24-hour time
 - **Building**: the campus building that takes place as a two character code
 - **Room Number**: the number of the room in the building where the course is taught
+- **Job Title**: the position I held during that semester (e.g., Graduate Teaching Associate, Lecturer, etc.)
+- **Role**: the specific role I held during that course (e.g., Instructor of Record, Grader, etc.)
 
 ## Grading History
 
