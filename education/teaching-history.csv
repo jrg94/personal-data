@@ -1,18 +1,34 @@
-Section ID,Year,Season,Department,Course Number,Course Type,Start Time,End Time,Building,Room Number,Job Title,Role
-7382,2024,Spring,CSE,2231,Lecture,12:40,13:35,CL,177,Lecturer,Instructor of Record
-7381,2024,Spring,CSE,2231,Lecture,13:50,14:45,CL,177,Lecturer,Instructor of Record
-6753,2024,Spring,CSE,2231,Lecture,15:00,15:55,DL,357,Lecturer,Instructor of Record
-12411,2023,Autumn,CSE,2231,Lecture,10:20,11:15,CH,232,Lecturer,Instructor of Record
-12413,2023,Autumn,CSE,2231,Lecture,12:40,13:35,JR,375,Lecturer,Instructor of Record
-12415,2023,Autumn,CSE,2231,Lecture,13:50,14:45,DB,080,Lecturer,Instructor of Record
-6580,2023,Spring,CSE,2221,Lecture,13:50,14:45,DL,357,Graduate Teaching Associate,Instructor of Record
-6582,2023,Spring,CSE,2221,Lecture,15:00,15:55,DL,357,Graduate Teaching Associate,Instructor of Record
-7116,2022,Autumn,CSE,2221,Lecture,10:20,11:15,DL,357,Graduate Teaching Associate,Instructor of Record
-25427,2022,Spring,CSE,2221,Lecture,12:40,13:35,DL,266,Graduate Teaching Associate,Instructor of Record
-37465,2022,Spring,CSE,2221,Lecture,11:30,12:25,DL,266,Graduate Teaching Associate,Instructor of Record
-29428,2021,Autumn,CSE,2221,Lecture,16:10,17:05,DL,357,Graduate Teaching Associate,Instructor of Record
-11278,2020,Spring,CSE,2221,Lecture,12:40,13:35,ML,129,Graduate Teaching Associate,Instructor of Record
-35160,2019,Autumn,CSE,2221,Lecture,16:10,17:05,CM,213,Graduate Teaching Associate,Instructor of Record
-4457,2019,Summer,CSE,2221,Lecture,10:20,11:15,DL,357,Graduate Teaching Associate,Grader
-8281,2019,Spring,CSE,1223,Lecture,16:10,17:05,DL,305,Graduate Teaching Associate,Instructor of Record
-26319,2018,Autumn,CSE,1223,Lecture,13:50,14:45,UH,082,Graduate Teaching Associate,Instructor of Record
+Section ID,Year,Season,Department,Course Number,Course Type,Days,Start Time,End Time,Building,Room Number,Job Title,Role
+7382,2024,Spring,CSE,2231,Lecture,WeFr,12:40,13:35,CL,177,Lecturer,Instructor of Record
+7384,2024,Spring,CSE,2231,Lab,TuTh,12:40,13:35,PO,155,Lecturer,Instructor of Record
+7381,2024,Spring,CSE,2231,Lecture,WeFr,13:50,14:45,CL,177,Lecturer,Instructor of Record
+7383,2024,Spring,CSE,2231,Lab,TuTh,13:50,14:45,PO,155,Lecturer,Instructor of Record
+6753,2024,Spring,CSE,2231,Lecture,WeFr,15:00,15:55,DL,357,Lecturer,Instructor of Record
+6754,2024,Spring,CSE,2231,Lab,TuTh,15:00,15:55,DL,280,Lecturer,Instructor of Record
+12411,2023,Autumn,CSE,2231,Lecture,WeFr,10:20,11:15,CH,232,Lecturer,Instructor of Record
+12412,2023,Autumn,CSE,2231,Lab,TuTh,10:20,11:15,BE,480,Lecturer,Instructor of Record
+12413,2023,Autumn,CSE,2231,Lecture,WeFr,12:40,13:35,JR,375,Lecturer,Instructor of Record
+12414,2023,Autumn,CSE,2231,Lab,TuTh,12:40,13:35,PO,155,Lecturer,Instructor of Record
+12415,2023,Autumn,CSE,2231,Lecture,WeFr,13:50,14:45,DB,080,Lecturer,Instructor of Record
+12416,2023,Autumn,CSE,2231,Lab,TuTh,13:50,14:45,PO,155,Lecturer,Instructor of Record
+6580,2023,Spring,CSE,2221,Lecture,TuTh,13:50,14:45,DL,357,Graduate Teaching Associate,Instructor of Record
+6581,2023,Spring,CSE,2221,Lab,WeFr,13:50,14:45,DL,280,Graduate Teaching Associate,Instructor of Record
+6582,2023,Spring,CSE,2221,Lecture,TuTh,15:00,15:55,DL,357,Graduate Teaching Associate,Instructor of Record
+6583,2023,Spring,CSE,2221,Lab,WeFr,15:00,15:55,DL,280,Graduate Teaching Associate,Instructor of Record
+7116,2022,Autumn,CSE,2221,Lecture,TuTh,10:20,11:15,DL,264,Graduate Teaching Associate,Instructor of Record
+7117,2022,Autumn,CSE,2221,Lab,WeFr,10:20,11:15,DL,280,Graduate Teaching Associate,Instructor of Record
+25427,2022,Spring,CSE,2221,Lecture,TuTh,12:40,13:35,DL,266,Graduate Teaching Associate,Instructor of Record
+25428,2022,Spring,CSE,2221,Lab,WeFr,12:40,13:35,PO,155,Graduate Teaching Associate,Instructor of Record
+37465,2022,Spring,CSE,2221,Lecture,TuTh,11:30,12:25,DL,266,Graduate Teaching Associate,Instructor of Record
+37467,2022,Spring,CSE,2221,Lab,WeFr,11:30,12:25,PO,155,Graduate Teaching Associate,Instructor of Record
+29428,2021,Autumn,CSE,2221,Lecture,TuTh,16:10,17:05,DL,357,Graduate Teaching Associate,Instructor of Record
+29429,2021,Autumn,CSE,2221,Lab,WeFr,16:10,17:05,BE,470,Graduate Teaching Associate,Instructor of Record
+11278,2020,Spring,CSE,2221,Lecture,TuTh,12:40,13:35,ML,129,Graduate Teaching Associate,Instructor of Record
+11279,2020,Spring,CSE,2221,Lab,WeFr,12:40,13:35,CL,112A,Graduate Teaching Associate,Instructor of Record
+35160,2019,Autumn,CSE,2221,Lecture,TuTh,16:10,17:05,CM,213,Graduate Teaching Associate,Instructor of Record
+35161,2019,Autumn,CSE,2221,Lab,WeFr,16:10,17:05,PO,155,Graduate Teaching Associate,Instructor of Record
+4457,2019,Summer,CSE,2221,Lab,MoTuWeThFr,10:20,11:15,DL,280,Graduate Teaching Associate,Grader
+8281,2019,Spring,CSE,1223,Lecture,MoWe,16:10,17:05,DL,305,Graduate Teaching Associate,Instructor of Record
+8282,2019,Spring,CSE,1223,Lab,Th,16:10,17:05,PO,155,Graduate Teaching Associate,Instructor of Record
+26319,2018,Autumn,CSE,1223,Lecture,MoWe,13:50,14:45,UH,082,Graduate Teaching Associate,Instructor of Record
+26320,2018,Autumn,CSE,1223,Lab,Th,13:50,14:45,BE,310,Graduate Teaching Associate,Instructor of Record
