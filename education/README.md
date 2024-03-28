@@ -43,3 +43,15 @@ details the headers:
 
 This file is meant to deprecate the current grade files, which will be
 removed at a later date.
+
+## SEI History
+
+The purpose of the [SEI history](sei-history.csv) file is to track
+all of the student evaluation of instruction metrics. The list
+below details the headers:
+
+- **Section ID**: a unique identifier linking back to a course in [teaching history](teaching-history.csv)
+- **Question ID**: a unique identifier linking back to a question in [SEI questions](sei-questions.csv)
+- **Group**: the group to which the mean result belongs to (e.g., Instructor, University, Department, or College)
+- **Mean**: the mean rating out of 5 for that particular question
+- **Standard Deviation**: the standard deviation of the ratings for that particular question
