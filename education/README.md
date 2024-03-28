@@ -17,6 +17,7 @@ has a unique ID. The list below details the headers:
 - **Season**: the season in the academic year the course was taught (e.g., Spring, Autumn, Summer)
 - **Department**: the department the course is hosted in
 - **Course Number**: the department-specific course code
+- **Course Type**: the university designated label for the section ID (e.g., Lecture, Lab, etc.)
 - **Start Time**: the time class starts for the course in 24-hour time
 - **End Time**: the time class ends for the course in 24-hour time
 - **Building**: the campus building that takes place as a two character code
