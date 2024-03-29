@@ -1,25 +1,25 @@
-Assignment Group ID,Course ID,Assignment Group Name,Assignment Group Weight
-1,1,Homeworks,4
-2,1,Projects,15
-3,1,Closed Labs,4
-4,1,Quizzes,4
-5,1,Midterm Exams,40
-6,1,Final Exam,30
-7,1,Participation and Attendance,3
-8,1,Uncategorized,0
-9,2,Homework Assignments,10
-10,2,Project Assignments,30
-11,2,Midterm Exams,30
-12,2,Final Exam,30
-13,2,Participation,4
-14,2,TopHat,0
-15,2,Uncategorized,0
-16,2,Quizzes,45
-17,2,Midterm Exams,15
-18,3,Homework Assignments,10
-19,3,Project Assignments,30
-20,3,Midterm Exams,30
-21,3,Final Exam,30
-22,3,Participation,4
-23,3,Portfolio Project,0
-24,3,TopHat,0
+Assignment Group ID,Assignment Group Name,Assignment Group Weight
+1,Homeworks,4
+2,Projects,15
+3,Closed Labs,4
+4,Quizzes,4
+5,Midterm Exams,40
+6,Final Exam,30
+7,Participation and Attendance,3
+8,Uncategorized,0
+9,Homework Assignments,10
+10,Project Assignments,30
+11,Midterm Exams,30
+12,Final Exam,30
+13,Participation,4
+14,TopHat,0
+15,Uncategorized,0
+16,Quizzes,45
+17,Midterm Exams,15
+18,Homework Assignments,10
+19,Project Assignments,30
+20,Midterm Exams,30
+21,Final Exam,30
+22,Participation,4
+23,Portfolio Project,0
+24,TopHat,0
