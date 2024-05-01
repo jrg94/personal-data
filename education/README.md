@@ -82,6 +82,16 @@ In addition to the historical records, I also maintain a variety
 of lookup tables that exist to eliminate some of the clutter from
 the tables listed above. 
 
+### Assessment Lookup
+
+The purpose of the [assessment lookup](assessment-lookup.csv) table is to
+provide additional information about each assessment I have ever administered.
+The file is setup to be expanded if needed. For now, the headers are as follows:
+
+- **Assessment ID**: a unique identifier for that particular assessment (e.g., 1)
+- **Assessment Group ID**: a unique identifier linking back to an assessment group in the [assessment group lookup](assessment-group-lookup.csv) table
+- **Assessment Name**: the name of the assessment (e.g., Homework #4)
+
 ### Course Lookup
 
 The purpose of the [course lookup](course-lookup.csv) table is to provide
