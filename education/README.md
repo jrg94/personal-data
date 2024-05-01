@@ -15,9 +15,9 @@ its file name.
 ### Grading History
 
 The purpose of the [grading history](grading-history.csv) file is to
-record the score for every assignment ever graded. It was initially
+record the score for every assessment ever graded. It was initially
 created because the exported spreadsheets from the learning management
-system leave a lot to be desired. This way, assignments can be treated
+system leave a lot to be desired. This way, assessments can be treated
 like events where future changes don't disrupt analyses. The list below 
 details the headers:
 
@@ -25,8 +25,8 @@ details the headers:
 - **Student ID**: a non-unique identifier to distinguish students in a particular class (note: 
   repeat students may not have the same ID)
 - **Assessment ID**: a unique identifier linking back to an assessment in the [assessment lookup](assessment-lookup.csv) table
-- **Grade**: the grade assessed for that particular assignment
-- **Total**: the maximum number of points a student could earn on that assignment
+- **Grade**: the grade assessed for that particular assessment
+- **Total**: the maximum number of points a student could earn on that assessment
 
 ### SEI Comments History
 
