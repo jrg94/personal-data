@@ -82,6 +82,18 @@ In addition to the historical records, I also maintain a variety
 of lookup tables that exist to eliminate some of the clutter from
 the tables listed above. 
 
+### Course Lookup
+
+The purpose of the [course lookup](course-lookup.csv) table is to provide
+additional information about each of the courses I teach or have taught.
+The file is setup to be expanded if needed. For now, the headers are as
+follows:
+
+- **Course ID**: a unique identifier for that particular course (e.g., 1)
+- **Course Department**: the department that houses that course (e.g., CSE)
+- **Course Number**: the department-specific code for that course (e.g., 2221)
+- **Course Name**: the official name of the course (e.g., Software Components)
+
 ### SEI Questions Lookup
 
 The purpose of the [SEI questions lookup](sei-questions-lookup.csv) file is to define the 10 questions
