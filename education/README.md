@@ -24,12 +24,9 @@ details the headers:
 - **Section ID**: a unique identifier linking back to a course in [teaching history](teaching-history.csv)
 - **Student ID**: a non-unique identifier to distinguish students in a particular class (note: 
   repeat students may not have the same ID)
-- **Title**: the name given to a particular assignment
-- **Grade**: the grade assessed for a particular assignment
+- **Assessment ID**: a unique identifier linking back to an assessment in the [assessment lookup](assessment-lookup.csv) table
+- **Grade**: the grade assessed for that particular assignment
 - **Total**: the maximum number of points a student could earn on that assignment
-
-This file is meant to deprecate the current grade files, which will be
-removed at a later date.
 
 ### SEI Comments History
 
@@ -81,6 +78,17 @@ has a unique ID. The list below details the headers:
 In addition to the historical records, I also maintain a variety
 of lookup tables that exist to eliminate some of the clutter from
 the tables listed above. 
+
+### Assessment Group Lookup
+
+The purpose of the [assessment group lookup](assessment-group-lookup.csv) table
+is to provide additional information about groups that assessments may belong
+to. These assessment groups are then used to weight subsets of assessments.
+The file is setup to be expanded if needed. For now, the headers are as follows:
+
+- **Assessment Group ID**: a unique identifier for a particular assessment group (e.g., 1)
+- **Assessment Group Name**: the name given to the assessment group (e.g., Homeworks)
+- **Assessment Group Weight**: the weight given to the assessment group out of 100 (e.g., 25)
 
 ### Assessment Lookup
 
