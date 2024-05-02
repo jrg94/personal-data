@@ -53,7 +53,7 @@ Assessment ID,Assessment Group ID,Assessment Name
 52,6,Final Exam
 53,7,Participation and Attendance
 54,8,Roll Call Attendance
-55,15,Roll Call Attendance
+55,8,Roll Call Attendance
 56,9,Homework #1
 57,9,Homework #2
 58,9,Homework #3
@@ -76,7 +76,7 @@ Assessment ID,Assessment Group ID,Assessment Name
 75,9,Homework #20
 76,9,Homework #21
 77,9,Homework #22
-78,15,Feedback Extra credit
+78,8,Feedback Extra credit
 79,10,Hello Jack
 80,10,Project #1
 81,10,Project #2
