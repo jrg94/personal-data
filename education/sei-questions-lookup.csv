@@ -1,11 +1,11 @@
-Question ID,Question,Scale
-1,The subject matter of this course was well organized,5
-2,This course was intellectually stimulating,5
-3,This instructor was genuinely interested in teaching,5
-4,The instructor encouraged students to think for themselves,5
-5,The instructor was well prepared,5
-6,The instructor was genuinely interested in helping students,5
-7,I learned a great deal from this instructor,5
-8,The instructor created an atmosphere conducive to learning,5
-9,The instructor communicated the subject matter clearly,5
-10,"Overall, I would rate this instructor as",5
+Question ID,Question,Key Element
+1,The subject matter of this course was well organized,"Instructor's preparedness, organization of material, and clarity of presentation"
+2,This course was intellectually stimulating,"Students' sense of their own learning"
+3,This instructor was genuinely interested in teaching,"Rapport and instructor commitment"
+4,The instructor encouraged students to think for themselves,"Students' sense of their own learning"
+5,The instructor was well prepared,"Instructor's preparedness, organization of material, and clarity of presentation"
+6,The instructor was genuinely interested in helping students,"Rapport and instructor commitment"
+7,I learned a great deal from this instructor,"Students' sense of their own learning"
+8,The instructor created an atmosphere conducive to learning,"Rapport and instructor commitment"
+9,The instructor communicated the subject matter clearly,"Instructor's preparedness, organization of material, and clarity of presentation"
+10,"Overall, I would rate this instructor as","Overall"
