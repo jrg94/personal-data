@@ -16,7 +16,8 @@ differ from section to section, for obvious reasons, so it's
 stored here by semester. The list below details the following
 headers:
 
-- **Calendar ID**: a unique identifier linking back to a semester in the academic calendar
+- **Cohort Score ID**: a unique identifier for each cohort score
+- **Semester ID**: a unique identifier linking back to a semester in the academic calendar
 - **Question ID**: a unique identifier linking back to an SEI question
 - **Cohort**: a cohort (e.g., Department, College, or University)
 - **Mean**: an average score between 1 and 5
@@ -28,8 +29,23 @@ With each SEI report, there are a series of comments attached.
 To track those comments, a separate table was made with the following
 headers:
 
+- **SEI Comment ID**: a unique identifier for each comment
 - **Report ID**: a unique identifier linking back to an SEI report
 - **Comment**: a comment
+
+## Instructor Distributions
+
+With each SEI report, there is per-question breakdown of the
+Likert scale distributions. This document is a bit of a work-in-progress
+because there is just so much data to enter. That said, I hope one
+day to be able to display these distributions. The list below
+details the following headers:
+
+- **SEI Instructor Distribution ID**: a unique identifier for each distribution element
+- **SEI Report ID**: a unique identifier linking back to an SEI report
+- **SEI Question ID**: a unique identifier linking back to an SEI question
+- **Scale ID**: a unique identifier linking back to a particular Likert scale label
+- **Response Percentage**: a percentage between 0 and 100
 
 ## Instructor Scores
 
