@@ -1,4 +1,4 @@
-Section ID,Course ID,Calendar ID,Course Type,Section Days,Section Start Time,Section End Time,Section Building,Section Room Number,Educator Title,Educator Role
+Section ID,Course ID,Semester ID,Course Type,Section Days,Section Start Time,Section End Time,Section Building,Section Room Number,Educator Title,Educator Role
 7382,3,17,Lecture,WeFr,12:40,13:35,CL,177,Lecturer,Instructor of Record
 7384,3,17,Lab,TuTh,12:40,13:35,PO,155,Lecturer,Instructor of Record
 7381,3,17,Lecture,WeFr,13:50,14:45,CL,177,Lecturer,Instructor of Record
