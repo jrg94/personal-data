@@ -1,164 +1,203 @@
-Assessment ID,Assessment Group ID,Assessment Name
-1,1,Homework 1
-2,1,Homework 2
-3,1,Homework 3
-4,1,Homework 4
-5,1,Homework 5
-6,1,Homework 6
-7,1,Homework 7
-8,1,Homework 8
-9,1,Homework 9
-10,1,Homework 10
-11,1,Homework 11
-12,1,Homework 12
-13,1,Homework 13
-14,1,Homework 14
-15,2,Project 1
-16,2,Project 2
-17,2,Project 3
-18,2,Project 4
-19,2,Project 5
-20,2,Project 6
-21,2,Project 7
-22,2,Project 8
-23,2,Project 9
-24,2,Project 10
-25,2,Project 11
-26,2,Project 12
-27,3,Closed Lab 01
-28,3,Closed Lab 02
-29,3,Closed Lab 03
-30,3,Closed Lab 04
-31,3,Closed Lab 05
-32,3,Closed Lab 06
-33,3,Closed Lab 07
-34,3,Closed Lab 08
-35,3,Closed Lab 09
-36,3,Closed Lab 10
-37,3,Closed Lab 11
-38,3,Closed Lab 12
-39,3,Closed Lab 13
-40,3,Closed Lab 14
-41,4,Reading Quiz #1 - Fundamentals
-42,4,Reading Quiz #2 - Boolean Expressions
-43,4,Reading Quiz #3 - Loops
-44,4,Reading Quiz #4 - Nested Loops
-45,4,Reading Quiz #5 - Methods
-46,4,Reading Quiz #6 - Arrays
-47,4,Reading Quiz #7 - ArrayLists
-48,4,Reading Quiz #8 - File I/O
-49,4,Reading Quiz #9 - OOP
-50,5,Midterm I
-51,5,Midterm II
-52,6,Final Exam
-53,7,Participation and Attendance
-54,8,Roll Call Attendance
-55,15,Roll Call Attendance
-56,9,Homework #1
-57,9,Homework #2
-58,9,Homework #3
-59,9,Homework #4
-60,9,Homework #5
-61,9,Homework #6
-62,9,Homework #7
-63,9,Homework #8
-64,9,Homework #9
-65,9,Homework #10
-66,9,Homework #11
-67,9,Homework #12
-68,9,Homework #13
-69,9,Homework #14
-70,9,Homework #15
-71,9,Homework #16
-72,9,Homework #17
-73,9,Homework #18
-74,9,Homework #19
-75,9,Homework #20
-76,9,Homework #21
-77,9,Homework #22
-78,15,Feedback Extra credit
-79,10,Hello Jack
-80,10,Project #1
-81,10,Project #2
-82,10,Project #3
-83,10,Project #4
-84,10,Project #5
-85,10,Project #6
-86,10,Project #7
-87,10,Project #8
-88,10,Project #9
-89,10,Project #10
-90,10,Project #11
-91,11,Midterm Exam #1
-92,11,Midterm Exam #2
-93,12,Final Exam
-94,13,Participation
-95,17,Midterm Exam #1
-96,16,Quiz #1
-97,16,Quiz #2
-98,16,Quiz #3
-99,16,Quiz #4
-100,16,Quiz #5
-101,14,Top Hat
-102,14,TH-Attendance
-103,24,TH-Attendance
-104,23,Component Brainstorming
-105,23,Component Interfaces
-106,23,Component Abstract Classes
-107,23,Component Final
-108,18,Homework #1
-109,18,Homework #2
-110,18,Homework #3
-111,18,Homework #4
-112,18,Homework #5
-113,18,Homework #6
-114,18,Homework #7
-115,18,Homework #8
-116,18,Homework #9
-117,18,Homework #10
-118,18,Homework #11
-119,18,Homework #12
-120,18,Homework #13
-121,18,Homework #14
-122,18,Homework #15
-123,18,Homework #16
-124,18,Homework #17
-125,18,Homework #18
-126,18,Homework #19
-127,18,Homework #20
-128,18,Homework #21
-129,18,Homework #22
-130,18,Homework #23
-131,18,Homework #24
-132,18,Homework #25
-133,18,Homework #26
-134,18,Homework #27
-135,18,Homework #28
-136,18,Homework #29
-137,18,Homework #30
-138,18,Homework #31
-139,18,Homework #32
-140,18,Homework #33
-141,18,Homework #34
-142,18,Homework #35
-143,18,Homework #36
-144,18,Homework #37
-145,18,Activity #36
-146,18,Activity #46
-147,18,Activity #48
-148,19,Project #1
-149,19,Project #2
-150,19,Project #3
-151,19,Project #4
-152,19,Project #5
-153,19,Project #6
-154,19,Project #7
-155,19,Project #8
-156,19,Project #9
-157,19,Project #10
-158,20,Midterm Exam #1
-159,20,Midterm Exam #2
-160,21,Final Exam
-161,22,Participation
-162,8,TopHat
-163,8,TH-Attendance
+Assessment ID,Assessment Group ID,Assessment Name,Assessment Total
+0,0,TH-Attendance,39.0
+1,0,TH-Attendance,52.0
+2,0,TH-Attendance,35.0
+3,0,TH-Attendance,53.0
+4,0,TH-Attendance,46.0
+5,1,TH-Attendance,100.0
+6,1,Top Hat,100.0
+7,2,Closed Lab 01,2.0
+8,2,Closed Lab 02,2.0
+9,2,Closed Lab 03,2.0
+10,2,Closed Lab 04,2.0
+11,2,Closed Lab 05,2.0
+12,2,Closed Lab 06,2.0
+13,2,Closed Lab 07,2.0
+14,2,Closed Lab 08,2.0
+15,2,Closed Lab 09,2.0
+16,2,Closed Lab 10,2.0
+17,2,Closed Lab 11,2.0
+18,2,Closed Lab 12,2.0
+19,2,Closed Lab 13,0.0
+20,2,Closed Lab 13,2.0
+21,2,Closed Lab 14,2.0
+22,3,Final Exam,100.0
+23,4,Final Exam,100.0
+24,5,Final Exam,100.0
+25,6,Activity #36,2.0
+26,6,Activity #46,2.0
+27,6,Activity #47,2.0
+28,6,Activity #48,2.0
+29,6,Activity #49,2.0
+30,6,Homework #1,2.0
+31,6,Homework #10,2.0
+32,6,Homework #11,2.0
+33,6,Homework #12,2.0
+34,6,Homework #13,2.0
+35,6,Homework #14,2.0
+36,6,Homework #15,2.0
+37,6,Homework #16,2.0
+38,6,Homework #17,2.0
+39,6,Homework #18,2.0
+40,6,Homework #19,2.0
+41,6,Homework #2,2.0
+42,6,Homework #20,2.0
+43,6,Homework #21,2.0
+44,6,Homework #22,2.0
+45,6,Homework #23,2.0
+46,6,Homework #24,2.0
+47,6,Homework #25,2.0
+48,6,Homework #26,2.0
+49,6,Homework #27,2.0
+50,6,Homework #28,2.0
+51,6,Homework #29,2.0
+52,6,Homework #3,2.0
+53,6,Homework #30,2.0
+54,6,Homework #31,2.0
+55,6,Homework #32,2.0
+56,6,Homework #33,2.0
+57,6,Homework #34,2.0
+58,6,Homework #35,2.0
+59,6,Homework #36,2.0
+60,6,Homework #37,2.0
+61,6,Homework #4,2.0
+62,6,Homework #5,2.0
+63,6,Homework #6,2.0
+64,6,Homework #7,2.0
+65,6,Homework #8,2.0
+66,6,Homework #9,2.0
+67,7,Homework #1,2.0
+68,7,Homework #10,2.0
+69,7,Homework #11,2.0
+70,7,Homework #12,2.0
+71,7,Homework #13,2.0
+72,7,Homework #14,2.0
+73,7,Homework #15,2.0
+74,7,Homework #16,2.0
+75,7,Homework #17,2.0
+76,7,Homework #18,2.0
+77,7,Homework #19,2.0
+78,7,Homework #2,2.0
+79,7,Homework #20,2.0
+80,7,Homework #21,2.0
+81,7,Homework #22,2.0
+82,7,Homework #3,2.0
+83,7,Homework #4,2.0
+84,7,Homework #5,2.0
+85,7,Homework #6,2.0
+86,7,Homework #7,2.0
+87,7,Homework #8,2.0
+88,7,Homework #9,2.0
+89,8,Homework #1,2.0
+90,8,Homework #10,2.0
+91,8,Homework #11,2.0
+92,8,Homework #12,2.0
+93,8,Homework #13,2.0
+94,8,Homework #14,2.0
+95,8,Homework #15,2.0
+96,8,Homework #16,2.0
+97,8,Homework #17,2.0
+98,8,Homework #18,2.0
+99,8,Homework #19,2.0
+100,8,Homework #2,2.0
+101,8,Homework #20,2.0
+102,8,Homework #21,2.0
+103,8,Homework #22,2.0
+104,8,Homework #3,2.0
+105,8,Homework #4,2.0
+106,8,Homework #5,2.0
+107,8,Homework #6,2.0
+108,8,Homework #7,2.0
+109,8,Homework #8,2.0
+110,8,Homework #9,2.0
+111,9,Homework 1,2.0
+112,9,Homework 10,2.0
+113,9,Homework 11,2.0
+114,9,Homework 12,2.0
+115,9,Homework 13,2.0
+116,9,Homework 14,2.0
+117,9,Homework 2,2.0
+118,9,Homework 3,2.0
+119,9,Homework 4,2.0
+120,9,Homework 5,2.0
+121,9,Homework 6,2.0
+122,9,Homework 7,2.0
+123,9,Homework 8,2.0
+124,9,Homework 9,2.0
+125,9,Roll Call Attendance,100.0
+126,10,Midterm Exam #1,100.0
+127,11,Midterm Exam #1,100.0
+128,11,Midterm Exam #2,100.0
+129,12,Midterm Exam #1,100.0
+130,12,Midterm Exam #2,100.0
+131,13,Midterm I,100.0
+132,13,Midterm II,100.0
+133,14,Participation,4.0
+134,15,Participation,4.0
+135,16,Participation and Attendance,3.0
+136,17,Component Abstract Classes,4.0
+137,17,Component Brainstorming,12.0
+138,17,Component Final,0.0
+139,17,Component Interfaces,8.0
+140,18,Component Abstract Class,10.0
+141,18,Component Brainstorming,10.0
+142,18,Component Finishing Touches,50.0
+143,18,Component Interfaces,10.0
+144,18,Component Kernel Implementation,10.0
+145,18,Component Proof of Concept,10.0
+146,19,Hello Jack,0.0
+147,19,Project #1,10.0
+148,19,Project #10,10.0
+149,19,Project #11,10.0
+150,19,Project #2,10.0
+151,19,Project #3,10.0
+152,19,Project #4,10.0
+153,19,Project #5,10.0
+154,19,Project #6,10.0
+155,19,Project #7,10.0
+156,19,Project #8,10.0
+157,19,Project #9,10.0
+158,20,Project #1,10.0
+159,20,Project #10,10.0
+160,20,Project #2,10.0
+161,20,Project #3,10.0
+162,20,Project #4,10.0
+163,20,Project #5,10.0
+164,20,Project #6,10.0
+165,20,Project #7,10.0
+166,20,Project #8,10.0
+167,20,Project #9,10.0
+168,21,Project 1,10.0
+169,21,Project 10,10.0
+170,21,Project 11,10.0
+171,21,Project 12,10.0
+172,21,Project 2,10.0
+173,21,Project 3,10.0
+174,21,Project 4,10.0
+175,21,Project 5,10.0
+176,21,Project 6,10.0
+177,21,Project 7,10.0
+178,21,Project 8,10.0
+179,21,Project 9,10.0
+180,22,Reading Quiz #1 - Fundamentals,10.0
+181,22,Reading Quiz #2 - Boolean Expressions,10.0
+182,22,Reading Quiz #3 - Loops,10.0
+183,22,Reading Quiz #4 - Nested Loops,5.0
+184,22,Reading Quiz #5 - Methods,10.0
+185,22,Reading Quiz #6 - Arrays,3.0
+186,22,Reading Quiz #7 - ArrayLists,3.0
+187,22,Reading Quiz #8 - File I/O,3.0
+188,22,Reading Quiz #9 - OOP,4.0
+189,23,Quiz #1,30.0
+190,23,Quiz #2,30.0
+191,23,Quiz #3,30.0
+192,23,Quiz #4,30.0
+193,23,Quiz #5,30.0
+194,24,TH-Attendance,100.0
+195,24,Top Hat,100.0
+196,25,TH-Attendance,100.0
+197,25,Top Hat,100.0
+198,26,TH-Attendance,100.0
+199,26,Top Hat,100.0
+200,27,TH-Attendance,100.0
+201,27,Top Hat,100.0
