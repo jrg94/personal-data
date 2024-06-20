@@ -1,29 +1,26 @@
 Assessment Group ID,Assessment Group Name,Assessment Group Weight
-0,Assignments,0.0
-1,Assignments,0.0
-2,Closed Labs,4.0
+0,Closed Labs,4.0
+1,Final Exam,30.0
+2,Final Exam,30.0
 3,Final Exam,30.0
-4,Final Exam,30.0
-5,Final Exam,30.0
-6,Homework Assignments,6.0
-7,Homework Assignments,6.0
-8,Homework Assignments,10.0
-9,Homeworks,4.0
-10,Midterm Exams,15.0
-11,Midterm Exams,30.0
-12,Midterm Exams,30.0
-13,Midterm Exams,40.0
-14,Participation,4.0
+4,Homeworks,4.0
+5,Homeworks,6.0
+6,Homeworks,6.0
+7,Homeworks,10.0
+8,Midterm Exams,15.0
+9,Midterm Exams,30.0
+10,Midterm Exams,30.0
+11,Midterm Exams,40.0
+12,Miscellaneous,0.0
+13,Miscellaneous,0.0
+14,Participation,3.0
 15,Participation,4.0
-16,Participation and Attendance,3.0
-17,Pilot Project,0.0
-18,Portfolio Project,0.0
-19,Project Assignments,30.0
-20,Project Assignments,30.0
-21,Projects,15.0
-22,Quizzes,4.0
-23,Quizzes,45.0
+16,Participation,4.0
+17,Projects,0.0
+18,Projects,15.0
+19,Projects,30.0
+20,Projects,30.0
+21,Quizzes,4.0
+22,Quizzes,45.0
+23,Top Hat,0.0
 24,Top Hat,0.0
-25,Top Hat,0.0
-26,Top Hat Assignments,0.0
-27,TopHat,0.0
