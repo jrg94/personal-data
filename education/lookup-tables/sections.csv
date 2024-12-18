@@ -1,4 +1,10 @@
 Section ID,Course ID,Semester ID,Course Type,Section Days,Section Start Time,Section End Time,Section Building,Section Room Number,Educator Title,Educator Role,Enrollment Total
+11299,3,18,Lecture,WeFr,12:40,13:35,CL,177,Lecturer,Instructor of Record,41
+11300,3,18,Lab,TuTh,12:40,13:35,BE,470,Lecturer,Instructor of Record,41
+6946,3,18,Lecture,WeFr,15:00,15:55,DL,357,Lecturer,Instructor of Record,44
+6947,3,18,Lab,TuTh,15:00,15:55,DL,280,Lecturer,Instructor of Record,44
+6963,3,18,Lecture,WeFr,16:10,17:05,DL,357,Lecturer,Instructor of Record,46
+6967,3,18,Lab,WeFr,16:10,17:05,DL,280,Lecturer,Instructor of Record,46
 7382,3,17,Lecture,WeFr,12:40,13:35,CL,177,Lecturer,Instructor of Record,40
 7384,3,17,Lab,TuTh,12:40,13:35,PO,155,Lecturer,Instructor of Record,40
 7381,3,17,Lecture,WeFr,13:50,14:45,CL,177,Lecturer,Instructor of Record,41
